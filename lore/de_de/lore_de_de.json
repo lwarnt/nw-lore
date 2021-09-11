@@ -403,8 +403,8 @@
           "name": "Die Schmiede von Amrhein",
           "entries": {
             "01": {
-              "title": "Br\u00f6ckeliges Manifest",
-              "subtitle": "Ein altes Lieferungsmanifest mit versengter Ecke.",
+              "title": "Br\u00f6ckelige Inventarliste",
+              "subtitle": "Eine altes Lieferliste mit versengter Ecke.",
               "body": "Amrhein-Schmiede (angenommen von Meisterschmied Ezra) \\n\\nKohle, 1.200 Libra \\nEisenerz, 2.000 Libra \\nGeweihtes Silbererz, 35 Libra \\nBronzebarren, 300 Libra \\nLeder, 200 Libra \\nAzoth, kristallisiert, 10\u00a0Libra \\nRohholz, Eiche, 300 Libra \\n\\n\\nAmrhein-Schmiede (geliefert von Meisterschmied Ezra): \\n\\nEisenschwerter, 250 \\nBronzespeerspitzen, 600 \\nAzoth-St\u00e4be, 75 \\nMagische Pfeile, 1.000 \\n\\nAnmerkung von Ezra: \\n\\nYonas, mit so wenig Kohle bekommen wir die Esse kaum in Gang. Wenn wir diesen Krieg nicht mit St\u00f6cken und Steinen austragen wollen, ben\u00f6tige ich mehr Vorr\u00e4te. \\n\u2013 E "
             }
           }
@@ -1084,14 +1084,14 @@
               "body": "In letzter Zeit gab es noch mehr von diesen heftigen St\u00fcrmen. Von meinem Posten auf dem Wachturm aus sehe ich den Donnerschlag und die roten Blitze in der Entfernung. Ich habe Angst, dass ich nur abwarten kann, bis hier weitere \u00dcberlebende angesp\u00fclt werden. Die H\u00e4lfte derer, die hier angesp\u00fclt werden, sind zu gebrochen, um noch zu etwas gut zu sein, und werden wohl bald zu Ertrunkenen oder Hutzeligen. Bin ich wirklich so machtlos, dass ich nichts f\u00fcr sie tun kann?\\n\\n- Reese"
             },
             "02": {
-              "title": "Vorratsmanifest",
+              "title": "Vorratsliste",
               "subtitle": "Gefunden in: Immerfall-Wildschweinplage",
               "body": "Nahrungsvorr\u00e4te:\\n- 3 Kisten Beeren\\n- 10 Scheffel Mais\\n- 5 K\u00fcrbisse (mittelgro\u00df)\\n- 3 S\u00e4cke Weizen\\n \\nDas sollte bis zur n\u00e4chsten Lieferung reichen, Reese.\\n\\nTeilt es euch gut ein.\\n\\n- Tucket"
             },
             "03": {
               "title": "Hoch gepokert",
               "subtitle": "Gefunden in: Beringers Segen",
-              "body": "Ich habe mein Gl\u00fcck \u00fcberstrapaziert. Ich wage mich nur bis zu diesem Schiffswrack vor. \\n\\nIch habe schon einmal versucht, zu Huangs Hammer oder zumindest bis zu Henningers Harpyie zu gelangen, aber ich werde jedes Mal von Ertrunkenen angegriffen und ... \u00e4hm, \u201esterbe\u201c. \\nJedes Mal kehrt meine Seele etwas schw\u00e4cher wider. Ich darf nicht den Glauben verlieren, sonst sterben hier noch mehr. \\nIch muss vorsichtig und wachsam bleiben und auf Hilfe warten.\\n\\n- Reese\\n\\n"
+              "body": "Ich habe mein Gl\u00fcck \u00fcberstrapaziert. Ich wage mich nur bis zu diesem Schiffswrack vor. \\n\\nIch habe schon einmal versucht, zu Huangs Hammer oder zumindest bis zu Henningers Harpyie zu gelangen, aber ich werde jedes Mal von Ertrunkenen angegriffen und ... \u00e4hm, \u201esterbe\u201c. \\nJedes Mal kehrt meine Seele etwas schw\u00e4cher wieder. Ich darf nicht den Glauben verlieren, sonst sterben hier noch mehr. \\nIch muss vorsichtig und wachsam bleiben und auf Hilfe warten.\\n\\n- Reese\\n\\n"
             }
           }
         },
@@ -1159,7 +1159,7 @@
               "body": "Kapit\u00e4n Huang\\nErster Offizier Guo\\nTechnischer Leiter Jia\\nZweiter Offizier Zan\\nNavigator Yimu\\nBootsmann Jun\\nTakler Han\\nWundarzt Huo\\nIngenieur Shuren\\nKanonier Ah\\nKanonier Gengxin\\nQuartiermeister Meng\\nKoch Chin\\nMessoffizier Feng"
             },
             "03": {
-              "title": "Manifest von Huangs Hammer",
+              "title": "Inventarliste von Huangs Hammer",
               "subtitle": "Gefunden in: Huangs Hammer",
               "body": "\u2013 20 Kisten Unverderbliches\\n\u2013 15 Musketen\\n\u2013 200 Patronen\\n\u2013 25 Langschwerter\\n\u2013 Goldbarren f\u00fcr m\u00f6glichen Tauschhandel\\n\u2013 1 Milchziege"
             },
@@ -1661,7 +1661,7 @@
           "name": "Das Wrack von Windkreis",
           "entries": {
             "01": {
-              "title": "Das Manifest der Krone",
+              "title": "Inventarliste der Krone",
               "subtitle": "Gefunden in: Die Krone der Korpora",
               "body": "\u2013 5 F\u00e4sser Schie\u00dfpulver\\n\u2013 6 Patronenbeh\u00e4lter\\n\u2013 10 F\u00e4sser Getreide\\n\u2013 8 Kisten Salzfleisch\\n\u2013 10 Musketen\\n\u2013 15 Rapiere"
             },
@@ -2103,7 +2103,7 @@
               "body": "Kapit\u00e4nslogbuch, Tag eins:\\n\\nHeute setzen wir Segel, um etwas zu suchen, was lediglich eine Legende sein k\u00f6nnte. Das Land Aeternum, von dem man nur im Fl\u00fcsterton spricht, fasziniert mich schon lange. Die Mannschaft wei\u00df, was sie auf dieser Expedition erwartet und dass wir die Insel vielleicht niemals finden werden. Wir haben genug Vorr\u00e4te f\u00fcr mehrere Monate auf See, was uns eine ungehinderte Suche erm\u00f6glicht. Wir haben klaren Himmel und die Moral ist gut."
             },
             "03": {
-              "title": "Manifest von Kains Knoten",
+              "title": "Inventarliste von Kains Knoten",
               "subtitle": "Gefunden in: Kains Knoten",
               "body": "\u2013 20 Kisten Unverderbliches\\n\u2013 15 Musketen\\n\u2013 200 Patronen\\n\u2013 25 Langschwerter\\n\u2013 Goldbarren f\u00fcr m\u00f6glichen Tauschhandel\\n\u2013 1 Milchziege"
             }
@@ -2616,7 +2616,7 @@
               "body": "Kapit\u00e4n Capili\\nErster Offizier Tupu\\nTechnischer Leiter Salesa\\nZweiter Offizier Hoapili\\nNavigator Eketone\\nBootsmann Arona\\nTakler Hamakua\\nWundarzt Kekai\\nIngenieur Lavea\\nKanonier Fiso\\nQuartiermeister Sapani\\nKoch Rata\\nMessoffizier Pihopa"
             },
             "02": {
-              "title": "Manifest von Capilis Kr\u00f6nung",
+              "title": "Inventarliste von Capilis Kr\u00f6nung",
               "subtitle": "Gefunden in: Capilis Kr\u00f6nung",
               "body": "\u2013 3 Kisten Edelmetalle\\n\u2013 Schiffszwieback\\n\u2013 2 Pergamentrollen\\n\u2013 13 Beile\\n\u2013 15 B\u00f6gen\\n\u2013 5 Kisten mit Pfeilen"
             },
@@ -2687,7 +2687,8 @@
             },
             "04": {
               "title": "Das geeinte Land",
-              "subtitle": "Der Ruf des Hochk\u00f6nigs"
+              "subtitle": "Der Ruf des Hochk\u00f6nigs",
+              "body": "Liebste Maeve, \\n\\nich hoffe, dass es dir gut geht.\\n\\nDer Ruf des Hochk\u00f6nigs ist gekommen. Er ruft alle zu seinem Banner, um ein gro\u00dfes K\u00f6nigreich zu errichten, in dem Wohlstand herrscht.\\n\\nAuch wenn ich nicht geschickt im Umgang mit Waffen oder Magie bin, brauchen selbst die m\u00e4chtigsten Krieger und die weisesten Magier Tische, St\u00fchle und Betten, wenn sie vom Kampf m\u00fcde sind.\\n\\nWenn der Hochk\u00f6nig uns vor den Schrecken besch\u00fctzen kann, die dieses Land durchstreifen, schlie\u00dfe ich mich ihm gerne an.\\n\\nEs ist meine gro\u00dfer Wunsch, liebste Schwester, dass du dich dieser guten Sache ebenfalls anschlie\u00dft.\\n\\nCullum."
             }
           }
         },
@@ -2975,7 +2976,7 @@
               "body": "Oh, kommet ihr Jungen und M\u00e4del mit Augen so leuchtend fein!\\nZu h\u00f6ren eine Geschichte, die gibt jedem Seemann Pein!\\n\\nEs gibt da eine Insel, sie ist umgeben von St\u00fcrmen!\\nUnd seid gewarnt, sie nicht zu erz\u00fcrnen\u00a0\u2026\\n\\nBleibt also weg, wenn euch euer Leben lieb ist!\\n\\nAeternum, Aeternum, Land der lebenden Leichen!\\nAeternum, Aeternum, lass mich ziehen, ich will meine Heimat erreichen!"
             },
             "02": {
-              "title": "Ladungsmanifest",
+              "title": "Inventarliste",
               "subtitle": "Gefunden in: La Escamilla",
               "body": "Zwei Kisten mit Goldbarren, drei mit Silber und sechs mit Eisen. Sollte genug sein f\u00fcr Tauschgesch\u00e4fte mit anderen und um unsere Waffen in Top-Zustand zu halten.\\n\\nAchte aber genaustens auf den Grogvorrat, da sich Mattheson verd\u00e4chtig lange beim Frachtraum herumdr\u00fcckt\u00a0\u2013 und wir alle wissen genau, worauf er aus ist."
             }
@@ -4947,7 +4948,7 @@
             "02": {
               "title": "Vorschlag abgelehnt",
               "subtitle": "Nicabars Lager",
-              "body": "Mein genialer Philogus Nicobar,\\n\\n\\n\\n\\n\\nwir haben das doch bereits alles besprochen. Ich habe gro\u00dfen Respekt vor deiner Intelligenz und genau deshalb habe ich dich auch auf den Zackenkamm geschickt. Du hast die seltene Gelegenheit, die zahlreichen Geheimnisse zutage zu f\u00f6rdern, die die Ahnensch\u00f6pfer uns hinterlassen haben. Auf keinen Fall steht es dir an, den Willen unserer Sch\u00f6pfer infrage zu stellen. \\n\\nSelbst w\u00e4re dies m\u00f6glich, bed\u00fcrfte es dazu Kenntnissen, die denen der Ahnen gleichk\u00e4men, und diese besitzt selbst du nicht. Und selbst wenn, w\u00e4re es eine Beleidigung ihres g\u00f6ttlichen Plans, die W\u00e4chter f\u00fcr unsere eigenen Zwecke zu missbrauchen. \\n\\nIch vertraue darauf, dass du klug und mutig genug bist, um mir als Augen und Ohren auf der Grabungsst\u00e4tte auf dem Zackenkamm zu dienen, wie ich es angeordnet habe. Sollte ich mich t\u00e4uschen, ben\u00f6tigt Prefectus Barnabus einen Forscher f\u00fcr seinen Wachtrupp vor der Toten Zone. Es w\u00e4re mir eine Freude, dich ihm zu empfehlen.\\n\\n\\n\\nViel Gl\u00fcck bei deiner Forschungsarbeit\\n\\n\\nSophos Atticus"
+              "body": "Mein genialer Philogus Nicobar,\\n\\n\\n\\n\\n\\nwir haben das doch bereits alles besprochen. Ich habe gro\u00dfen Respekt vor deiner Intelligenz und genau deshalb habe ich dich auch auf den Zackenkamm geschickt. Du hast die seltene Gelegenheit, die zahlreichen Geheimnisse zutage zu f\u00f6rdern, die die Ahnensch\u00f6pfer uns hinterlassen haben. Auf keinen Fall steht es dir an, den Willen unserer Sch\u00f6pfer infrage zu stellen. \\n\\nSelbst w\u00e4re dies m\u00f6glich, bed\u00fcrfte es dazu Kenntnissen, die denen der Ahnen gleichk\u00e4men, und diese besitzt selbst du nicht. Und selbst wenn, w\u00e4re es eine Beleidigung ihres g\u00f6ttlichen Plans, die W\u00e4chter f\u00fcr unsere eigenen Zwecke zu missbrauchen. \\n\\nIch vertraue darauf, dass du klug und mutig genug bist, um mir als Augen und Ohren auf der Grabungsst\u00e4tte auf dem Zackenkamm zu dienen, wie ich es angeordnet habe. Sollte ich mich in dir aber t\u00e4uschen, ben\u00f6tigt Prefectus Barnabus einen Forscher f\u00fcr seinen Wachtrupp vor der Toten Zone. Es w\u00e4re mir eine Freude, dich ihm zu empfehlen.\\n\\n\\n\\nViel Gl\u00fcck bei deiner Forschungsarbeit\\n\\n\\nSophos Atticus"
             }
           }
         },
