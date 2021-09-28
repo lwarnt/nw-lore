@@ -3973,9 +3973,6 @@
             "body": "Consumable items often grant Status Effects. These are small, impermanent buffs to some aspect of your character.\\n\\nStatus Effects come from Tinctures made at Arcane Repositories or from high quality Meals and Drinks from Kitchens.\\n\\nStatus Effects cover a wide variety of effects, including things like increased Resistance to certain Afflictions, improved regeneration of Health, Stamina, or Mana, or high amounts of Absorption against a specific Attack Types.\\n\\nYou can see any active Status Effects above your Health, Stamina, and Mana bars. With the menu or Inventory screens open, you can hover your mouse over any Status Effect's icon for more details on what it does."
           }
         }
-      },
-      "null": {
-        "entries": {}
       }
     }
   },
