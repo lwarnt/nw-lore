@@ -9,8 +9,8 @@ It is published in good faith under the spirit of the [Content Usage Policy][nw-
 
 ### License
 
-*New World* is a trademark of Amazon Game Studios. I am not affiliated with or endorsed by Amazon Game Studios.
-All assets used belong to Amazon Game Studios and their respective owners.
+*New World* is a trademark of Amazon Games (formerly Amazon Game Studios). I am not affiliated with or endorsed by Amazon Games.
+All assets used belong to Amazon Games and their respective owners.
 
 This work is licensed under
 
