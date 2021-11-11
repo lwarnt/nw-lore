@@ -35,7 +35,7 @@
             "04": {
               "title": "Day Twenty Six",
               "subtitle": "Found near Cygnus",
-              "body": "A smear of blood obscures much of the text, but it's clearly written in a different hand than the previous entries.>\\n\\nStevens is dead. McKay is dead. I'm likely next.\\n\\nI don't know why they aren't coming back to life... not like we haven't all died once or twice or thrice before. Maybe we each have an allotment of lives, like cats? Maybe it has something to do with these obelisks?\\n\\nWhatever the case... the team is gone, and I'm trapped here. Whosoever finds this, please, re"
+              "body": "A smear of blood obscures much of the text, but it's clearly written in a different hand than the previous entries.\\n\\nStevens is dead. McKay is dead. I'm likely next.\\n\\nI don't know why they aren't coming back to life... not like we haven't all died once or twice or thrice before. Maybe we each have an allotment of lives, like cats? Maybe it has something to do with these obelisks?\\n\\nWhatever the case... the team is gone, and I'm trapped here. Whosoever finds this, please..."
             }
           }
         },
@@ -135,7 +135,7 @@
             "02": {
               "title": "Fate of the San Crist\u00f3bal",
               "subtitle": "Pilot Keyes' Journal",
-              "body": "We survived, although the San Crist\u00f3bal has not. The storm was fierce, perhaps the fiercest I have ever encountered, but the strength of our crew got us through\u2026 and perhaps God answered our prayers as well.\\n\\nThere is no trace of the Isabella's ship, the Santa Mar\u00eda, or the Santiago, and while I fear they may be lost, I refuse to give up hope \u2013 I will send crew out to search for them as soon as we are able: our fellow crew are our first priority. I know Captain Isabella would do the same, and if she is searching for us as much as we are searching for them, it will not be long before we are reunited.\\n\\nFor now, we are making camp, and we shall see what tomorrow brings.\\n\\nChief Pilot Keyes of the San Crist\u00f3bal"
+              "body": "We survived, although the San Crist\u00f3bal has not. The storm was fierce, perhaps the fiercest I have ever encountered, but the strength of our crew got us through\u2026 and perhaps God answered our prayers as well.\\n\\nThere is no trace of Isabella's ship, the Santa Mar\u00eda, or the Santiago, and while I fear they may be lost, I refuse to give up hope \u2013 I will send crew out to search for them as soon as we are able: our fellow crew are our first priority. I know Captain Isabella would do the same, and if she is searching for us as much as we are searching for them, it will not be long before we are reunited.\\n\\nFor now, we are making camp, and we shall see what tomorrow brings.\\n\\nChief Pilot Keyes of the San Crist\u00f3bal"
             },
             "03": {
               "title": "Stitcher's Ease",
@@ -345,7 +345,7 @@
             "05": {
               "title": "The March",
               "subtitle": "This letter is faded with age",
-              "body": "Captain Isabella has not yet said revealed our destination, and I am not sure she herself knows \u2013 she simply seems to be searching for something, and refuses to speak of it. The Heretic seems here to help her in her efforts, though his counsel has proven to our detriment, and to hers, I suspect.\\n\\nIn the morning, we march for the North. I for one, am glad to leave Nine-Man Knoll. I cannot bear that place, for I am angry at myself for those who were punished, yet still am relieved I was not a tenth man to join them.\\n\\n- Manuel"
+              "body": "Captain Isabella has not yet revealed our destination, and I am not sure she herself knows \u2013 she simply seems to be searching for something, and refuses to speak of it. The Heretic helps her in her efforts, though his counsel has proven to our detriment, and to hers, I suspect.\\n\\nIn the morning, we march for the North. I for one, am glad to leave Nine-Man Knoll. I cannot bear that place, for I am angry at myself for those who were punished, yet still am relieved I was not a tenth man to join them.\\n\\n- Manuel"
             },
             "06": {
               "title": "The Great Marsh",
@@ -551,6 +551,11 @@
               "title": "\u00c9mile's Investigation",
               "subtitle": "Written on a bar napkin",
               "body": "**The bar napkin is covered in scribbled writing. A ring-shaped stain from a beer glass makes it tough to read.**\\n\\n**A few words stand out from the jumble:**\\n\\n\\nCaptain Isabella and crew \\n\\n\"No survivors, no prisoners\" \\n\\nKilled one hundred, no, one thousand, no, TEN THOUSAND men \\n\\nDeal with the devil? (Corruption?) \\n\\n\\n\\nARCLIGHT CAVERNS"
+            },
+            "06": {
+              "title": "The Hibbotsfeld Menace",
+              "subtitle": "Found in a Hibbotsfeld Farmhouse",
+              "body": "Every week, another chicken goes missing. Sometimes 2 or 3!\\n\\nSneaky bastards come in the night, a whole gang of them. I've heard them chittering on and on.\\n\\nI set traps, but they always come up empty.\\nTomorrow night I'm going to hide out in the coop all night with my blunderbuss, we'll see who comes out on top!\\n\\nR. Leghorne\\n\\nHibbotsfeld"
             }
           }
         },
@@ -728,7 +733,7 @@
             "01": {
               "title": "Ranger Postings",
               "subtitle": "Given by Ranger Madaki",
-              "body": "Outpost Duty:\\nRanger Knatchbull \u2013 Eastburn\\nRanger Law \u2013 Cleave's Point\\nRanger Wardell \u2013 Last Stand\\nRanger Herb \u2013 Valor Hold\\nRanger Herath \u2013 Mountainrise\\nRanger Madaki \u2013 Mountainhome\\n\\nReconnaissance Duty:\\nRanger Balogun \u2013 Western Great Cleave\\n (Keep watch over Glass Lake)\\nRanger Fowler \u2013 Eastern Great Cleave\\n (Observe movements around Nullcavity)\\nRanger Nagelhout \u2013 Northeastern Edengrove\\n (Document activity; Leyroot Grove and this \"Spriggan Arena\")\\nRanger Chapman \u2013 Western Edengrove\\n (Monitor any travel near Bramblecliff)\\nRanger Rochford \u2013 Southern Shattered Mountain\\n (Record obvservations about the forges of Caminus)\\nRanger Demir \u2013 Northern Shattered Mountain\\n (Determine avenues of assault; Myrkgard and the Illurmin Rift)"
+              "body": "Outpost Duty:\\nRanger Knatchbull \u2013 Eastburn\\nRanger Law \u2013 Cleave's Point\\nRanger Wardell \u2013 Last Stand\\nRanger Herb \u2013 Valor Hold\\nRanger Herath \u2013 Mountainrise\\nRanger Madaki \u2013 Mountainhome\\n\\nReconnaissance Duty:\\nRanger Balogun \u2013 Western Great Cleave\\n (Keep watch over Glass Lake)\\nRanger Fowler \u2013 Eastern Great Cleave\\n (Observe movements around Nullcavity)\\nRanger Nagelhout \u2013 Northeastern Edengrove\\n (Document activity; Leyroot Grove and this \"Zygoramet's Grove\")\\nRanger Chapman \u2013 Western Edengrove\\n (Monitor any travel near Bramblecliff)\\nRanger Rochford \u2013 Southern Shattered Mountain\\n (Record obvservations about the forges of Caminus)\\nRanger Demir \u2013 Northern Shattered Mountain\\n (Determine avenues of assault; Myrkgard and the Illurmin Rift)"
             }
           }
         }
@@ -1683,7 +1688,7 @@
             "01": {
               "title": "A Coward's Farewell",
               "subtitle": "Found on the Road out of Windsward",
-              "body": "Sandris,\\n\\nI know I've lost the trust of the settlement, so don't try to convince me otherwise. That blowhard Dauti sits in the tavern all day, crafting stories of my cowardice to anyone who'll listen.\\n\\nAt first, I dismissed his falsehoods, believing the people of Windward would surely be able to see through the lies, but then I heard others repeating his fishwives' tales, and I had a moment of doubt. Was it cowardice that motivated me to abandon the Mines of Miclot to the Lost? Have we let the Lost Pirates on the coast grow too strong for us to ever be able to contain them?\\n\\nMaybe Dauti is right. I don't know anymore. I've decided to resign as Constable and leave Windsward. I'll visit my cousin in First Light and then return to Ebonscale to see if I can be any use there in strengthening the resistance to the Empress, as I have heard her ambitions have taken a dark turn.\\n\\nI'll send you this only after I've gone, because I won't allow you to convince me to stay again, and as much as I will miss you, I would ask you not to come after me.\\n\\nYou must stay in Windsward. If that bastard Dauti becomes Constable, as I expect, then the settlement will need you. Your patience, your optimism\u2026 they've been my strength. I thank you for that and hope we may meet again. On Aeternum, anything is possible. \\n\\nYour former Constable,\\n \\nTse Changying\\n"
+              "body": "Sandris,\\n\\nI know I've lost the trust of the settlement, so don't try to convince me otherwise. That blowhard Dauti sits in the tavern all day, crafting stories of my cowardice to anyone who'll listen.\\n\\nAt first, I dismissed his falsehoods, believing the people of Windward would surely be able to see through the lies, but then I heard others repeating his fishwives' tales, and I had a moment of doubt. Was it cowardice that motivated me to abandon the Mines De Miclot to the Lost? Have we let the Lost Pirates on the coast grow too strong for us to ever be able to contain them?\\n\\nMaybe Dauti is right. I don't know anymore. I've decided to resign as Constable and leave Windsward. I'll visit my cousin in First Light and then return to Ebonscale to see if I can be any use there in strengthening the resistance to the Empress, as I have heard her ambitions have taken a dark turn.\\n\\nI'll send you this only after I've gone, because I won't allow you to convince me to stay again, and as much as I will miss you, I would ask you not to come after me.\\n\\nYou must stay in Windsward. If that bastard Dauti becomes Constable, as I expect, then the settlement will need you. Your patience, your optimism\u2026 they've been my strength. I thank you for that and hope we may meet again. On Aeternum, anything is possible. \\n\\nYour former Constable,\\n \\nTse Changying\\n"
             },
             "02": {
               "title": "Constable Dauti's Journal",
@@ -2100,7 +2105,7 @@
             "02": {
               "title": "Kain's Captain's Log",
               "subtitle": "Found in Kain's Knot",
-              "body": "Captian's Log, Day One:\\n\\nToday we set sail for what may be but a legend. The land of Aeternum, spoken about in whispers, has long fascinated me. The crew knows what they're getting into with this expedition, and that is that we may never find the island at all. We have enough provisions to last us several months at sea which will allow our search to go unfettered. Skies are clear today, and morale is good."
+              "body": "Captain's Log, Day One:\\n\\nToday we set sail for what may be but a legend. The land of Aeternum, spoken about in whispers, has long fascinated me. The crew knows what they're getting into with this expedition, and that is that we may never find the island at all. We have enough provisions to last us several months at sea which will allow our search to go unfettered. Skies are clear today, and morale is good."
             },
             "03": {
               "title": "The Knot's Manifest",
@@ -2186,6 +2191,41 @@
               "title": "Lady Fathom",
               "subtitle": "A Seafarer\u2019s Myth",
               "body": "I have heard a few coastal fisherfolk refer to something they call the \u201cMother of the Deep.\u201d Aeternum, like other lands of this world, has its own unique folklore. Such tales are common, especially among seafaring people. But here, it is no easy feat to separate myth from reality.\\n                                                                                                    \\nThis entity is also sometimes known as Lady Fathom. Like Poseidon, Lir, or Njord of the Old World, her realm is the sea, and she is offered gifts in exchange for pleasant weather and bountiful fishing. It is said she is benevolent and protects those who call upon her.\\n\\nI wonder if such an entity could truly exist. I suppose there is no reason to doubt it. Not here, anyway. But thus far, I have discovered no reason to believe such stories either. It remains a mystery.\\n\\nZachariah the Scrivener"
+            }
+          }
+        },
+        "16": {
+          "name": "Woven Together",
+          "entries": {
+            "01": {
+              "title": "A Common Thread",
+              "subtitle": "Found in Clearwater Bend",
+              "body": "It is with great joy that I sit here writing tonight. There is a village not far from here which has the answer to all our problems! \\n\\nOur looms broke on our way here, and Campbell's Rest has a carpenter skilled enough to fix them! We were all so worried that our greatest livelihood would be stopped all because of a bumpy road and some strangely rotten wood. \\n\\nBut that's not all the good news. Here along the banks of the river we have gotten doubly lucky, for we were able to find a number of smooth stones that will work well for loom weights. \\n\\nThings are really looking up!"
+            },
+            "02": {
+              "title": "Threading Draft",
+              "subtitle": "Found in Campbell's Rest",
+              "body": "I tell you, there's something wrong with those looms over at Clearwater Bend. The wood - I don't know what happened, but it ain't natural. \\n\\nI'm almost afraid to leave the pieces lying about as I replace 'em. I've decided to burn the scraps, and mix the ashes in with the mud. If that doesn't keep us safe, I don't know what will. \\n\\nOur looms haven't been affected though I fear it's only a matter of time. I'm proud to say our fabric is still the finest weave this side of the island."
+            }
+          }
+        },
+        "17": {
+          "name": "The Tower of Light",
+          "entries": {
+            "01": {
+              "title": "Approaching the Tower",
+              "subtitle": "A tattered scrap of paper found outside of Elafry Pyrgo",
+              "body": "... way to this lighthouse to try and make contact with who ...\\n... ... ...the lights on. A useful landmark, to be sure, but ...\\n... weeks since I landed on this island, I've never ...  the\\nlights flicker or go out, even ..."
+            },
+            "02": {
+              "title": "The Empty Hall",
+              "subtitle": "Found in a passageway within Elafry Pyrgo",
+              "body": "Still nothing! Five days I've spent here, and for five days, not a single soul has appeared! I've wandered this hall searching for any signs of life, but to no avail. Statues of those we call the Ancients abound, and the rubble caused by nature's wrath and wear, but naught else but bones."
+            },
+            "03": {
+              "title": "Sphaera memoriae",
+              "subtitle": "Found tucked in a nook in Elafry Pyrgo",
+              "body": "These bones... strange. It is as if a person collapsed into the earth, leaving only their bones behind. Most of these piles contain fully formed skeletons, though it appears that animals have dragged away the long bones in some places.\\nNestled in each pile is a strange metallic orb. Is this some kind of ritual behavior? A token in memoriam of the fallen?\\nI fear no further answers await me in this place."
             }
           }
         }
@@ -2478,6 +2518,51 @@
               "title": "Daemonaja",
               "subtitle": "Moving Rocks in the Water",
               "body": "Have you ever stepped on a stone near the water only to have it slink away out from under you?\\n\\nYou may have encountered Hafgufa, then. This gigantic breed of fish uses the rock-like structures on its back to float near the surface and fool travelers into thinking they've stepped on steady ground. With how slippery the rocks are here in Mourningdale I must catch this Daemonaja before someone slips and breaks a neck.\\n\\nMachera, do you have any thoughts on this?"
+            }
+          }
+        },
+        "10": {
+          "name": "Perils of Pierre",
+          "entries": {
+            "01": {
+              "title": "Setting Out For Adventure!",
+              "subtitle": "Found at an old campsite along the road.",
+              "body": "I've made good time on my first day on the road! I've found a nice campsite, and am enjoying my tea by the fire. \\n\\nWhat a life! I feel the vagabond life may suit me! The stars above are a million diamonds on a velvet sky. \\n\\nTomorrow I shall visit the town of Amphus, famous for it's fudge!\\n\\nAdventure, here I come!\\n\\nPierre-Auguste"
+            },
+            "02": {
+              "title": "Red Dawn",
+              "subtitle": "Found in the town of Amphus",
+              "body": "The dawn came with no fanfare, the sky is red with Corruption.\\n\\nEverywhere that I have gone to the north here the Corrupt rule. They have driven the rest out.\\n\\nIt is a little concerning how pervasive they are. I came to visit a village, and found instead a warzone.\\n\\nIt would have put a damper on my walkabout, but I've found that most of these Corrupted are dimwitted and easy to evade.\\n\\nThe hounds sure keep me on my toes though! Tomorrow, the town of Ceremony!\\n\\nYours in adventure,\\nPierre-Auguste"
+            },
+            "03": {
+              "title": "Reeking Pods",
+              "subtitle": "Found in the town of Ceremony",
+              "body": "It seems the whole of the north is spoilt!\\n\\nSo much that I came north to see is already lost to those Corrupted, I've been lucky to escape their grasp!\\n\\nAt first they were a mere annoyance, but the farther north I've come, the worse they've become.\\n\\nThey seem to be planting red pods all around and where they are placed, the land is poisoned.\\n\\nI've only one more stop on my trip planned, the great tree in the north!\\n\\nbut by now I fear I will be disappointed.\\nYours in adventure,\\nPierre-Auguste"
+            }
+          }
+        },
+        "11": {
+          "name": "Posted Notes, and Public Bills",
+          "entries": {
+            "01": {
+              "title": "Looking for work!",
+              "subtitle": "Refugee of Ceremony Seeks Employment",
+              "body": "Hard working newcomer to town seeks employment in hospitality, scullery work, or security.\\n\\nNo housekeeping, laundry, or handmaidenry. \\n\\n\\n\\n\\nShort-term, schedule should allow for daily workouts and sword training.\\n\\nInquire at the Inn.\\n\\nL. Molefe"
+            },
+            "02": {
+              "title": "A New Flavor from the North!",
+              "subtitle": "Succulent Pork the Hibbotsfeld Way",
+              "body": "Our hogs enjoy a special diet, recieve daily deep-tissue massage, and enjoy a lullaby before bed each night to cultivate the most tender, succulent pork ever to be slow roasted over hardwood coals.\\n\\n\\nNothing beats it after a long day on the road or hard at work! Try some today at your local kitchen!\\n\\n\\nAsk for Harunobu."
+            },
+            "03": {
+              "title": "Heroes Abound!",
+              "subtitle": "Thanks for the inspiration!",
+              "body": "Here's to the brave soul that helped me to find my way on the roads north of the Settlement!\\nYou're a real inspiration. The muse will favor you, and in the end, I may write a song just about your great deeds!\\n\\nThere are still heroes in this world!\\n\\nJ. Jaanse"
+            },
+            "04": {
+              "title": "Dear Friend...",
+              "subtitle": "I've found the message in the song.",
+              "body": "Dear friend in song,\\n\\nThank you for all that you've done.\\n\\nWhile you were away, I figured out a fundamental truth about the song I'd been hearing, and it has set me free.\\n\\nListen closely, perhaps the music will save you too.\\n\\nJ. Jaansen."
             }
           }
         }
@@ -3183,6 +3268,31 @@
               "body": "Blue-blooded Barb, oh love of mine, behemoth of the deep. One day you shall be mine, and on that day I will take your corpse to Grand Fisher Machera and show him what I've learned, challenge him to a fish-off. Once I have you, I shall rule the fishing world on Aeternum."
             }
           }
+        },
+        "09": {
+          "name": "The Fur Trade",
+          "entries": {
+            "01": {
+              "title": "Geoff's First Letter",
+              "subtitle": "A New Venture",
+              "body": "I tell you Ambeline, we're going to strike it rich! \\n\\nWe've finally hit upon a scheme to make a lot of money for very little effort. It's perfect!\\n\\nWe farm the lynx, harvest their furs, and sell them up north. They always need more furs up north, and there is a lady who is willing to pay top dollar for 'em! \\n\\nNo more hunting expeditions ranging up and down the coast, we'll never have to leave our camp. \\n\\nWe've got the cats, and a good location. Now we just need more meat.\\n\\nWith any luck, we'll be home sooner than expected, and with more wealth than we'll know what to do with.\\n\\n\\nLots of love, \\n\\n~Your Dearest Geoff"
+            },
+            "02": {
+              "title": "Geoff's Second Letter",
+              "subtitle": "Unexpected Visitor",
+              "body": "My dearest Ambeline, you were right, it was too good to be true. \\n\\nJust when we thought things were going so well, Caryn showed up. \\n\\nWho is Caryn? Good question. We soon found out. \\n\\nSome crazy lady who believes animals shouldn't be hunted! Who believes that? \\n\\nSaid we better stop what we were doing and move along, or there'd be real problems. \\n\\nI told her it was too late. We weren't leaving, we had a good thing going here! \\n\\nThat's when told us what she did to Reynard. Pushing him into the lynx den. She wasn't messing around. \\n\\n\\nHope to get out of this mess,\\n\\n~Your Dearest Geoff"
+            },
+            "03": {
+              "title": "Geoff's Third Letter",
+              "subtitle": "Sabotage",
+              "body": "Hah! Caryn has no idea the scope of what we did. \\n\\nSure, she took out Benet, and Piers. But she still doesn't know about the wolves. \\n\\nOh, she suspects something, but she's so short sighted, not like us. \\n\\n We weren't only here for lynx fur. We've been flooding the local wolf den with hormones. Making them more violent. \\n\\nThey were already getting that way from having to compete with the lynx for food, but now they are a real menace. \\n\\nThey are so dangerous, people pay us to kill them. So we get paid twice, once for their deaths, and then again with their furs. \\n\\nWait, I hear something outside. Is it the snarl of a wolf? Did Caryn lure one here? \\n\\nForgive me, my love, but I have to check.\\n\\n\\n I hope this letter makes it to you someday if I do not return. \\n\\n~Your Dearest Geoff"
+            },
+            "04": {
+              "title": "Caryn's Goodbye Letter",
+              "subtitle": "Rule of Tooth and Claw",
+              "body": "If you have found this note, you have my thanks. What you have done was not pretty, indeed, it should not have happened at all. \\n\\nBut there are some people in the world who only know how to take, and never to give. \\n\\nIt was a hard mercy you gave those wolves, a mercy I couldn't give them myself. \\n\\nThe balance of Restless Shore has been restored. Now I am off to see justice done in the jungles to the northwest. \\n\\nThink of me, someday, when the alligators of Reekwater run free. \\n\\n\\n~Caryn Berzs"
+            }
+          }
         }
       }
     },
@@ -3832,8 +3942,7 @@
         "Attributes": {
           "entries": {
             "title": "Attributes",
-            "subtitle": "Core Abilities",
-            "body": "Most of a character's stats are derived from their Attributes. Each Attribute contributes to one or more important numbers, like maximum Health or Equip Load. There are 8 Attributes you can invest in:\\n  \u2022 Constitution: determines maximum Health and improves Frostbite Resistance.\\n  \u2022 Endurance: determines maximum Stamina, improves your Defense against Lightning Damage, and improves your Wound Resistance.\\n  \u2022 Physique: determines maximum Equip Load, improves your Defense against Physical Damage, and improves your Poison Resistance.\\n  \u2022 Strength: improves your Defense against Fire Damage and improves the damage done by many melee weapons. It is also required in order to equip many melee weapons.\\n  \u2022 Dexterity: improves your Absorption against Fall Damage and improves the damage done by ranged weapons and light melee weapons. It is also required in order to equip many weapons.\\n  \u2022 Intelligence: determines maximum Mana and improves your Defense against Fire Damage and Lightning Damage. It also improves the damage of Elemental Gauntlets, and is required to equip one.\\n  \u2022 Focus: determines Mana regeneration rate and improves your Defense against Magic Damage\\n  \u2022 Faith: determines maximum Mana, improves your Defense against Void Damage, and improves your Corruption Resistance. It also improves the effectiveness of Celestial Gauntlets, and is required to equip one.\\n\\nWhen you place points, you can see their effect on your stats before committing. Once committed, you will have to Respec in order to reallocate them."
+            "subtitle": "Core Abilities"
           }
         },
         "TradeSkills": {
@@ -3927,8 +4036,7 @@
         "Healing": {
           "entries": {
             "title": "Healing",
-            "subtitle": "Mitigating Damage Taken",
-            "body": "*Note: All controls are default, and can be changed in the Settings screen\\n\\nHealing outside of combat can be done by keeping your Food meter high and resting at your Camp. But these methods are too slow to help much during a fight. Instead, you may want to use Potions or team up and supply healing using a magical Celestial Gauntlet.\\n\\nPotions are consumables crafted at Arcane Repositories. There are several kinds of Potions that regenerate Health, Stamina, or Mana. Potions have a limited number of uses, so you'll need to resupply after running out. If you have Potions, remember to equip them to a Quickslot so you can use them in combat without stopping to rummage through your Inventory.\\n\\nCelestial Gauntlets are magic devices which are wielded like weapons, but serve a mostly opposite purpose. While wielding a Celestial Gauntlet, you can use [LMB] to place a magic rune at your feet that heals those within it. It has a moderate radius, allowing you to heal yourself and a number of other players in one casting. If you hold [RMB], you can aim this rune a short distance before clicking [LMB], allowing you to place it where it is most needed in a battle. Using this rune carries a heavy cost to Mana, so you may want to carry Potions to refill your Mana if you want to use a Celestial Gauntlet often.\\n\\nThe Celestial Gauntlet cannot deal damage, and can leave you vulnerable as you cast spells with it. It is best used within a group. Its effectiveness scales with your Faith Attribute."
+            "subtitle": "Mitigating Damage Taken"
           }
         },
         "DefenseAbsorption": {
@@ -4186,12 +4294,12 @@
             "02": {
               "title": "For Family and Aeternum",
               "subtitle": "02 Subtitle",
-              "body": "Genevieve, and even little Simon, have both been supportive of my efforts - perhaps more so when I suggested we move from the towns and pursue our lives where we were less likely to be caught in the middle of a company's feud.\\n\\nI made mention of an isle in the midst of Brightwood Lake, where we might find some manner of peace from the growing unrest on the rest of the isle\u2026 and at this, both of them seemed relieved. They have not been deaf to the rumors in the North, and I think they share the same fears as I do and wish to be far from any troubles that come.\\n\\nI did not tell them of the letter sent and my request \u2013 if it is not honored, I shall find another way. I only seek the safety of family \u2013 and a cure for this affliction that besets those that come to Aeternum!\\n\\n-M. Havelock, Archminister"
+              "body": "Genevieve, and even little Simon, have both been supportive of my efforts - perhaps more so when I suggested we move from the developing settlement and pursue our lives where we were less likely to be caught in the middle of a company's feud.\\n\\nI made mention of an isle in the midst of Brightwood Lake, where we might find some manner of peace from the growing unrest on the rest of the isle\u2026 and at this, both of them seemed relieved. They have not been deaf to the rumors in the North, and I think they share the same fears as I do and wish to be far from any troubles that come.\\n\\nI did not tell them of the letter sent and my request \u2013 if it is not honored, I shall find another way. I only seek the safety of family \u2013 and a cure for this affliction that besets those that come to Aeternum!\\n\\n-M. Havelock, Archminister"
             },
             "03": {
               "title": "Brightwood Lake",
               "subtitle": "03 Subtitle",
-              "body": "The isle is beautiful \u2013 the sight of the destination did much to quell my family's doubts on the wisdom of our relocation. I did not mention the cages that would soon be shipped to the isle, nor my equipment. I imagine the cages were doing the settlement little good \u2013 even criminals are being enlisted for the conflict in the North, if rumors are to be believed.\\n\\nI did not mention to Genevieve and my thoughts on the Corrupted, nor on who I believe to be their cousins: The Withered. We shall see if there is a link, and if so, test it!\\n\\n-M. Havelock, Archminister"
+              "body": "The isle is beautiful \u2013 the sight of the destination did much to quell my family's doubts on the wisdom of our relocation. I did not mention the cages that would soon be shipped to the isle, nor my equipment. I imagine the cages were doing the settlement little good \u2013 even criminals are being enlisted for the conflict in the North, if rumors are to be believed.\\n\\nI did not mention to Genevieve my thoughts on the Corrupted, nor on who I believe to be their cousins: The Withered. We shall see if there is a link, and if so, test it!\\n\\n-M. Havelock, Archminister"
             },
             "04": {
               "title": "An Answer",
@@ -4837,205 +4945,6 @@
         }
       }
     },
-    "Tales of Brimstone Sands": {
-      "chapters": {
-        "01": {
-          "name": "Legion Alchemist Albina's Journal",
-          "entries": {
-            "01": {
-              "title": "A Debate On \"Ethical\" Warfare",
-              "subtitle": "The Frontlines",
-              "body": "For the previous fortnight, the smell of Greek Fire reeked from the ashes of the dead New Corsican defenders strewn across the Frontline of the Scorched Battlefield. Smoke still rose from their oil soaked remains as nightfall approached on that Sol's Day. Admiring my creation's handiwork, I entertained the protests of a few New Corsican prisoners. The sychophant philosophers sought to unnerve me with rhetoric concerning \"ethical warfare\" in this so called Age of Enlightenment. \\n\\nIn their cross examination, these plebs purported that the Greek Fire I was preparing and rationing into casks was cruel and unethical, both in theory and in practice. They stuck out their chests as they claimed what I was creating was lacking of any virtue that the gods found admirable. I laughed heartily at their intellectual barbs and then returned in kind. \\n\\nI reminded these Socratic imbeciles that there were only two truth in regards to the \"ethics of war\". First, those with power who fail to use it to their advantage are nothing more than wasteful fools. Second, those who fall prey to power beyond their grasp are deserved victims, whose complaints are whispered from cold, dying lips."
-            },
-            "02": {
-              "title": "A Second Debate On \"Ethical\" Warfare",
-              "subtitle": "The Frontlines",
-              "body": "When dawn broke the next day, the New Corsicans were at it again, seeking to dissuade me in my purpose. The casks of \"Hydra's Breath\", my modified version of Greek Fire, would soon be dispatched to set ablaze their kinsman on the Frontline once more. \"All is just and virtuous for the glory of Rome and the 19th Legion\", I told them. The casks of my handiwork sat stacked in rows, only a few feet from their holding pit. \\n\\nThe one called Brutus appealed to my compassion and begged me to forsake my task at hand. He pleaded with me to seek the wisdom of Seer Atticus of New Corsica before my soul be torn from my entrails and banished to the Underworld. Another prisoner called me a cur and told me that the retribution of his Ancient creators would be swft and just. His kinsman joined in and chided me for committing such atrocities to their \"chosen people\". I bit my thumb at him and laughed whole heartedly at the lot of them! \\n\\nI am a man of science, reason, and opportunity while their skullcaps are filled to the brim with inepitas!"
-            },
-            "03": {
-              "title": "The Final Debate On \"Ethical\" Warfare",
-              "subtitle": "The Frontlines",
-              "body": "Damn their New Corsican tongues! Will their reprimanding never cease? Will their tongues never fall lame in their maddening acts of oratory? Brutus, acting as the voice and statesman of this New Corsican rabble, bombarded my poor ears for hours on end! His spineless voice hurled insults to provoke me and challenged me to engage him in spirited debate. I offered drafts of wine to any Legionnaire who could shutter his infuriating gob with a stone from their sling. \\n\\nTwo score times I watched stone meet bone. I smiled as the light faded from his pretentious eyes, only to have Brutus's voice resume as he crawled his way back from the dead. It was a never ending crusade of didactic accusations and talk of his so called standards for \"ethical\" warfare. For hours, I repelled the urge to look upon his repugnant face, holding my rage at bay from a distance. It was then I heard him speak viciously of of my cowardice, barbarism, and the weight of my sin contained in the nearby casks.\\n\\nUpon hearing his last string of insults, I could contain my resentment no longer! I loomed over the pit and stared down at the lot of them, casting a shadow worthy of Pluto himself. I set my smoldering gaze upon him. As I did, he blustered on about his immortal virtue... Up until I rolled a cask of my \"immoral\" concoction over the edge of the pit, setting it ablaze with my torch. The proceeding moments of tortured screams, crackling flesh, and gurgling pleas for mercy were but a pittance to pay for an undisturbed night of sleep."
-            }
-          }
-        },
-        "02": {
-          "name": "The Price of Freedom",
-          "entries": {
-            "01": {
-              "title": "A Letter from Emperor Agustus",
-              "subtitle": "Siege Camp",
-              "body": "Arminius,\\n\\n\\n\\n\\n\\nI find your offer of two hundred and fifty gold Aureus for the purchase of Vespasian, Terror of Troy, on the verge of insult. The cost of two lions is a meager offer for such a fine housebroken slave. I have seen him slay two lions with a mere Gladius. This slave fears nothing on the sands of the Proving Grounds. He is a death bringer! With every kill, he will bring the cheers of the masses and coin to your pocket.\\n\\n\\n\\nDo not misunderstand, while fearless and undefeated in the arena, he knows his place. He has been taught to cower under the heel of his owner and Legatus. Crassus himself trained him. This is a slave who will never take a sideways glance at you and will never long for freedom. He is as simple as he is ruthless.\\n\\n\\n\\n\\n\\nAs such, I demand no less than one thousand gold Aureus for him. At that price, you may send him to his death in a grand finale against whatever unbeatable odds you deem. His death will fuel the Glory of Rome and the entertainment of the Arena. Freedom was never Fate's design for such a man.\\n\\n\\n\\n\\n\\nEmperor Augustus"
-            },
-            "02": {
-              "title": "Vespassian's Rudis Inscription",
-              "subtitle": "Siege Camps",
-              "body": "-Vespasian\\n\\n\\n\\nYou are a student and slave no more. Face the new dawn with your freedom, my old friend! \\n\\nSoon your your Gladius wll be wet with the blood of my enemies.\\n\\n\\n\\n\\n\\n-Crassus"
-            }
-          }
-        },
-        "03": {
-          "name": "The Fate of Tarquin",
-          "entries": {
-            "01": {
-              "title": "The Legion's New Beginning",
-              "subtitle": "Burial Site",
-              "body": "Novae Terrae: Dies Mercurii Numerus CCCLXIV\\n\\n\\n\\nToday marks the seventh year, since our arrival here in this strange new world. Marcus Antonius and his fair Queen's bid for the Triumvirate was doomed from the start. Neither Crassus, the 19th Legion, nor I could triumph against such futile odds. Only the gods know if time flows in the same manner here, but \u201cThe Lovers\u201d are almost certainly doomed by Octavian's' wrath or their own hands by now.  Still, I do not regret the virtue for which we fought or the oath we took to Marcus Antonius. Without Love, Peace, and the Republic's promise of future prosperity what purpose does War serve? At times, in those rare moments of serenity, I muse that Marcus Antonius and his Queen could have made the long sojourn here with us, to this New World.  It would have granted their love an eternity to bloom.\\n\\n\\nDespite, the defeat we left behind and the obstacles Crassus and I now face, we have had acclimating to the many dangers present here in Brimstone Sands. We have successfully aided in the establishment of a new Roman settlement, called New Corsica. Here the remaining loyalists, advisors, and philosophers of Marcus Antonius's Republic now reside. With our new gift of immortality, these wise and virtuous men and women hope to explore higher minded pursuits than blood and battle. The Temple of the Ancients and their City of Ahket may prove to be such an endeavor. I have taken it on my honor to ensure that the people of New Corsica live in peace and prosperity for as long as we remain undying.\\n\\n\\n\\n\\n\\nCrassus, on the other hand, lacks the same ambition. While these citizens of Rome and Alexandria seek muses and high minded endeavors, Crassus hunts for retribution for himself and the Legion; something to wash the taste of shame and defeat from his mouth. He sets his aim on a new conquest worthy to draw the gaze of the gods upon us. Perhaps, in their divine amusement they will show us mercy and bid us a means to return to our glorious Rome once more.\\n\\n\\n\\n\\n\\nTruth be told, I pray nightly that Mars will temper Crassus's lust for battle. His constant pursuit of respect and acknowledgment are unbecoming qualities in a leader. He takes credit for other's deeds from past battles, mine in particular. Deeds that he has no ownership of, but feed the legend of his name. I humor his egotistical self adoration and allow it for now. I do so only to keep a united front and because many of the men quietly know the truth. Still, I fear a lifetime spent without fear of death may have ill effects on my \"old friend\" and force me to take action if it continues."
-            },
-            "02": {
-              "title": "Madness Personified",
-              "subtitle": "Burial Site",
-              "body": "Novae Terrae: Anno CCLXVIII\\n\\n  \\n\\nIt has been two hundred and sixty years since Crassus set the 19th Legion, my brothers, to the purpose of conquering these Ancients, which inhabit our new world. In this time we have found that we are not alone here. Many souls from other cultures and times also occupy this strange and cursed land, but none were worthy of Crassus's wrath. Instead, he seeks to defeat the gods of this world, these Ancients and claim whatever power they may possess \"for the Glory of the Legion and Rome\". The philosopher and statesman known as Atticus stands in opposition to his actions and has such garnered Crassus's indignation. Despite his prowess and leadership, Crassus has never given a stones weight of credence to that which reside outside the field of battle.\\n\\n\\n\\n\\nNow my worst fears have come to pass. Crassus has turned the full fury of the Legion on the people of New Corsica and those who would follow Atticus's beliefs. His face is no longer that of the friend I once knew. He is possessed by some unworldly force. He sees me as a threat and challenge to his power, not the advisor and consul I had hoped to be. As such, I have rallied a portion of the 19th's most virtuous men; old comrades whom have yet to lose their sense of humanity, to defend New Corsica. I will be the salvation of the Legion's former good name and unseat my friend turned tyrant from his war throne.\\n\\n\\n\\n\\n\\nWe are vastly outnumbered in this campaign. As such, I plan to use the Fabian Strategy, utilizing covert ambushes, sabotage, and attrition to whittle away at their numbers. This will double the toll this endless warmongering has taken on our former comrades' morales.  We will forgo the phalanx and cestus and utilize the minds of New Corsica to strike with cunning from the shadows. Crassus's sword arm and determination are formidable, but my oath to New Corsica is stronger than both. Let us see how the \"legend\" fares against the weight of his inflated deeds. Let us see what transpires when he faces the very men who made him the myth he claims to be."
-            },
-            "03": {
-              "title": "A New Dawn",
-              "subtitle": "Burial Site",
-              "body": "Novae Terrae: Anno CCLXX\\n\\n\\n\\n\\n\\nIt has come to this... \\n\\n\\n\\n\\n\\nCome tomorrow, a new dawn will rise on the Legion and New Corsica.\\n\\n\\n\\n\\nMy men and I stand on the eve of our final strike against \"Crassus the Mad\" and the corrupted souls of our former comrades. It took every bit of my men and I's resourcefulness to devise this coup, but I am confident every one of them is committed to our cause. Our raids have crippled Crassus's artillery and supply chains. Each and every day, Atticus's teachings bring those still redeemable back into New Corsica's service. Those few virtuous Legion brothers how cannot imagine an eternity of kinslaying.  \\n\\n\\n\\nWe have contacted three critical divisions of the Legion whose men have turned from their fear of Crassus. They have agreed to join us tomorrow in a final campaign against Crassus's forces. All three divisions will arrive in the early morning and be ready for a covert attack at dawn. If all goes to plan and we can successfully rout the remainder of the 19th Legion, I will confront Crassus in single combat to ensure that the monster is undone once and for all.\\n\\n\\n\\n\\n\\nCession was never my intent, nor were the two centuries of infighting that have come to pass. Tomorrow's victory will be no small task, a march into the Underworld and back. But for tonight, I insist my men put down their shields and swords in the pursuit of wine and good company. Tonight, we will drink and celebrate an end to war as friends, Romans, and New Corsicans alike. Perhaps, if the mood strikes me, I may even put down my cestus and bring forth my cithara for a change. \\n\\n\\n\\n\\nI know this much, if our assault fails to force Crassus to surrender... I am certain my singing will."
-            }
-          }
-        },
-        "04": {
-          "name": "In Love and War",
-          "entries": {
-            "01": {
-              "title": "Blood and Romance",
-              "subtitle": "19th Legion HQ",
-              "body": "Legatus Drusilla,\\n\\n\\n\\n\\n\\nMy redemption is at hand! I have access to the Temple's inner sanctum at last! The 19th Legion will not allow millenia of New Corsican fear and the misguided, blasphemous ideas of it's addled minded philosophers prevent me from bringing glory back to my legend. \\n\\nLegatus, I will not allow anything not even the fleeting tender moments we have shared since our arrival here to interfere with your capabilities as commander of my Centurions. Send your fastest horsemen with news from the Front Lines. Remember Drusilla, now is not the time for emotion, romance, or love... \\n\\nWe are at war and until that changes, neither will my regards towards you in the matter!  \\n\\nLegatus Legionis Crassus"
-            },
-            "02": {
-              "title": "A Plea and Promise",
-              "subtitle": "19th Legion HQ",
-              "body": "Crassus,\\n\\n\\n\\nThere has been an unrest on the outer perimeter. Covert attacks against our encampments there have demoralized and scattered our forces. Whoever is responsible has not only wounded the flesh but the loyalty of our Legionnaires. At first, I believed it to be that New Corsican confidant and coward, Niobe. She has shadowed our deployments in the region and been a thorn in our side. However, based on these recent attacks, I fear I am wrong. Whoever is responsible knows of our past. The men already mutter of the traitor we dispatched so long ago.  \\n\\nIs it possible Tarquin could still live? If so, the defeat dealt to him by your hands has only steeled his determination to be our undoing. I have done my best to keep the morale high, but since your departure, the fangs of our wolves grow dull. They need the fear and awe your legend inspires to motivate them, much the way your own touch has motivated my desire.\\n\\nTrust that I would never willingly disappoint you. It is Tarquin's accursed memory which plagues us, like a specter in the night. I have regrouped with my Prefects at the main Legion encampment and await your orders. Know this; if the traitor Tarquin or whoever impersonates him shows their head, I will lop it off and have it sent to you, as proof of my undying love.\\n\\n\\n\\n\\n\\nLegatus Drusilla"
-            },
-            "03": {
-              "title": "No Pittance of Pleasure",
-              "subtitle": "19th Legion HQ",
-              "body": "Legatus Drusilla,\\n\\n\\nI have gathered ten phalanx of the finest warriors the Legion has to offer to press our advantage in the Cursed Temple of our enemy. May Atticus and his Ancients be damned, along with all the New Corsican traitors who questioned my crusade! Within a fortnight, all of their heretic secrets will be mine and their power will bolster my legend and the glory of Rome for all time. Neither Markus Antonius's foolish tryst, nor the traitor Tarquin's defiance will stop me this time. You will not allow it!\\n\\nWhile I crush these Ancients' defenses and secure the Temple's secrets, you will prepare the remainder of the 19th Legion's forces to embrace their destiny. Stand my men at the ready and await my orders to lay siege to the rest of the pathetic, sycophants of this world. By my will, you will lash out with the power of these false gods and drive the spear of my 19th Legion into the heart of Aeturnum!\\n\\nI warn you now, Drusilla, do not fail me in this task. No pittance of pleasure that we have shared these decades will spare you my wrath if you do. Do not speak to me of your lust unless it is of your lust for battle!\\n\\nSteel yourself, ready your Prefects, and put them to task like the ravenous dogs of war they are. \\n\\nNew Corsica will fall by my hand and with it this entire world. I command it!\\n\\n\\n\\nLegatus Legionis Crassus"
-            }
-          }
-        },
-        "05": {
-          "name": "From the Mind of the Mad",
-          "entries": {
-            "01": {
-              "title": "Legatus Legionis's Journal Page 1",
-              "subtitle": "Ancient Temple",
-              "body": "Novae Terrae: Dies Martis CCCLIX\\n\\n\\n\\nWe have been damned us to a life in exile. I was a fool to put my faith in Marc Antony. He and his foriegn bride stirred our emotions with romantic sentiments of virtue. His foolish idealism and hope for a new Republic was damnation for my entire 19th Legion. Forced to turn tail and retreat to the coast, we were left with no choice. Traitors to our Empire, we watched defeated as the ships set sail in search of a port sympathetic to Marc Antony. Like dogs, we cowered and fled from a good and glorious death and the gods were not pleased.\\n\\n\\n\\n\\nMy legacy was to be secure alongside Achilles and Jason.  Instead, our paltry ship met Neptune's wrath in his own domain. It was as if Charybdis and Scylia thrashed about around us casuing an unimaginable maelstrom. Their jaws gnashing and tearing holes in our vessel. I was certain Jupiter himself would await if my eyes ever opened again. I was sure he would personally appear to further enforce his disappointment in his once favored son. But instead, we found ourselves here in the New World far from the prying eyes of our Roman gods. \\n\\n\\n\\n\\nFor the last year, I believed this exile to be a punishment; a penance for me alone to pay. For months, the entire Legion looking came to me for answers and orders. Each one asking the same fruitless questions about family and home. Their voices and expressions maddening to me! I am no oracle or scribe. Nay! I am a warrior of Rome! Ask me not of your children, wives, and meager homesteads. I do not care. What is gone is gone. What matters now is before us... \\n\\n\\n\\n\\nI ordered, my secundus, Tarquin to manage the men in their daily training and their irksome interrogations. I must have the proper time to gather my thoughts and assemble a plan of action.  \\n\\n\\n\\n\\nLegatus legionis Marcus Licinius Crassus"
-            },
-            "02": {
-              "title": "Legatus Legionis's Journal Page 2",
-              "subtitle": "Ancient Temple",
-              "body": "Novae Terrae: Anno CCLXV\\n\\n\\n\\nMars, damn these mindless philosophers!  We were all warriors once save for the New Corsican scholors and the foriegn, heathen servants of Marc Antony and his bride. If the so called brilliant mind of Atticus serves true, it has been over two hundred and fifty years since we set foot here. Marc Antony and his heretic wife are certainly long since dead and with good riddenence. It is now my time to recapture what their artful gifts for oratory rob from me and my exaltation to the status of myth. \\n\\n\\n\\nSee how weak their people are, these New Corsicans are not our fellow countrymen of Rome. Atticus and his lot have lost themselves in their higher learning and the Ancients of this world. Heretic! To dare compare the pitiful trace of divinity, this world considers gods to the mighty Pantheon of Rome is exactly that! Whatever power these Ancients possess, buried for one hundred mortal lifetimes in some arrid tomb, is not to be marveled at! It is to be conquered and its power used for the glory of Rome.\\n\\n\\n\\nIf Atticus had his way, my men would be laying down their Cesti and digging for old water jugs in the infernal heat of this desert. No, this is not what fate has planned for us... Nay, redemption, glory and honor through battle is our destiny!\\n\\n\\nJupiter and his kin have greater plans for Crassus and his 19th Legion.\\n\\n\\n\\nLegatus legionis Marcus Licinius Crassus"
-            },
-            "03": {
-              "title": "Legatus Legionis's Journal Page 3",
-              "subtitle": "Ancient Temple",
-              "body": "Novae Terrae: Anno Opscurus\\n\\n  \\n\\nIn mere hours, I will bathe in the light and favor of Elysium! \\n\\n\\n\\n\\nTarquin and his mislead virtue could not stop me and neither will Atticus! Druscilla and her failure-filled warnings be damned! Her mind is weak. It is poisoned by the incessant talk of love! This world is not yet a place for such things! Until the 19th Legion is once again imortalized in the eyes of Rome, such words should not even be uttered! \\n\\n\\n\\n\\nI know once, centuries ago, I felt something for her... How fierce Druscilla's beauty once was. She was a kindred spirit, a fellow Centurion, and I was smitten with her visage. Her cold, calculating, nature and lust for battle made for a suiting concubine then, but no longer. The poison of Atticus's followers have weakened her, as it has all of my soldiers. Her emotions have rotter her discipline. Her last message was proof of that. \\n\\n\\n\\n\\nI was not brought here to be a husband or a statesman... I was brought to this world for glory and redemption! \\n\\n\\n\\n\\nThere is no place for love or weakness in war. The New Corsicans spend their days on frivilous pursuits of so called virtue,  while I engage in a legendary campaign of conquest in the name of Rome and Jupiter himself!\\n\\n\\n\\n\\nAs I scribe these words, I tread the same soil the so called, \"Ancients\" of this new world once did.  I march to their hidden place of power with the thunderous stride of the 19th Roman Legion at my back! Let be known, any heathen \"god\" who dares defy me in my task this day will feel the fury of Mars upon their skull! \\n\\n\\nLet all future Romans know this... \\n\\nI am Marcus Licinius Crassus, most beloved son of Mars and Jupiter, the greatest Legatus legionis in the history of the Roman Empire, and Emperor of the First Age of a new Roman Empire! With the power of these heathens in my hands, all shall fall under my heel! \\n\\nFor the glory of Rome! "
-            }
-          }
-        },
-        "06": {
-          "name": "Nicabar's Lament",
-          "entries": {
-            "01": {
-              "title": "A Brilliant Proposal",
-              "subtitle": "New Corsica",
-              "body": "Wise and Noble Sophos Atticus,\\n\\n\\n\\nWhile I am forever grateful for the opportunity you have permitted me here, I feel my time here upon the Jagged Ridge is wasted. I have found a means to use what our Creators have left us for our own salavation. The Guardians that roam this place are wonderous, and poweful beyond comprehension. I would ask your permission and aid in continuing my research here. I believe it may be possible to take control of these Idols that protect the Ridge and employ them in the defense of New Corsica from Crassus or whomever else may seek to harm us. \\n\\nAs you know, I have always been the most gifted of all of your apprentices.  I know you have not seen it first hand, but this discovery can bring peace to New Corsica and end the centuries of war our people have suffered. All I ask of you is that you see the brilliance in my proposal. \\n\\nI want nothing more than your trust and support in pursing my discoveries. I know whole heartedly, that you would agree with my logical assessment of this. \\n\\nI await your confirmation and news of additional resources so I may prove my brilliance to you. \\n\\n\\n\\nYour humble servant.\\n\\n\\n\\nPhilogus Nicobar"
-            },
-            "02": {
-              "title": "Proposal Declined",
-              "subtitle": "Nicabar's Camp",
-              "body": "Brilliant Philogus Nicobar,\\n\\n\\n\\n\\n\\nWe have been over this before. I do respect your mind greatly which is why I have assigned you Jagged Ridge. You are being given a rare, opportunity to uncover the many secrets the Ancient creators have left for our people to discover. By no means is it in your purview to second guess the will of our Creators. \\n\\nEven if it was possible to do so, it would require an understanding on par with The Ancients themselves, which despite your intelligence you do not possess.  Even if you did, taking control of the Guardians for our own ends is an insult to the brilliance of their divine plan. \\n\\nI trust that you are both intelligent and courageous enough to be my eyes and ears at the dig site at Jagged Ridge, as I commanded you to be. If I am wrong, then I know Prefectus Barnabus has need of a researcher for his security team just outside the Dead Zone. I would be happy to refer you to him.\\n\\n\\n\\nGood fortune in your research,\\n\\n\\nSophos Atticus"
-            }
-          }
-        },
-        "07": {
-          "name": "The Departure",
-          "entries": {
-            "01": {
-              "title": "Ancient Papyrus Scroll",
-              "subtitle": "Ancient Temple",
-              "body": "So let it be written, so let this be known... \\n\\nI speak now to those who were forseen seeking wisdom beyond their grasp: \\n\\nI write this on behalf of the all-powerful, unknowables I exist to protect. \\n\\nThe beings you call Ancients, I call my Masters. Their wisdom has foretold of you.\\n\\nYour arrival in this Temple came to pass by their will.  \\n\\nMay this missive inform you all your Ancients wish you to know. \\n\\nBefore the dawn of your great empires, before you concocted divine imposters to name stars, my Masters swam in the void between all things. \\n\\nThey roamed freely across the land, sky, and seas of all worlds and all times. \\n\\nAll existence belongs to them. \\n\\nThey smiled upon your ignorance and simplicity. They permitted you to live among their splendor. \\n\\nThey gave you this world and all eternity to flourish in a cradle ofl life. \\n\\nThey provided gifts your ignorant eyes cannot even begin  to percieve. \\n\\nEven the most mundane object of their design have the capacity for virtuous or wicked ends. \\n\\nFor a millenia , my Masters walked among you and ruled you, until your simple nature could no longer serve or entertain them.  \\n\\nInstead, your Ancients became Ahket itself...  \\n\\nThey observe and scrutinize the mettle of humankind, their unfathomable wisdom judging your progress.  \\n\\nThey wait patiently for you to escape your infancy and walk on two feet or utter your first real truth.\\n\\nPray in that time, you do not become entitled, vapid beasts or their wrath will be harsh and swift. \\n\\n\\n\\n\\n\\nMedjay Akhar Rasul"
-            }
-          }
-        },
-        "08": {
-          "name": "Digging in the Dirt",
-          "entries": {
-            "01": {
-              "title": "Marcella's Research Notes  Page 1",
-              "subtitle": "Ancient Highway",
-              "body": "Ancients Rise: Day 989 of Excavation: Sophos Marcella Reporting\\n\\n\\n\\nRemoving the ruins left by countless natural catastrophes, tectonic shifts, other events, has been slow going initially. The discoveries we have made over the last nearly three years have been helpful to better understand the Ancients, but not what Atticus or I would have hoped for after three years of excavation. \\n\\n  \\n\\nThe upper levels of the City and even the area surrounding the Temple itself are relatively defenseless and unguarded. These defense may have been destroyed by natural events or initial attempts by others to gain access to the city and temple. This leads me to believe that the true secrets of Ahket and the Ancients are much deeper into the site, beyond the Ancient seals we have discovered. Regardless of the risk we must gain access to what lies beyond these wards. \u00a0"
-            },
-            "02": {
-              "title": "Marcella's Research Notes Page 2",
-              "subtitle": "Ancient Digsite",
-              "body": "Ancient's Rise: Day 1198 of Excavation: Sophos Marcella Reporting \\n\\n\\n\\nIf the tablets we have found are correct, the Ancients' seals act as a door to one of the Ancients' inner sanctums. These seals protects the Ancients' many wonders, science and magic far beyond our comprehension, from those unworthy to witness it. These wonders have sat waiting  millennia for us, the chosen people of New Corsica to discover them. Wonders left to enlighten us and set us on a true path of wisdom and prosperity. Accessing this knowledge and proving Atticus's theories are the most important discoveries for our entire culture."
-            },
-            "03": {
-              "title": "Marcella's Research Notes Page 3",
-              "subtitle": "Ancient Digsite",
-              "body": "Ancients Rise: Day 1230 of Excavation: Sophos Marcella Reporting \\n\\n\\n\\n\\n\\nI would never consider doing this if I were I not thoroughly convinced by Atticus's theories concerning New Corsica's birthright and our place among these Ancient beings, The tablets we have unearthed and \u00a0the markings on these seals might seem foreboding but I am not put off by their warnings.  \\n\\n\\n\\nThese warnings concerning \u201cwaking the Guardians\u201d are not meant for us. They are merely a means by which our Creators have kept New Corsica's birthright safe from those who would attempt to steal it. We are completely absolved of such threats of punishment. We must push forward now. The Ancients message awaits us. We must push forward without hesitation despite the dangers to ourselves."
-            }
-          }
-        },
-        "09": {
-          "name": "Ancient Knowledge",
-          "entries": {
-            "01": {
-              "title": "Ancient Guardian Inscription",
-              "subtitle": "Gates of Akhet",
-              "body": "May this wonderous achievement of the Ancients serve as a conflux for those who dwell below Akhet and those who have risen above it. \\nMay it serve as a confluence of mind, spirit, body, and time for all who come after and those who came before. \\n\\nBow your head as you enter, pilgrim! You are now bathed in the light of Netjer.\\n\\n\\nHigh Priest Abilil-Ilishu"
-            },
-            "02": {
-              "title": "A Lesson on Servitude",
-              "subtitle": "East Gates",
-              "body": "Do not marvel in the physical glory of what your eyes perceive. Your eyes are fragile and of the flesh.\\n\\n\\n\\n\\nDo not relish in the accomplishments of imortal souls. It is by The Ancients' designs that our souls are eternal.\\n\\n\\n\\n\\nDo not pray to the Ancients for wisdom. Instead, know that wisdom is their nature and serving servitude to their plan is ours \\n\\n\\n\\n\\n\\n\\n High Priest Abilil-Ilishu\\n\\n"
-            }
-          }
-        },
-        "10": {
-          "name": "The Cavalier",
-          "entries": {
-            "01": {
-              "title": "Cask of Wine Inscription",
-              "subtitle": "Clermont's Camp",
-              "body": "Dearest Cavalier Clermont,\\n\\n\\nMay your heart always be as true as your aim and your blade, mon fr\u00e8re. It has been a pleasure to have you serve with us.\\n\\nIsaac de Portau wishes to convey that the spirit upon which you will undoubtedly imbibe was his selection.\\n\\nHenry d'Aramitz wishes nothing, other than for you to run from this life of chivalry as fast as you possibly can.\\n\\nAnd last and of least consequence, I wish you long life, health, and to never grow stale and obstinate like the previous well-wishers have.\\n\\nIn truth, you are truly the best of us, Andre.\\n\\nAll for one, and one for all!\\n\\n\\n\\nYour brothers in arms,\\n\\nArmand de Sillegue, Seigner d'Athos et d'Autevielle and the Inseperables"
-            },
-            "02": {
-              "title": "Sieur of Artagna's Last Words",
-              "subtitle": "Phantom Tree",
-              "body": "My dearest brothers, \\n\\nIt saddens me that this may be my last correspondance to you. I regret that I will not have the opportunity to meet my end at your sides. \\n\\nThis God-forsaken Phantom Tree is swarmed by countless Lost souls; each one seeking pardon from their eternal pain and suffering. I fear this may be a battle I cannot win. \\n\\nIt is not the physical toll that wears on me, my friends. Rather, the weight on my soul. \\n\\nI find myself longing for my beloved and our blissful walks along the shores of Gastony. I yearn for the elation I felt fighting alongside The Inseparables, and Clermont as we stormed the Bastille for 'our' Louis! \\n\\nThis world is rich and wonderous, but it lacks that which I miss most.\\n\\nI can feel the sadness and longing pulling at my soul every moment and with every miserable soul I dispatch. I fear I have little time before my heart surrenders. \\n\\nUntil then, I will fight unto my last breath.\\n\\n\\n\\n\\n\\nAll for one, and one for all!\\n\\nYour brother in arms, \\n\\nCharles de Batz-Castelmore, Sieur of Artagna"
-            }
-          }
-        },
-        "11": {
-          "name": "Our Creators",
-          "entries": {
-            "01": {
-              "title": "Atticus's Dissertation",
-              "subtitle": "Oasis",
-              "body": "Citizens of New Corsica, \\n\\n\u00a0 \\n\\nAfter much research and thought, I have come to the conclusion that we were brought here for a purpose. This cradle of The Ancients' culture which surrounds us was not an occurrence of happenstance. It is fate which guided us here. It is destiny which laid these wonders before us. \\n\\n\u00a0 \\n\\nWith great oversight and deduction, I have determined that these Ancients, though known by many names and forms, are in truth our Creators, the very gods of Rome. It is my theory, which I am on the precipice of proving as truth, that the Ancients have led us here to be their new chosen people. \\n\\n\u00a0 \\n\\nNew Corsica sits at the dawn of a New Age of Enlightenment. I believe our Creators wish to communicate with us, teach us, and bless us with their knowledge so we can bring peace to this chaotic, New World. I ask that you do not place your faith in my word alone but to read my research and find the truth within for yourselves. \\n\\n\u00a0 \\n\\nVirtuously Yours, \\n\\n\u00a0 \\n\\nSophos Atticus"
-            }
-          }
-        },
-        "12": {
-          "name": "The Manitcore",
-          "entries": {
-            "01": {
-              "title": "Mysterious Riddle Etched On Carapace",
-              "subtitle": "Desert Citadel",
-              "body": "It stalks us by both night and day.\\n\\nAlways the hunter, never the prey.\\n\\nYou dare not sleep, nor look away.\\n\\nPoison stings, lead to decay. \\n\\nShriveled skin, so cold and grey.\\n\\nWhen will it strike? You never can say."
-            },
-            "02": {
-              "title": "The Riddle's Conclusion",
-              "subtitle": "Desert Citadel",
-              "body": "Bone white fortress, blood red sand,\\n\\nWith corpses piled as high a man.\\n\\nIf you wish to defeat it, you best have a plan.\\n\\nSword and shield had best be in hand.\\n\\nKilling brave heroes dead by the score,\\n\\nRoar, roar, comes the Manticore."
-            }
-          }
-        }
-      }
-    },
     "ThreeFactions": {
       "chapters": {
         "01": {
@@ -5169,6 +5078,153 @@
               "title": "The Box",
               "subtitle": "Found in The Depths",
               "body": "**A drawing of a sealed box is ferociously scribbled over with repeating phrases that you do not understand the meaning of.** \\n\\nMIMA PAD EFITWEK MAH AMBI! ERUWE\u00d1 PI\u00d1AB AXO! MIMA PAD EFITWEK MAH AMBI! ERUWE\u00d1 PI\u00d1AB AXO!"
+            }
+          }
+        }
+      }
+    },
+    "VarangianKnights": {
+      "chapters": {
+        "01": {
+          "name": "Tenacious Rose",
+          "entries": {
+            "01": {
+              "title": "Orders from Attalus",
+              "subtitle": "An official scroll, bound and stamped with an unfamiliar sigil",
+              "body": "Sir Ulfar,\\n\\nI gift you with orders and tidings of glory grim. You are hereby tasked to take Stonereach Keep at all costs. Establish a base to stage further campaigns.\\n\\nSir Rulav is to remain at the beach camp to coordinate the arrivals of new forces. He is the key to this entire initiative, though only he is entrusted with the finer points of this.\\n\\nI will arrive shortly. I expect a well-garrisoned keep waiting. Failure is the only sin, and I will be your most devoted confessor on some soon morrow. We are the Varikulaki. We are His fists.\\n\\nFor the glory of Iznovgorod!\\n\\nLord Commander Attalus"
+            }
+          }
+        },
+        "02": {
+          "name": "Threat From Afar",
+          "entries": {
+            "01": {
+              "title": "The Scout's Report",
+              "subtitle": "A report from a scout of First Light, spattered in blood",
+              "body": "Survivalist Riches,\\n\\nThey give chase. Barely escaped.\\n\\nYour visions of ships and dark riders prove wise. Armor-clad warriors infest these lands for some dread purpose at the behest of some Lord Commander.\\n\\nThese \u2018Varangians\u2019 are brutality incarnate. I was captured and tortured. Their methods were... dear God...\\n\\nThe hulking fiend named Sir Rulav was worst of all. His laughter will haunt me like a wraith.\\n\\nThe violence to my flesh tore a hole in my soul. I feel all that is me spilling out an ounce at a time. It will not be long before I join the Lost.\\n\\nI tried to speak familiar names, and all I heard were moans...\\n\\nIf indeed my fate is to enter the damnation of purgatory, I hope some figment of my life in your service echoes in my cold mind and heart.\\n\\nSemper Servus,\\n\\nScout Desdemona"
+            }
+          }
+        },
+        "03": {
+          "name": "Sir Rulav the Jovial, Porta Maris War Camp",
+          "entries": {
+            "01": {
+              "title": "An Easy Conquest",
+              "subtitle": "Letter to Sir Bertram",
+              "body": "My Bright One, \\n\\nThe warriors in these lands have grown soft since last we walked here. These cowards are no true knights. Their weapons are brittle, their armor inferior, and their skill at arms laughable. We will have little trouble claiming these lands from the men who hold them. \\n\\nThe Crimson Sickness still persists, however, and the restless shades of the dead exist in vast numbers. Myrddin\u2019s secrets must be found and secured if we are to meet these challenges effectively. The Lord Commander assures me we are close to discovering the old sorcerer\u2019s lair. Kari\u2019s wisdom has been most beneficial in this regard. \\n\\nSoon we shall be reunited, my beloved. I long to hold you in my arms and feel your warm breath on my face. We shall have a new home here. I have my eye on a few keeps. We shall decide which shall be ours together. \\n\\nUntil then, I shall dream of you and remember the intoxicating taste of your lips. \\n\\nSir Rulav \u00a0"
+            },
+            "02": {
+              "title": "Interrogation Orders",
+              "subtitle": "Show No Mercy",
+              "body": "The Lord Commander has been very clear about the treatment of prisoners. Anyone captured by our troops is to be interrogated using the most extreme methods available. There is to be no regard for the prisoner\u2019s age, sex, or trade. If after interrogation the prisoner has revealed nothing, they are to be immediately executed and their bodies burned. \\n\\nThese measures may seem cruel but the urgency of our task demands no less. There will be peace once we have fulfilled the wishes of our Great Lord. It is He who dispenses mercy, He who heals and unites. \\n\\nWe are Varikulaki and we obey His will in all things. \\n\\nSir Rulav"
+            },
+            "03": {
+              "title": "Various Sundries",
+              "subtitle": "War Camp Supply List",
+              "body": "barley, 8 sacks \\n\\nflour, 6 sacks \\n\\npickled pork, 5 barrels \\n\\nale, 12 barrels \\n\\nwater, 8 barrels \\n\\nrope, 400\u2019 \\n\\niron pincers, 4 pairs \\n\\nbellows, 2 \\n\\niron pokers, 6 \\n\\ngibbets, 4 \\n\\npears of anguish, 3 \\n\\nspiked collars, 6 \\n\\ncoffins, 8"
+            }
+          }
+        },
+        "04": {
+          "name": "Sir Ulfar the Wall, Stonereach Keep",
+          "entries": {
+            "01": {
+              "title": "A Matter of Honor",
+              "subtitle": "A Promising Development",
+              "body": "To my right worshipful and well-beloved mother,\\n\\n\\nI am grateful for your guidance and have taken your wise words to heart. But I fear my current circumstances do no allow me to act upon your counsel. For the moment, our Lord Commander has given his favor to Sir Rulav. A strong bond exists between the two as a result of their parts in securing the rise of Iznovgorod. Such a bond would make my petition for advancement fall on deaf ears.\\n\\n\\nFortune, however, has smiled upon your son. I have been given command of a fortress vital to establishing our position here. It is my belief that such an appointment shows that my time may come soon. Rulav is a formidable opponent on the field so a direct challenge would be foolhardy. I will instead do as my right noble and valorous father always advised and bide my time. I will know when the iron is hot.\\n\\n\\nI remain your devoted and loving son.\\nSir Ulfar"
+            },
+            "02": {
+              "title": "A Dark Invocation",
+              "subtitle": "Protection Against Harm",
+              "body": "I beseech you, Mother of Night, to keep me from harm and grant me victory on the field. I ask you to shatter the blades of my foes, split their shields, weaken their limbs, and blind their eyes. For the sake of this request, Dark Lady, I offer you the blood of my enemies as your sacred libation. Be benevolent and propitious and shield me in your eternal shadow."
+            },
+            "03": {
+              "title": "The Troubadour",
+              "subtitle": "My Garden",
+              "body": "How my talents are wasted on such base, brute butcher work! Mine is the grace of subtle swordsmanship, not heavy-handed cleaving. Mine is the ecstasy of penmanship, not this rote boorish torture. Ah well. All to the greater glory. \\n\\nI am a warrior, it is true, but I fancy myself part of the ancient tradition of the troubadour knight. I therefore must scriven to keep my mind sharp during these bloody doldrums. \\n\\nIn a half hour, I must rend a knave\u2019s flesh until he offers up the truth. But for now, I will try my hand at romantic verse. \\n\\nMY GARDEN\\nBefore you, my passion was a root-bound garden choked with weed.\\nBefore you, love was a cemetery devoid of seed.\\nBut now your name bestows joy to the gloom.\\nYour name, once uttered, brings my garden to bloom.\\nFor you, O celestial daughter\\nI water my garden with the wine of slaughter.\\nRomance by the blade,\\nMy enemies unmade.\\nIn every cold ear, I whisper your name.\\nAnd so you haunt the hearing canals of the dead.\\nLike the sea in a shell in a sandy bed. \\n\\nI do believe this is my finest verse yet.\\n\\nSir Ozur\u00a0 "
+            }
+          }
+        },
+        "05": {
+          "name": "Sir Frelav the Flame, Las Torres War Camp",
+          "entries": {
+            "01": {
+              "title": "A Common Knight",
+              "subtitle": "Conqueror of Mud",
+              "body": "Requisitioned a new spade. Again. Soon I\u2019ll be digging with just a stick. That\u2019s my lot now, digging up worm-eaten things or digging a hole to put in things for the worms to eat. \\n\\nA soul needs a good confessor, whether the ear of a trusted comrade or a good barkeep. Lacking both, I\u2019m practicing my letters to keep my head straight. Used to be mocked for being decent with my letters, back in the village. I caved their heads in but good. \\n\\nAll the wealthy knights keep playing their chess games up above. Rulav and Ulfar circle each other for a drop of Attalus\u2019s love. He in turn pines for our Lord and Master. But all the toil comes trickling down to us common foot soldiers. \\n\\nIt\u2019s all about finding damned relics and mystical baubles now. These quarrelsome knights slaver over the prospect of finding such things like starving hounds. We chase rumors of the comings and goings of magicians and conjurers. \\n\\nI\u2019ve dug up things that could plant a madness in your skull. But I don\u2019t got time for that rot. I just keep digging. I\u2019m the conqueror of mud. "
+            },
+            "02": {
+              "title": "Wonders of a New Land",
+              "subtitle": "An Opportunity",
+              "body": "We came to this land to conquer, but it is wise to observe those we conquer. The customs, fashions, and speech are a strange mix. Some are alien. Others are familiar. Rumors among the lower ranks have gone so far as to posit that this was once our home. The Lord Commander has ordered that such talk be silenced. \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \\n\\nWhere others find disquiet, I myself find opportunity. With such a bounty of variety around us, we might pick and choose that which we might bring into our own culture and thereby be strengthened. In fact, I took this notion from a soldier whom I bested in combat. He wielded an arquebus of magnificent design. I daresay it was superior to our own firearms. There is much we can learn here. \u00a0\u00a0 \\n\\nSir Yasen "
+            },
+            "03": {
+              "title": "A Formal Challenge",
+              "subtitle": "Trial by Combat",
+              "body": "Sir Vadislav, \\n\\nBy Varangian law and the rites of Lord Varik, I hereby formally challenge you to ritual combat. \\n\\nLong I have borne your thousand tiny injuries, but now you have ventured upon insult, and I will have satisfaction. If there is courage in your heart to match the venom in your words, you will arrive at the site of our landing within three days to answer this challenge. If not, you forfeit your valor and your place in our order, under Lord Varik\u2019s Law. \\n\\nBy blood, by stone, by marrow and bone, I challenge you. Steel is the only sacrament. Victory is the only god. \\n\\nEver the praises to Iznovgorod. Ever the praises to the Hammer. \\n\\nAwaiting at your pleasure, \\n\\nSir Anton "
+            }
+          }
+        }
+      }
+    },
+    "HouseofGiacomo": {
+      "chapters": {
+        "01": {
+          "name": "Futures of Aeternum",
+          "entries": {
+            "01": {
+              "title": "The Traitor's Path",
+              "subtitle": "Rough pulp paper, discarded near a campsite",
+              "body": "Too many eyes in the settlement, too many who might know him. I need time to figure out that gullible fool's notes. If he was right, we'll rule like kings on this island!\\nI'm moving ahead to get everything ready. Wait for a few hours, then follow to the second camp. I'll leave more instructions for you there."
+            },
+            "02": {
+              "title": "Burning Greed",
+              "subtitle": "A scrap of paper, partially burned",
+              "body": "......................at fool thought he coul.......... power of these\\nAncients, .... think he was on to something. We just need to sta......\\nof him, ............... particulars and get the ........ne built. Once\\neveryone knows we're ............. that can provide safety, ..........\\nflock to us - gold, azoth, women, power... everything will be ours for\\n... taking! Meet me at the camp near Chason Steep, we'll divide ......\\n......... plan our next move."
+            },
+            "03": {
+              "title": "Defense Against the Withered",
+              "subtitle": "From the notes of Albert Riches, First Light",
+              "body": "- 2 parts water from a flowing source\\n- 1 ground bone of Withered\\n- 3 pinches of beach sand\\n- Ashes from 1 long deck plank (cedar)\\n- 1 bunch of hyssop\\n- 2 vials of blood of Withered\\n- 2 pinches powdered silver"
+            },
+            "04": {
+              "title": "Voices in the Wind",
+              "subtitle": "A letter written in a rough hand, from a tent in Highpass Mining Camp",
+              "body": "Arrived here yesterday, Airic said this place had what's needed for the plan. With all we're collecting, think we'll need to up the cost to stay in one of our little safehouses... maybe we could even charge azoth! Wouldn't that be something! Few years time, we'll need to start finding places to stash away all that profit!\\nHeading to the caverns tomorrow, going to rest for a while. Strange... nobody's around, but I hear voices. Whispers. Must be the wind through the cliffs.\\n\\n...\\n\\nDamned creatures almost took my foot off! Patched myself up, but I'll be stuck here a bit. Just going to rest, listen to the voices in the wind."
+            },
+            "05": {
+              "title": "Chasing the Ancients",
+              "subtitle": "A loose page from a journal, found near a camp in Sunadire",
+              "body": "Only one piece left, and I'll be done. Ichor and water, just need some of those stones... then I'll be set. Haven't heard from the others, no messages anywhere. Guess that means I don't have to share!\\nHeading to Grus tomorrow, should find what I need there, then keep north. Maybe being away from these ruins will stop this buzzing..."
+            }
+          }
+        }
+      }
+    },
+    "KubikirisBurden": {
+      "chapters": {
+        "01": {
+          "name": "Sensou no Ko",
+          "entries": {
+            "01": {
+              "title": "Kubikiri's Occupation",
+              "subtitle": "Kubikiri in the old world.",
+              "body": "Kubikiri's youth and achieving the rank of Executioner. This is a memoir."
+            },
+            "02": {
+              "title": "Kubikiri's Rise",
+              "subtitle": "Kubikiri's ascent to royal executioner",
+              "body": "Kubikiri is given the axe Sensou no Ko as a mark of his rank."
+            },
+            "03": {
+              "title": "Kubikiri's Fall",
+              "subtitle": "The kami enters Kubikiri's mind",
+              "body": "The kami speaks to Kubikiri until he goes mad and kills his household, then flees to aeternum."
+            },
+            "04": {
+              "title": "Kubikiri's plea",
+              "subtitle": "Kubikiri pleads with the spirits to free him from the kami.",
+              "body": "Kubikiri is tormented by the kami and pleads for release."
             }
           }
         }

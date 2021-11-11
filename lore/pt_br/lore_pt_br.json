@@ -35,7 +35,7 @@
             "04": {
               "title": "Dia 26",
               "subtitle": "Encontrado perto de Cygnus",
-              "body": "Uma mancha de sangue oculta grande parte do texto e a caligrafia fica claramente distinta a partir daqui.>\\n\\nStevens est\u00e1 morto. McKay est\u00e1 morto. Provavelmente sou o pr\u00f3ximo.\\n\\nN\u00e3o sei porque n\u00e3o est\u00e3o ressuscitando... todos n\u00f3s j\u00e1 morremos antes, n\u00e3o \u00e9 a primeira vez. Ser\u00e1 que cada um de n\u00f3s tem uma cota de vidas, como os gatos? Talvez tenha alguma rela\u00e7\u00e3o com esses obeliscos?\\n\\nSeja l\u00e1 o que for... a equipe se foi e eu estou preso aqui. Quem quer que encontre isto, por favor, alc..."
+              "body": "Uma mancha de sangue oculta grande parte do texto e a caligrafia fica claramente distinta a partir daqui.\\n\\nStevens est\u00e1 morto. McKay est\u00e1 morto. Provavelmente sou o pr\u00f3ximo.\\n\\nN\u00e3o sei porque n\u00e3o est\u00e3o ressuscitando... todos n\u00f3s j\u00e1 morremos antes, n\u00e3o \u00e9 a primeira vez. Ser\u00e1 que cada um de n\u00f3s tem uma cota de vidas, como os gatos? Talvez tenha alguma rela\u00e7\u00e3o com esses obeliscos?\\n\\nSeja l\u00e1 o que for... a equipe se foi e eu estou preso aqui. Quem quer que encontre isto, por favor..."
             }
           }
         },
@@ -345,7 +345,7 @@
             "05": {
               "title": "A Marcha",
               "subtitle": "Esta carta desbotou-se com o tempo",
-              "body": "A Capit\u00e3 Isabella ainda n\u00e3o revelou nosso destino, e tenho minhas d\u00favidas se ela realmente sabe para onde vamos. Ela apenas parece estar em busca de algo, e se recusa a dar mais detalhes. Ao que tudo indica, o Herege est\u00e1 aqui para ajud\u00e1-la nesse trabalho, embora os conselhos dele tenham sido prejudiciais para n\u00f3s (e para ela tamb\u00e9m, suspeito).\\n\\nPela manh\u00e3, marchamos para o norte. Particularmente, estou feliz de deixar a Colina dos Nove Homens. N\u00e3o aguento mais este lugar, pois estou enfurecido comigo mesmo em raz\u00e3o daqueles que foram punidos. Ainda assim, \u00e9 um al\u00edvio n\u00e3o ter sido o d\u00e9cimo homem.\\n\\n- Manuel"
+              "body": "A Capit\u00e3 Isabella ainda n\u00e3o revelou nosso destino, e tenho minhas d\u00favidas se ela realmente sabe para onde vamos. Ela apenas parece estar em busca de algo, e se recusa a dar mais detalhes. O Herege est\u00e1 aqui para ajud\u00e1-la nesse trabalho, embora os conselhos dele tenham sido prejudiciais para n\u00f3s (e para ela tamb\u00e9m, suspeito).\\n\\nPela manh\u00e3, marchamos para o norte. Particularmente, estou feliz de deixar a Colina dos Nove Homens. N\u00e3o aguento mais este lugar, pois estou enfurecido comigo mesmo em raz\u00e3o daqueles que foram punidos. Ainda assim, \u00e9 um al\u00edvio n\u00e3o ter sido o d\u00e9cimo homem.\\n\\n- Manuel"
             },
             "06": {
               "title": "O Grande Brejo",
@@ -551,6 +551,11 @@
               "title": "A Investiga\u00e7\u00e3o de \u00c9mile",
               "subtitle": "Escrito num guardanapo de bar",
               "body": "**O guardanapo est\u00e1 coberto de garranchos. Uma mancha circular de um copo de cerveja dificulta a leitura.**\\n\\n**Algumas palavras se destacam do emaranhado de escrita:**\\n\\n\\nCapit\u00e3 Isabella e tripula\u00e7\u00e3o \\n\\n\u201cSem sobreviventes, sem prisioneiros\u201d \\n\\nMatou cem, n\u00e3o, mil, n\u00e3o, DEZ MIL homens \\n\\nPacto com o dem\u00f4nio? (Corrup\u00e7\u00e3o?) \\n\\n\\n\\nCAVERNAS ARCOLUZ"
+            },
+            "06": {
+              "title": "A Amea\u00e7a em Hibbotsfeld",
+              "subtitle": "Encontrado em uma casa rural em Hibbotsfeld",
+              "body": "Toda semana, some mais uma galinha. \u00c0s vezes 2 ou 3!\\n\\nOs malditos sorrateiros chegam \u00e0 noite, uma gangue inteira deles. Eu os ouvi tagarelando sem parar.\\n\\nMontei armadilhas, mas elas nunca pegam nada.\\nAmanh\u00e3 \u00e0 noite vou me esconder no galinheiro a noite inteira com meu bacamarte e vamos ver quem vai ficar por cima!\\n\\nR. Leghorne\\n\\nHibbotsfeld"
             }
           }
         },
@@ -728,7 +733,7 @@
             "01": {
               "title": "Publica\u00e7\u00f5es dos Patrulheiros",
               "subtitle": "Entregue por Madaki, a Patrulheira",
-              "body": "Servi\u00e7o no Posto Avan\u00e7ado:\\nPatrulheiro Knatchbull \u2013 Eastburn\\nPatrulheira Law \u2013 Ponto da Fenda\\nPatrulheiro Wardell \u2013 Confronto Final\\nPatrulheiro Herb \u2013 Por\u00e3o de Valor\\nPatrulheiro Herath \u2013 Ascens\u00e3o da Montanha\\nPatrulheira Madaki \u2013 Montelar\\n\\nServi\u00e7o de Reconhecimento:\\nPatrulheiro Balogun \u2013 Grande Fenda do Oeste\\n (Vigiar Lago Hialino)\\nPatrulheira Fowler \u2013 Grande Fenda do Leste\\n (Observar movimenta\u00e7\u00e3o na Cavidade Nula)\\nPatrulheiro Nagelhout \u2013 Bosque do \u00c9den a Nordeste\\n (Relatar atividade; Arvoredo de Raiz do Pasto e \u201cArena do Spriggan\u201d)\\nPatrulheira Chapman \u2013 Bosque do \u00c9den a Oeste\\n (Monitorar toda passagem pelo Penhasco do Espinheiro)\\nPatrulheiro Rochford \u2013 Montanha Arruinada ao Sul\\n (Anotar observa\u00e7\u00f5es sobre as forjas de Caminus)\\nPatrulheira Demir \u2013 Montanha Arruinada ao Norte\\n (Verificar passagens de ataque; Myrkgard e o Fosso de Illurmin)"
+              "body": "Servi\u00e7o no Posto Avan\u00e7ado:\\nPatrulheiro Knatchbull \u2013 Eastburn\\nPatrulheira Law \u2013 Ponto da Fenda\\nPatrulheiro Wardell \u2013 Confronto Final\\nPatrulheiro Herb \u2013 Abra\u00e7o da Bravura\\nPatrulheiro Herath \u2013 Ascens\u00e3o da Montanha\\nPatrulheira Madaki \u2013 Montelar\\n\\nServi\u00e7o de Reconhecimento:\\nPatrulheiro Balogun \u2013 Grande Fenda do Oeste\\n (Vigiar Lago Hialino)\\nPatrulheira Fowler \u2013 Grande Fenda do Leste\\n (Observar movimenta\u00e7\u00e3o na Cavidade Nula)\\nPatrulheiro Nagelhout \u2013 Bosque do \u00c9den a Nordeste\\n (Relatar atividade; Arvoredo de Raiz do Pasto e \u201cArvoredo de Zygoramet\u201d)\\nPatrulheira Chapman \u2013 Bosque do \u00c9den a Oeste\\n (Monitorar toda passagem pelo Penhasco do Espinheiro)\\nPatrulheiro Rochford \u2013 Montanha Arruinada ao Sul\\n (Anotar observa\u00e7\u00f5es sobre as forjas de Caminus)\\nPatrulheira Demir \u2013 Montanha Arruinada ao Norte\\n (Verificar passagens de ataque; Myrkgard e o Fosso de Illurmin)"
             }
           }
         }
@@ -808,7 +813,7 @@
           "name": "A Vit\u00f3ria do Arauto",
           "entries": {
             "01": {
-              "title": "\u200bRetratos na Parede",
+              "title": "Retratos na Parede",
               "subtitle": "Encontrado no Cemit\u00e9rio de Duna Tenebrosa",
               "body": "Meus seguidores terminaram a constru\u00e7\u00e3o do vilarejo, conforme minhas instru\u00e7\u00f5es. Passei bastante tempo planejando nosso futuro, mas uma coisa me preocupa: a Corrup\u00e7\u00e3o ao norte, depois do port\u00e3o Anci\u00e3o. E, embora tenham me chamado de idiota por isso, decidi encarar o mal por conta pr\u00f3pria.\\nSegui para o norte, depois do port\u00e3o, consegui passar despercebido em meio aos dem\u00f4nios o bastante para descobrir o que precisava fazer. Mas quis o destino que eu trilhasse outro caminho. Cruzando os passes da montanha, escorreguei e acabei caindo numa ru\u00edna dos Anci\u00f5es. L\u00e1 dentro havia artefatos e tesouros at\u00e9 o teto, mas o que mais me atraiu foram os murais na parede. N\u00e3o reconheci nada de espec\u00edfico ali \u00e0 primeira vista, mas, por ter dedicado tanto estudo \u00e0s mat\u00e9rias do esp\u00edrito, posso dizer que ali havia um ritual representado!\\nPelo pouco que vi dos murais, creio que os Anci\u00f5es tinham um m\u00e9todo para santificar regi\u00f5es da ilha, o que explica por que os assentamentos ao sul est\u00e3o protegidos contra os ataques. Os murais me mostraram como fazer isso! Essa bem pode ser a melhor maneira de proteger meu rebanho, dar a eles a paz que tantos merecem.\\nRecolhi os artefatos da caverna, tentando levar o m\u00e1ximo poss\u00edvel, para tentar recriar o que havia nos murais. Preciso determinar como o ritual era feito, para realiz\u00e1-lo aqui em favor do vilarejo, e n\u00e3o descansarei at\u00e9 fazer isso!"
             },
@@ -1900,7 +1905,7 @@
             "01": {
               "title": "Sorte Grande",
               "subtitle": "Encontrado nos Moinhos da Aurora",
-              "body": "\u200bAlguns morreram na viagem, outros enquanto pass\u00e1vamos pelas tormentas que cercam a ilha.\\nNosso navio se danificou, mas seguiu aos trancos e barrancos, e finalmente encontramos um assentamento para nos acolher. Moinhos da Aurora \u00e9 um vilarejo cheio de vida, todos contribuem trabalhando para fazer uma vida nova nesta ilha.\\nParece que as planta\u00e7\u00f5es crescem da noite para o dia, a popula\u00e7\u00e3o de animais ca\u00e7ados ressurge em quest\u00e3o de dias... aqui, em Aeternum, o tempo da fome, da acumula\u00e7\u00e3o de comida para sobreviver ao inverno, est\u00e1 muito distante.\\nTiramos a sorte grande."
+              "body": "Alguns morreram na viagem, outros enquanto pass\u00e1vamos pelas tormentas que cercam a ilha.\\nNosso navio se danificou, mas seguiu aos trancos e barrancos, e finalmente encontramos um assentamento para nos acolher. Moinhos da Aurora \u00e9 um vilarejo cheio de vida, todos contribuem trabalhando para fazer uma vida nova nesta ilha.\\nParece que as planta\u00e7\u00f5es crescem da noite para o dia, a popula\u00e7\u00e3o de animais ca\u00e7ados ressurge em quest\u00e3o de dias... aqui, em Aeternum, o tempo da fome, da acumula\u00e7\u00e3o de comida para sobreviver ao inverno, est\u00e1 muito distante.\\nTiramos a sorte grande."
             },
             "02": {
               "title": "Lutando contra os Imortais",
@@ -1915,7 +1920,7 @@
           }
         },
         "02": {
-          "name": "\u200bCaderno de Giroux",
+          "name": "Caderno de Giroux",
           "entries": {
             "01": {
               "title": "Receita do Desastre",
@@ -1945,7 +1950,7 @@
             "03": {
               "title": "Rosto Frio, Cora\u00e7\u00e3o Quente",
               "subtitle": "Encontrado em Forellac",
-              "body": "\u200bAh, aquele capataz das minas \u00e9 t\u00e3o gentil! Quando fui levar o \u00faltimo carregamento de peixes para Piqueta de Letum, ele tinha colhido flores para mim e preparou um belo piquenique para n\u00f3s dois.\\nN\u00e3o tive coragem de dizer para ele que n\u00e3o aguentava mais peixe... mas o p\u00e3o e a carne de coelho estavam maravilhosos.\\nEle \u00e9 um homem bom, e trata bem seus encarregados. N\u00e3o tenho d\u00favida de que tamb\u00e9m me trataria bem. Ele tem um feitio rude, como as pedras com que trabalha, mas me afei\u00e7oei dele.\\nDa pr\u00f3xima vez que nos encontrarmos, acho que vou sugerir a ele que pe\u00e7a permiss\u00e3o ao papai para me cortejar."
+              "body": "Ah, aquele capataz das minas \u00e9 t\u00e3o gentil! Quando fui levar o \u00faltimo carregamento de peixes para Piqueta de Letum, ele tinha colhido flores para mim e preparou um belo piquenique para n\u00f3s dois.\\nN\u00e3o tive coragem de dizer para ele que n\u00e3o aguentava mais peixe... mas o p\u00e3o e a carne de coelho estavam maravilhosos.\\nEle \u00e9 um homem bom, e trata bem seus encarregados. N\u00e3o tenho d\u00favida de que tamb\u00e9m me trataria bem. Ele tem um feitio rude, como as pedras com que trabalha, mas me afei\u00e7oei dele.\\nDa pr\u00f3xima vez que nos encontrarmos, acho que vou sugerir a ele que pe\u00e7a permiss\u00e3o ao papai para me cortejar."
             },
             "04": {
               "title": "O Cadinho Escarlate",
@@ -2186,6 +2191,41 @@
               "title": "Senhora da Compreens\u00e3o",
               "subtitle": "Um Mito dos Navegantes",
               "body": "Ouvi alguns pescadores costeiros se referirem a algo que chamam de \u201cM\u00e3e das Profundezas\u201d. Aeternum, assim como outras terras deste mundo, tem seu pr\u00f3prio folclore. Essas hist\u00f3rias s\u00e3o comuns, especialmente entre navegantes. Mas aqui, n\u00e3o \u00e9 f\u00e1cil distinguir o mito da realidade.\\n \\n\u00c0s vezes, essa entidade tamb\u00e9m \u00e9 conhecida como Senhora da Compreens\u00e3o. Assim como Poseidon, Lir ou Njord no Velho Mundo, o reino dela \u00e9 o mar, e ela recebe oferendas em troca de um clima agrad\u00e1vel e uma pesca abundante. Dizem que ela \u00e9 benevolente e protege quem a convoca.\\n\\nSer\u00e1 que tal entidade pode mesmo existir? N\u00e3o vejo motivo para duvidar. Pelo menos, n\u00e3o aqui. Mas at\u00e9 agora, tamb\u00e9m n\u00e3o descobri motivos para acreditar em tais hist\u00f3rias. O mist\u00e9rio permanece.\\n\\nZachariah, o Escriv\u00e3o"
+            }
+          }
+        },
+        "16": {
+          "name": "Entrela\u00e7ados",
+          "entries": {
+            "01": {
+              "title": "Um Fio Comum",
+              "subtitle": "Encontrado em Dobra de \u00c1guas Claras",
+              "body": "\u00c9 com grande alegria que me sento para escrever aqui esta noite. N\u00e3o muito longe daqui, h\u00e1 uma vila com a resposta para todos os nossos problemas! \\n\\nNossos teares quebraram no caminho para c\u00e1, e em Descanso de Campbell h\u00e1 um carpinteiro h\u00e1bil o bastante para consert\u00e1-los! Ficamos todos t\u00e3o preocupados com nosso maior sustento ser prejudicado, tudo por causa de uma estrada acidentada e uma madeira estranhamente apodrecida. \\n\\nMas as boas not\u00edcias n\u00e3o param por a\u00ed. Aqui ao longo das margens do rio, tivemos mais sorte ainda, pois conseguimos encontrar algumas pedras lisas que v\u00e3o funcionar bem como pesos para os teares. \\n\\nAs coisas est\u00e3o mesmo melhorando!"
+            },
+            "02": {
+              "title": "Instru\u00e7\u00f5es de Tear",
+              "subtitle": "Encontrado no Descanso de Campbell",
+              "body": "Estou dizendo, tem alguma coisa errada com os teares em Dobra de \u00c1guas Claras. A madeira \u2014 n\u00e3o sei o que aconteceu, mas isso n\u00e3o \u00e9 natural. \\n\\nFico quase com medo de deixar as pe\u00e7as soltas por a\u00ed enquanto as troco. Decidi queimar esses peda\u00e7os e misturar as cinzas com a lama. Se isso n\u00e3o nos mantiver seguros, n\u00e3o sei o que vai resolver. \\n\\nNossos teares n\u00e3o foram afetados, mas temo que seja s\u00f3 quest\u00e3o de tempo. Tenho orgulho de dizer que nosso tecido ainda \u00e9 o mais fino desta parte da ilha."
+            }
+          }
+        },
+        "17": {
+          "name": "A Torre da Luz",
+          "entries": {
+            "01": {
+              "title": "Aproximando-se da Torre",
+              "subtitle": "Um peda\u00e7o de papel surrado, encontrado do lado de fora de Elafry Pyrgo",
+              "body": "... caminho para este farol e tentar fazer contato com quem...\\n... ... ... as luzes acesas. Um marco \u00fatil, com certeza, mas...\\n... semanas desde que cheguei \u00e0 ilha, nunca... as\\nluzes tremulam ou se apagam, mesmo..."
+            },
+            "02": {
+              "title": "O Sal\u00e3o Vazio",
+              "subtitle": "Encontrado em uma passagem dentro de Elafry Pyrgo",
+              "body": "Nada ainda! Passei cinco dias aqui, e por cinco dias nem uma viva alma apareceu! Perambulei neste sal\u00e3o buscando qualquer sinal de vida, mas sem resultado. H\u00e1 uma abund\u00e2ncia de est\u00e1tuas daqueles que chamamos de Anci\u00f5es, e os escombros causados pela ira da natureza e pelo desgaste, mas n\u00e3o h\u00e1 mais nada al\u00e9m de ossos."
+            },
+            "03": {
+              "title": "Sphaera memoriae",
+              "subtitle": "Encontrado enfiado em um recesso em Elafry Pyrgo",
+              "body": "Esses ossos... que estranho. \u00c9 como se uma pessoa tivesse implodido terra adentro, deixando apenas seus ossos para tr\u00e1s. A maioria dessas pilhas cont\u00e9m esqueletos completos, embora aparentemente animais tenham arrastado os ossos longos em alguns locais.\\nCada pilha acomoda um estranho orbe met\u00e1lico. Ser\u00e1 algum tipo de ritual? Um s\u00edmbolo em mem\u00f3ria aos falecidos?\\nTemo que eu n\u00e3o v\u00e1 encontrar mais respostas neste lugar."
             }
           }
         }
@@ -2480,6 +2520,51 @@
               "body": "J\u00e1 pisou numa pedra perto de uma fonte de \u00e1gua s\u00f3 para que ela escapulisse debaixo dos seus p\u00e9s?\\n\\nPode ser ent\u00e3o que voc\u00ea tenha encontrado o Hafgufa. Esse peixe gigantesco usa as forma\u00e7\u00f5es rochosas que leva nas costas para flutuar perto da superf\u00edcie da \u00e1gua e enganar os viajantes que pensam estar pisando num solo firme. Mas, como as pedras do Vale das Lamenta\u00e7\u00f5es j\u00e1 s\u00e3o bastante escorregadias, preciso pegar essa Daemonaja antes que algu\u00e9m quebre o pesco\u00e7o.\\n\\nMachera, alguma ideia a respeito disso?"
             }
           }
+        },
+        "10": {
+          "name": "Perigos de Pierre",
+          "entries": {
+            "01": {
+              "title": "Partindo para uma Aventura!",
+              "subtitle": "Encontrado em um acampamento antigo \u00e0 beira da estrada.",
+              "body": "Avancei bastante em meu primeiro dia na estrada! Encontrei um bom lugar para acampar e estou tomando meu ch\u00e1 junto ao fogo. \\n\\nQue vida! Sinto que a vida de vagabundo \u00e9 para mim! As estrelas no alto s\u00e3o um milh\u00e3o de diamantes em um c\u00e9u de veludo. \\n\\nAmanh\u00e3 vou visitar a vila de Amphus, famosa por seu doce de leite!\\n\\nAventura, aqui vou eu!\\n\\nPierre-Auguste"
+            },
+            "02": {
+              "title": "Alvorada Vermelha",
+              "subtitle": "Encontrado na vila de Amphus",
+              "body": "O alvorecer veio sem alarde, com o c\u00e9u avermelhado pela Corrup\u00e7\u00e3o.\\n\\nEm qualquer lugar onde vou ao norte, a Corrup\u00e7\u00e3o reina. Eles expulsaram todos os outros.\\n\\n\u00c9 meio preocupante o quanto s\u00e3o pervasivos. Vim visitar um povoado e em vez disso encontrei uma zona de guerra.\\n\\nIsso teria atrapalhado minha caminhada, mas descobri que a maioria desses Corrompidos s\u00e3o est\u00fapidos e f\u00e1ceis de evitar.\\n\\nMas os c\u00e3es deles me d\u00e3o trabalho! Amanh\u00e3, vou \u00e0 vila de Cerim\u00f4nia!\\n\\nSeu aventureiro,\\nPierre-Auguste"
+            },
+            "03": {
+              "title": "Vagens Fedorentas",
+              "subtitle": "Encontrado na vila de Cerim\u00f4nia",
+              "body": "Parece que o norte inteiro est\u00e1 arruinado!\\n\\nTanta coisa que eu queria ver aqui no norte j\u00e1 se perdeu para os Corrompidos que foi muita sorte minha escapar das garras deles!\\n\\nA princ\u00edpio eram apenas um inc\u00f4modo, mas quanto mais ao norte vou, pior eles ficam.\\n\\nParecem estar plantando vagens vermelhas por toda parte; aonde elas s\u00e3o colocadas, a terra se envenena.\\n\\nS\u00f3 tenho mais uma parada planejada em minha viagem, a grande \u00e1rvore no norte!\\n\\nMas nessa altura temo que vai ser uma decep\u00e7\u00e3o.\\nSeu aventureiro,\\nPierre-Auguste"
+            }
+          }
+        },
+        "11": {
+          "name": "Notas Publicadas e Declara\u00e7\u00f5es P\u00fablicas",
+          "entries": {
+            "01": {
+              "title": "Procurando trabalho!",
+              "subtitle": "Refugiada de Cerim\u00f4nia Busca Emprego",
+              "body": "Trabalhadora esfor\u00e7ada, rec\u00e9m-chegada \u00e0 vila, busca emprego de hospedaria, copa ou seguran\u00e7a.\\n\\nNada de administra\u00e7\u00e3o dom\u00e9stica, lavanderia ou criadagem. \\n\\n\\n\\n\\nTrabalho de curto prazo que permita exerc\u00edcios e treinos de espada di\u00e1rios.\\n\\nPerguntar na Estalagem.\\n\\nL. Molefe"
+            },
+            "02": {
+              "title": "Um Novo Sabor do Norte!",
+              "subtitle": "Porco Suculento \u00e0 Moda de Hibbotsfeld",
+              "body": "Nossos porcos t\u00eam uma dieta especial, recebem massagens profundas diariamente e ouvem can\u00e7\u00f5es de ninar antes de dormir toda noite para que cultivem a carne de porco mais tenra e suculenta, que depois \u00e9 assada lentamente sobre carv\u00e3o de madeira de lei.\\n\\n\\nN\u00e3o h\u00e1 nada melhor depois de um dia inteiro de estrada ou trabalho duro! Experimente hoje mesmo em sua cozinha local!\\n\\n\\nPergunte por Harunobu."
+            },
+            "03": {
+              "title": "Her\u00f3is aos Montes!",
+              "subtitle": "Obrigada pela inspira\u00e7\u00e3o!",
+              "body": "Sauda\u00e7\u00f5es \u00e0 nobre alma que me ajudou a encontrar o caminho nas estradas ao norte do assentamento!\\nVoc\u00ea \u00e9 realmente uma inspira\u00e7\u00e3o. A musa vai te agraciar e, no fim das contas, talvez eu escreva uma can\u00e7\u00e3o sobre seus grandes feitos!\\n\\nAinda h\u00e1 her\u00f3is neste mundo!\\n\\nJ. Jaansen."
+            },
+            "04": {
+              "title": "Camarada...",
+              "subtitle": "Encontrei a mensagem na can\u00e7\u00e3o.",
+              "body": "Camarada musical,\\n\\nObrigada por tudo que voc\u00ea fez.\\n\\nEnquanto voc\u00ea estava longe, eu percebi uma verdade fundamental sobre a can\u00e7\u00e3o que tenho escutado, e ela me libertou.\\n\\nOu\u00e7a com aten\u00e7\u00e3o, talvez a m\u00fasica tamb\u00e9m salve voc\u00ea.\\n\\nJ. Jaansen."
+            }
+          }
         }
       }
     },
@@ -2747,7 +2832,7 @@
             "07": {
               "title": "Breve Descanso",
               "subtitle": "Encontrado na Fazenda Beira-Lago",
-              "body": "Tivemos sorte ao continuar em dire\u00e7\u00e3o ao norte. Encontramos terras f\u00e9rteis e decidimos reconstruir. Situado no meio dos penhascos que o cercam, logo encontramos um pequeno lago que serviu de descanso durante a jornada e possibilitou o replantio das nossas lavouras. Queimando as nossas ferramentas, descobrimos que o fogo limpava o mau cheiro da praga e continuamos atentos sobre como usamos o solo. Mas tamb\u00e9m n\u00e3o estamos seguros se aquelas aberra\u00e7\u00f5es de olhos vermelhos podem nos encontrar aqui. Talvez seja s\u00f3 quest\u00e3o de tempo...\\n\\n-F. Sneed"
+              "body": "Tivemos sorte ao continuar em dire\u00e7\u00e3o ao norte. Encontramos terras f\u00e9rteis e decidimos reconstruir. Situado no meio dos penhascos que o cercam, logo encontramos um pequeno lago que serviu de descanso durante a jornada e possibilitou o replantio das nossas lavouras. Queimando as nossas ferramentas, descobrimos que o fogo limpava o mau cheiro da praga. Continuamos atentos sobre como usamos o solo. Mas tamb\u00e9m n\u00e3o estamos seguros se aquelas aberra\u00e7\u00f5es de olhos vermelhos podem nos encontrar aqui. Talvez seja s\u00f3 quest\u00e3o de tempo...\\n\\n-F. Sneed"
             },
             "08": {
               "title": "Na Sombra de Outrolado",
@@ -3183,6 +3268,31 @@
               "body": "Barbo de Sangue Azul, \u00f3 meu amor, behemoth das profundezas. Um dia ser\u00e1 minha. Nesse dia, levarei seu cad\u00e1ver ao Grande Mestre de Pesca Machera para mostrar o que aprendi. Ent\u00e3o vou desafi\u00e1-lo para um duelo de pesca. Quando colocar minhas m\u00e3os em voc\u00ea, serei o rei do mundo da pesca em Aeternum."
             }
           }
+        },
+        "09": {
+          "name": "O Com\u00e9rcio de Peles",
+          "entries": {
+            "01": {
+              "title": "Primeira Carta de Geoff",
+              "subtitle": "Um Novo Empreendimento",
+              "body": "Estou dizendo, Ambeline, vamos ficar ricos! \\n\\nFinalmente encontramos um esquema para ganhar muito dinheiro com pouqu\u00edssimo esfor\u00e7o. \u00c9 perfeito!\\n\\nCriamos os linces, retiramos suas peles e as vendemos no norte. Eles sempre precisam de mais peles no norte, e h\u00e1 uma senhora que est\u00e1 disposta a pagar muito caro por elas! \\n\\nChega de expedi\u00e7\u00f5es de ca\u00e7a subindo e descendo a costa! Nunca teremos que deixar nosso acampamento. \\n\\nTemos os gatinhos e uma boa localiza\u00e7\u00e3o. Agora s\u00f3 precisamos de mais carne.\\n\\nCom sorte, estaremos em casa mais cedo do que o esperado e com mais riqueza do que jamais imaginado.\\n\\n\\nCom muito amor, \\n\\n~Seu querido Geoff"
+            },
+            "02": {
+              "title": "Segunda Carta de Geoff",
+              "subtitle": "Visitante Inesperada",
+              "body": "Minha querida Ambeline, voc\u00ea estava certa, era bom demais para ser verdade. \\n\\nLogo quando achamos que as coisas estavam indo bem, Caryn apareceu. \\n\\nQuem \u00e9 Caryn? \u00c9 uma boa pergunta. Logo descobrimos. \\n\\nUma louca que acredita que n\u00e3o se deve ca\u00e7ar animais! Quem acredita nisso? \\n\\nDisse que era melhor pararmos com o que estamos fazendo e ir embora, ou ter\u00edamos problemas s\u00e9rios. \\n\\nEu disse a ela que era tarde demais. N\u00e3o vamos embora, temos algo muito bom aqui! \\n\\nFoi a\u00ed que ela contou o que fez com o Reynard. Ela o empurrou para o covil dos linces-pardos. Ela n\u00e3o estava brincando. \\n\\n\\nEspero me livrar dessa confus\u00e3o.\\n\\n~Seu querido Geoff"
+            },
+            "03": {
+              "title": "Terceira Carta de Geoff",
+              "subtitle": "Sabotagem",
+              "body": "Haha! Caryn n\u00e3o faz ideia do tamanho do nosso trabalho. \\n\\nTudo bem, ela eliminou Benet e Piers. Mas ela ainda n\u00e3o sabe dos lobos. \\n\\nAh, ela suspeita de alguma coisa, mas \u00e9 limitada demais, ao contr\u00e1rio de n\u00f3s. \\n\\n N\u00e3o viemos aqui apenas por causa da pele de lince-pardo. Andamos enchendo o covil local dos lobos com misturas alqu\u00edmicas para deix\u00e1-los mais violentos. \\n\\nEles j\u00e1 estavam ficando assim por ter de competir com os linces-pardos em busca de comida, mas agora eles s\u00e3o uma amea\u00e7a de verdade. \\n\\nEst\u00e3o t\u00e3o perigosos que as pessoas nos pagam para mat\u00e1-los. Assim acabam nos pagando duas vezes, uma para mat\u00e1-los e a outra pelas peles deles. \\n\\nEspere, ouvi alguma coisa l\u00e1 fora. \u00c9 o rosnado de um lobo? A Caryn atraiu um para c\u00e1? \\n\\nMe perdoe, amor, mas preciso ir conferir.\\n\\n\\n Espero que esta carta chegue at\u00e9 voc\u00ea algum dia, caso eu n\u00e3o volte. \\n\\n~Seu querido Geoff"
+            },
+            "04": {
+              "title": "Carta de Despedida de Caryn",
+              "subtitle": "Olho por Olho e Dente por Dente",
+              "body": "Se voc\u00ea encontrar este bilhete, tem minha gratid\u00e3o. O que voc\u00ea fez realmente n\u00e3o foi bonito, nem deveria ter acontecido. \\n\\nMas h\u00e1 gente no mundo que s\u00f3 sabe tomar, sem nunca dar de volta. \\n\\nVoc\u00ea deu uma clem\u00eancia dif\u00edcil a esses lobos, eu mesma n\u00e3o fui capaz de d\u00e1-la. \\n\\nO equil\u00edbrio da Costa Tempestuosa foi restaurado. Agora vou lutar por justi\u00e7a nas selvas a noroeste. \\n\\nLembre-se de mim algum dia, quando os jacar\u00e9s de \u00c1guas F\u00e9tidas andarem \u00e0 solta. \\n\\n\\n~Caryn Berzs"
+            }
+          }
         }
       }
     },
@@ -3576,8 +3686,8 @@
         },
         "FirstLight": {
           "entries": {
-            "title": "Preterido: Bug aqui! Esta\u00e7\u00e3o Primaluz",
-            "body": "Por ordem de Malcolm Rotheschilde, Senhor deste posto, todos os peregrinos s\u00e3o bem-vindos \u00e0 Esta\u00e7\u00e3o Primaluz.\\n\\nAqui, a primeira luz de Aeterna acena para todos aqueles que buscam estas margens. Assim como ela nos chamou com seu esplendor divino, a outros ela chamar\u00e1. Mas em suas sombras jaz o perigo \u2014 passe a noite na Esta\u00e7\u00e3o Primaluz, pois dem\u00f4nios Definhados infestam a Ba\u00eda Arrebent\u2019\u00e1gua ao sudoeste. Esqueletos de exploradores, em suas mortes lentas e desprovidos de sua carne, marcam os caminhos para alertar os imprudentes \u2014 se decidir viajar para a Ba\u00eda, nenhuma equipe de resgate ir\u00e1 at\u00e9 voc\u00ea \u2014 e ningu\u00e9m lamentar\u00e1 a sua morte.\\n\\nAli\u00e1s, tome cuidado com o farol ao leste. Os caminhos que cercam a base do monumento s\u00e3o trilhados por um tipo diferente de morte, mais antiga do que n\u00f3s, talvez mais antiga do que qualquer um \u2014 e ela ainda empunha l\u00e2minas antigas, seus olhos ardendo com Azoth.\\n\\nEssas n\u00e3o s\u00e3o meras hist\u00f3rias para assustar crian\u00e7as \u2014 s\u00e3o a mais pura verdade. N\u00e3o ouse coloc\u00e1-las \u00e0 prova."
+            "title": "Preterido: Bug aqui! Esta\u00e7\u00e3o Primeira Luz",
+            "body": "Por ordem de Malcolm Rotheschilde, Senhor deste posto, todos os peregrinos s\u00e3o bem-vindos \u00e0 Esta\u00e7\u00e3o Primeira Luz.\\n\\nAqui, a primeira luz de Aeternum acena para todos aqueles que buscam estas margens. Assim como ela nos chamou com seu esplendor divino, a outros ela chamar\u00e1. Mas em suas sombras jaz o perigo \u2014 passe a noite na Esta\u00e7\u00e3o Primeira Luz, pois dem\u00f4nios Definhados infestam a Ba\u00eda Arrebent\u2019\u00e1gua ao sudoeste. Esqueletos de exploradores, em suas mortes lentas e desprovidos de sua carne, marcam os caminhos para alertar os imprudentes \u2014 se decidir viajar para a Ba\u00eda, nenhuma equipe de resgate ir\u00e1 at\u00e9 voc\u00ea \u2014 e ningu\u00e9m lamentar\u00e1 a sua morte.\\n\\nAli\u00e1s, tome cuidado com o farol ao leste. Os caminhos que cercam a base do monumento s\u00e3o trilhados por um tipo diferente de morte, mais antiga do que n\u00f3s, talvez mais antiga do que qualquer um \u2014 e ela ainda empunha l\u00e2minas antigas, seus olhos ardendo com Azoth.\\n\\nEssas n\u00e3o s\u00e3o meras hist\u00f3rias para assustar crian\u00e7as \u2014 s\u00e3o a mais pura verdade. N\u00e3o ouse coloc\u00e1-las \u00e0 prova."
           }
         },
         "WeaversStation": {
@@ -3589,7 +3699,7 @@
         "WeaversPost": {
           "entries": {
             "title": "Preterido: Bug aqui! Entreposto do Tecel\u00e3o",
-            "body": "Comerciantes, Artes\u00e3os e Companhias de todos os tipos \u2014\\n\\nvoc\u00eas s\u00e3o bem-vindos para negociar, mas jamais derramem sangue aqui.\\n\\nSem duelos, sem lutas, nada disso \u00e9 permitido,\\n\\nmesmo que Aeterna, de alguma forma, venha a permitir a viol\u00eancia neste dom\u00ednio.\\n\\nFa\u00e7am bom proveito da forja e da pousada, mas para aqueles que buscam problemas,\\n\\ncaiam fora daqui e v\u00e3o atazanar outro lugar."
+            "body": "Comerciantes, Artes\u00e3os e Companhias de todos os tipos:\\n\\nvoc\u00eas s\u00e3o bem-vindos para negociar, mas jamais derramem sangue aqui.\\n\\nSem duelos, sem lutas, nada disso \u00e9 permitido,\\n\\nmesmo que Aeternum, de alguma forma, venha a permitir a viol\u00eancia neste dom\u00ednio.\\n\\nFa\u00e7am bom proveito da forja e da estalagem, mas para aqueles que buscam problemas,\\n\\ncaiam fora daqui e v\u00e3o atazanar outro lugar."
           }
         },
         "WeaversPeak": {
@@ -3600,12 +3710,12 @@
         "MonarchStation": {
           "entries": {
             "title": "Preterido: Bug aqui! Esta\u00e7\u00e3o Monarca",
-            "body": "Essa pode ser a BA\u00cdA DO MONARCA, mas neste forte N\u00c3O h\u00e1 reis, rainhas, lordes e nenhum outro maldito da realeza \u2014 apenas aqueles dispostos a TRABALHAR nesta terra e FICAR ao lado de seus queridos IRM\u00c3OS E IRM\u00c3S.\\n\\nAZOTH n\u00e3o vem de gra\u00e7a, mas, pelo menos aqui, voc\u00ea EST\u00c1 ao lado de outros que, como voc\u00ea, podem NUNCA mais voltar a ver seus lares e se dedicaram a tornar AETERNA deles \u2014 n\u00e3o para algum lorde, nem para um rei ou rainha, mas pela PROMESSA de um futuro que o Azoth traz.\\n\\nP.S. Se voc\u00ea se orgulha de ser um Estudioso \u2014 N\u00c3O precisamos de voc\u00ea. As palavras escritas aqui s\u00e3o o m\u00e1ximo que devem ser gastas neste recinto.\\n\\nP.S.S. Se voc\u00ea carrega a marca do Sinal Vermelho \u2014 voc\u00ea vale menos do que um Estudioso e menos ainda do que um c\u00e3o. Se estiver em busca de sua \u201cfortuna\u201d, procure-a se afogando nos Corrompidos da Fenda, pois essa \u00e9 a \u00fanica fortuna que sua cobi\u00e7a merece."
+            "body": "Essa pode ser a BA\u00cdA DO MONARCA, mas neste forte N\u00c3O h\u00e1 reis, rainhas, lordes e nenhum outro maldito da realeza, apenas aqueles dispostos a TRABALHAR nesta terra e FICAR ao lado de seus queridos IRM\u00c3OS E IRM\u00c3S.\\n\\nAZOTH n\u00e3o vem de gra\u00e7a, mas, pelo menos aqui, voc\u00ea EST\u00c1 ao lado de outros que, como voc\u00ea, podem NUNCA mais voltar a ver seus lares e se dedicaram a tornar AETERNUM deles. N\u00e3o para algum lorde, nem para um rei ou rainha, mas pela PROMESSA de um futuro que o Azoth traz.\\n\\nP.S. Se voc\u00ea se orgulha de ser um Estudioso, N\u00c3O precisamos de voc\u00ea. As palavras escritas aqui s\u00e3o o m\u00e1ximo que devem ser gastas neste recinto.\\n\\nP.S.S. Se voc\u00ea carrega a marca do Sinal Vermelho \u2014 voc\u00ea vale menos do que um Estudioso e menos ainda do que um c\u00e3o. Se estiver em busca de sua \u201cfortuna\u201d, procure-a se afogando nos Corrompidos da Fenda, pois essa \u00e9 a \u00fanica fortuna que sua cobi\u00e7a merece."
           }
         },
         "FortVelazquez": {
           "entries": {
-            "body": "Se da Consola\u00e7\u00e3o voc\u00ea vem, ent\u00e3o continue em nossas gra\u00e7as.\\n\\nAntes que pergunte, sim, as lendas da fonte rubra s\u00e3o verdadeiras \u2014 Azoth escarlate jaz no centro da ilha, vermelho com a corrup\u00e7\u00e3o, e n\u00f3s do Forte Velazquez ficaremos felizes em observar voc\u00ea partir em busca disso, assim como o Capit\u00e3o fez quando abandonou sua tripula\u00e7\u00e3o nas margens de Aeterna.\\n\\nN\u00e3o daremos nenhum aviso, nem mesmo uma palavra de advert\u00eancia \u2014 os dem\u00f4nios que nos assolam, sejam Definhados ou Corrompidos, s\u00e3o prova o bastante de aonde essas tenta\u00e7\u00f5es banhadas em vermelho levam."
+            "body": "Se da Consola\u00e7\u00e3o voc\u00ea vem, ent\u00e3o continue em nossas gra\u00e7as.\\n\\nAntes que pergunte, sim, as lendas da fonte rubra s\u00e3o verdadeiras: Azoth escarlate jaz no centro da ilha, vermelho com a corrup\u00e7\u00e3o, e n\u00f3s do Forte Velazquez ficaremos felizes em observar voc\u00ea partir em busca disso, assim como o Capit\u00e3o fez quando abandonou sua tripula\u00e7\u00e3o nas margens de Aeternum.\\n\\nN\u00e3o daremos nenhum aviso, nem mesmo uma palavra de advert\u00eancia. Os dem\u00f4nios que nos assolam, sejam Definhados ou Corrompidos, s\u00e3o prova o bastante de aonde essas tenta\u00e7\u00f5es banhadas em vermelho levam."
           }
         }
       },
@@ -3832,8 +3942,7 @@
         "Attributes": {
           "entries": {
             "title": "Atributos",
-            "subtitle": "Compet\u00eancias Essenciais",
-            "body": "A maioria das estat\u00edsticas de um personagem vem dos seus Atributos. Cada Atributo contribui para um ou mais n\u00fameros, como Sa\u00fade ou Carga Equipada m\u00e1xima. H\u00e1 8 atributos em que voc\u00ea pode investir:\\n \u2022 Constitui\u00e7\u00e3o: determina a Sa\u00fade m\u00e1xima e melhora a Resist\u00eancia a Congelamento.\\n \u2022 Perseveran\u00e7a: determina o Vigor m\u00e1ximo, melhora sua Defesa contra Dano El\u00e9trico e melhora sua Resist\u00eancia a Ferimentos.\\n \u2022 F\u00edsico: determina a Carga Equipada m\u00e1xima, melhora a Defesa contra Dano F\u00edsico e melhora sua Resist\u00eancia a Veneno.\\n \u2022 For\u00e7a: melhora sua Defesa contra Dano Flamejante e melhora o dano causado por armas corpo a corpo. Ela tamb\u00e9m \u00e9 necess\u00e1ria para equipar v\u00e1rias armas corpo a corpo.\\n \u2022 Destreza: melhora sua Absor\u00e7\u00e3o de Dano de Queda e melhora o dano causado por armas a dist\u00e2ncia e de armas corpo a corpo leves. Ela tamb\u00e9m \u00e9 necess\u00e1ria para equipar v\u00e1rias armas.\\n \u2022 Intelig\u00eancia: determina a Mana m\u00e1xima e melhora a Defesa contra Dano Flamejante e Dano El\u00e9trico. Ela tamb\u00e9m melhora o dano de Manoplas Elementais e \u00e9 necess\u00e1ria para equip\u00e1-las.\\n \u2022 Foco: determina a taxa de regenera\u00e7\u00e3o de Mana e melhora a Defesa contra Dano M\u00e1gico.\\n \u2022 F\u00e9: determina a Mana m\u00e1xima, melhora a Defesa contra Dano Imaterial e melhora a Resist\u00eancia \u00e0 Corrup\u00e7\u00e3o. Ela tamb\u00e9m melhora a efici\u00eancia das Manoplas Celestiais e \u00e9 necess\u00e1ria para equip\u00e1-las.\\n\\nAo alocar os pontos, voc\u00ea pode ver o efeito deles antes de gast\u00e1-los. Depois de gastos, voc\u00ea dever\u00e1 Realocar para poder reutilizar os pontos."
+            "subtitle": "Compet\u00eancias Essenciais"
           }
         },
         "TradeSkills": {
@@ -3927,8 +4036,7 @@
         "Healing": {
           "entries": {
             "title": "Curativo",
-            "subtitle": "Mitigar o Dano Sofrido",
-            "body": "*Nota: Todos os controles est\u00e3o no padr\u00e3o e podem ser alterados na tela Configura\u00e7\u00f5es\\n\\nA cura fora do combate pode ocorrer ao manter seu medidor de Comida alto e ao descansar em seu Acampamento. Mas esses m\u00e9todos s\u00e3o lentos demais para ajudar durante uma luta. Ent\u00e3o, pode ser melhor usar Po\u00e7\u00f5es ou trabalhar em equipe e fornecer cura usando uma Manopla Celestial.\\n\\nAs po\u00e7\u00f5es s\u00e3o consum\u00edveis confeccionados em Reposit\u00f3rios Arcanos. H\u00e1 v\u00e1rios tipos de Po\u00e7\u00f5es que regeneram Sa\u00fade, Vigor ou Mana. As po\u00e7\u00f5es t\u00eam usos limitados, ent\u00e3o voc\u00ea deve se reabastecer depois que elas acabarem. Se voc\u00ea tiver Po\u00e7\u00f5es, lembre-se de equip\u00e1-las em um Slot R\u00e1pido para que possa us\u00e1-las em combate sem parar para revirar o Invent\u00e1rio.\\n\\nManoplas Celestiais s\u00e3o dispositivos m\u00e1gicos usados como armas, mas que servem a um prop\u00f3sito totalmente diferente. Ao equipar uma Manopla Celestial, voc\u00ea pode usar [LMB] para posicionar uma runa m\u00e1gica aos seus p\u00e9s que cura todos que estiverem dentro dela. Ela tem um raio moderado, permitindo que voc\u00ea se cure e cure v\u00e1rios jogadores com um \u00fanico uso. Ao segurar [RMB], voc\u00ea pode mirar essa runa a uma curta dist\u00e2ncia antes de clicar [LMB], isso permite que voc\u00ea a posicione onde ela for mais necess\u00e1ria na batalha. Usar essa runa tem um alto custo de Mana, ent\u00e3o \u00e9 melhor levar Po\u00e7\u00f5es para preencher sua Mana se quiser usar a Manopla Celestial com frequ\u00eancia.\\n\\nA Manopla Celestial n\u00e3o pode causar dano e deixa voc\u00ea vulner\u00e1vel ao lan\u00e7ar feiti\u00e7os com ela. Ela \u00e9 melhor usada dentro de um grupo. A efici\u00eancia dela aumenta com o seu atributo F\u00e9."
+            "subtitle": "Mitigar o Dano Sofrido"
           }
         },
         "DefenseAbsorption": {
@@ -3949,7 +4057,7 @@
           "entries": {
             "title": "AFINCO",
             "subtitle": "Ataque Esmagador",
-            "body": "Normalmente, quando um personagem \u00e9 atingido, ele fica atordoado por um breve per\u00edodo em que n\u00e3o pode realizar nenhuma a\u00e7\u00e3o. Esse atordoamento tamb\u00e9m interrompe a maioria das a\u00e7\u00f5es, incluindo ataques. O AFINCO permite que um atacante supere essa limita\u00e7\u00e3o por um breve per\u00edodo.\\n\\nAlgumas a\u00e7\u00f5es ativam o AFINCO de um personagem. Isso pode ser identificado quando seu corpo fica dourado. Enquanto o AFINCO estiver ativado, o personagem continuar\u00e1 a a\u00e7\u00e3o que estiver realizando, mesmo se for atingido. Ataques Pesados com armas corpo a corpo geralmente ativam o AFINCO, permitindo que o atacante realize o ataque lento e poderoso, mesmo que um ataque mais r\u00e1pido o atinja durante a a\u00e7\u00e3o.\\n\\nO AFINCO tem limites e pode ser quebrado se dano suficiente tiver sido causado recentemente. Ter uma Carga Equipada Pesada aumenta a quantidade de dano que voc\u00ea precisa sofrer antes que o AFINCO seja quebrado. \\n\\nQuase sempre, quando voc\u00ea vir um personagem brilhar dourado, \u00e9 melhor sair do caminho em vez de tentar interromper a a\u00e7\u00e3o."
+            "body": "Normalmente, quando um personagem \u00e9 atingido, ele fica abalado por um breve per\u00edodo em que n\u00e3o pode realizar nenhuma a\u00e7\u00e3o. Esse abalo tamb\u00e9m interrompe a maioria das a\u00e7\u00f5es, incluindo ataques. O AFINCO permite que um atacante supere essa limita\u00e7\u00e3o por um breve per\u00edodo.\\n\\nAlgumas a\u00e7\u00f5es ativam o AFINCO de um personagem. Isso pode ser identificado quando seu corpo fica dourado. Enquanto o AFINCO estiver ativado, o personagem continuar\u00e1 a a\u00e7\u00e3o que estiver realizando, mesmo se for atingido. Ataques Pesados com armas corpo a corpo geralmente ativam o AFINCO, permitindo que o atacante realize o ataque lento e poderoso, mesmo que um ataque mais r\u00e1pido o atinja durante a a\u00e7\u00e3o.\\n\\nO AFINCO tem limites e pode ser quebrado se dano suficiente tiver sido causado recentemente. Ter uma Carga Equipada Pesada aumenta a quantidade de dano que voc\u00ea precisa sofrer antes que o AFINCO seja quebrado. \\n\\nQuase sempre, quando voc\u00ea vir um personagem brilhar dourado, \u00e9 melhor sair do caminho em vez de tentar interromper a a\u00e7\u00e3o."
           }
         },
         "AttackTypes": {
@@ -4186,7 +4294,7 @@
             "02": {
               "title": "Pela Fam\u00edlia e por Aeternum",
               "subtitle": "02 Subt\u00edtulo",
-              "body": "Genevieve e at\u00e9 o pequeno Simon t\u00eam apoiado os meus esfor\u00e7os, talvez ainda mais quando eu sugeri que nos mud\u00e1ssemos dos povoados e busc\u00e1ssemos viver onde houvesse uma chance menor de sermos pegos no meio de uma rixa com uma companhia.\\n\\nMencionei uma ilha no meio do Lago do Bosque Reluzente, onde poder\u00edamos encontrar alguma dist\u00e2ncia de toda a agita\u00e7\u00e3o do resto da ilha... e nesse ponto, os dois pareceram aliviados. Eles n\u00e3o ignoraram os rumores do norte. Acho que compartilham dos mesmos temores que eu e querem estar o mais longe poss\u00edvel quando os problemas chegarem.\\n\\nN\u00e3o contei a eles sobre a carta que enviei, nem sobre meu pedido. Se n\u00e3o me atenderem, encontrarei outro meio. Eu quero apenas a seguran\u00e7a da fam\u00edlia e uma cura para essa afli\u00e7\u00e3o que recai sobre aqueles que v\u00eam a Aeternum!\\n\\n- M. Havelock, Arquiministro"
+              "body": "Genevieve e at\u00e9 o pequeno Simon t\u00eam apoiado os meus esfor\u00e7os, talvez ainda mais quando eu sugeri que nos mud\u00e1ssemos do assentamento em desenvolvimento e busc\u00e1ssemos viver onde houvesse uma chance menor de sermos pegos no meio de uma rixa com uma companhia.\\n\\nMencionei uma ilha no meio do Lago do Bosque Reluzente, onde poder\u00edamos encontrar alguma dist\u00e2ncia de toda a agita\u00e7\u00e3o do resto da ilha... e nesse ponto, os dois pareceram aliviados. Eles n\u00e3o ignoraram os rumores do norte. Acho que compartilham dos mesmos temores que eu e querem estar o mais longe poss\u00edvel quando os problemas chegarem.\\n\\nN\u00e3o contei a eles sobre a carta que enviei, nem sobre meu pedido. Se n\u00e3o me atenderem, encontrarei outro meio. Eu quero apenas a seguran\u00e7a da fam\u00edlia e uma cura para essa afli\u00e7\u00e3o que recai sobre aqueles que v\u00eam a Aeternum!\\n\\n- M. Havelock, Arquiministro"
             },
             "03": {
               "title": "Lago do Bosque Reluzente",
@@ -4727,6 +4835,31 @@
               "body": "**Um desenho de uma caixa selada est\u00e1 todo rabiscado, num tra\u00e7o furioso, com frases repetidas cujo significado voc\u00ea desconhece.**\\n\\nMIMA PAD EFITWEK MAH AMBI! ERUWE\u00d1 PI\u00d1AB AXO! MIMA PAD EFITWEK MAH AMBI! ERUWE\u00d1 PI\u00d1AB AXO!"
             }
           }
+        },
+        "06": {
+          "name": "Cora\u00e7\u00e3o da Tempestade",
+          "entries": {
+            "01": {
+              "title": "Irm\u00e3os N\u00e3o Confi\u00e1veis",
+              "subtitle": "Encontrado no Cora\u00e7\u00e3o da Tempestade",
+              "body": "Philip e Cosimo me desapontaram. Eles desapontaram a M\u00e3e e o Pai, assim como desperdi\u00e7aram nossa fortuna e nossas conex\u00f5es. Agora cabe a mim salvar esta fam\u00edlia.\\n\\nN\u00e3o h\u00e1 mais ningu\u00e9m em quem eu possa confiar, a n\u00e3o ser eu mesma, e agora sei que isso \u00e9 verdade.\\n\\nCapit\u00e3 Isabella"
+            },
+            "02": {
+              "title": "A Oferenda da Ma\u00e7\u00e3",
+              "subtitle": "Encontrado no Cora\u00e7\u00e3o da Tempestade",
+              "body": "O fasc\u00ednio pelo poder e pelo conhecimento sempre foi muito atraente. Assim como os primeiros humanos ca\u00edram em tenta\u00e7\u00e3o, Isabella De Leon tamb\u00e9m cair\u00e1.\\n\\nVou oferecer a ela o que ela n\u00e3o pode recusar: uma chance de trazer o nome De Leon \u00e0 gl\u00f3ria novamente. Ela n\u00e3o se importar\u00e1 com o custo deste presente, n\u00e3o at\u00e9 que seja tarde demais."
+            },
+            "03": {
+              "title": "A Fonte do Herege",
+              "subtitle": "Encontrado no Cora\u00e7\u00e3o da Tempestade",
+              "body": "Eles me chamam de Herege, mas n\u00e3o sou de uma natureza singular.\\n\\nHouve incont\u00e1veis Hereges antes de mim, e haver\u00e1 incont\u00e1veis mais depois de mim.\\n\\nNedenyek busca seu pr\u00f3ximo recipiente digno, um de cora\u00e7\u00e3o despeda\u00e7ado e sonhos despeda\u00e7ados. Ele est\u00e1 por perto, sinto o cheiro dele."
+            },
+            "04": {
+              "title": "Padre Russo e Isabella",
+              "subtitle": "Encontrado no Cora\u00e7\u00e3o da Tempestade",
+              "body": "Minha querida,\\n\\nEstava disposto a descer at\u00e9 as profundezas do pr\u00f3prio inferno para salv\u00e1-la, mas sua alma j\u00e1 foi capturada h\u00e1 muito tempo. Eu teria lutado com o pr\u00f3prio diabo, envergonhado o velho L\u00facifer, mas o que se esconde em sua mente \u00e9 mais forte do que qualquer dem\u00f4nio que j\u00e1 encontrei em minha vida de batina. Eu teria desistido daquela vida para ser seu marido, mas agora vejo que voc\u00ea tem o mesmo pensamento e um \u00fanico prop\u00f3sito: a restaura\u00e7\u00e3o do nome de sua fam\u00edlia.\\n\\nMeu maior lamento \u00e9 n\u00e3o ter podido salv\u00e1-la. Meu cora\u00e7\u00e3o est\u00e1 despeda\u00e7ado como a montanha no c\u00e9u. Temo que logo as trevas me alcancem, e s\u00f3 espero que meus \u00faltimos pensamentos sejam sobre voc\u00ea, Isabella.\\n\\nCom amor, \\nRusso"
+            }
+          }
         }
       }
     },
@@ -4832,205 +4965,6 @@
               "title": "A Esperan\u00e7a Vive",
               "subtitle": "Uma P\u00e1gina do Di\u00e1rio de Wynn.",
               "body": "O velho Irontoe ficou muito doente. Edward est\u00e1 cuidando das necessidades dele, mas n\u00e3o tenho esperan\u00e7as de que ele resista at\u00e9 a semana que vem. J\u00e1 vi isso com meu pr\u00f3prio pai. Mas do jeito que Edward fala, instiga a esperan\u00e7a, mesmo nos moribundos.\\n\\n-Wynn"
-            }
-          }
-        }
-      }
-    },
-    "Tales of Brimstone Sands": {
-      "chapters": {
-        "01": {
-          "name": "Di\u00e1rio de Albina, Alquimista da Legi\u00e3o",
-          "entries": {
-            "01": {
-              "title": "Uma Discuss\u00e3o sobre a Guerra \u201c\u00c9tica\u201d",
-              "subtitle": "As Linhas de Frente",
-              "body": "Durante a \u00faltima quinzena, o cheiro de fogo grego persistia nas cinzas dos defensores de Nova C\u00f3rsega que morreram e ficaram espalhados pela linha de frente do campo de batalha calcinado. A fuma\u00e7a ainda subia desses restos encharcados de \u00f3leo enquanto a noite come\u00e7ava a cair nesse domingo. Admirando a obra de minhas cria\u00e7\u00f5es, considerei os protestos de uns poucos prisioneiros neocorsos. Os fil\u00f3sofos aduladores queriam me perturbar com discursos sobre \u201cguerra \u00e9tica\u201d neste assim chamado S\u00e9culo das Luzes. \\n\\nDurante o interrogat\u00f3rio, os plebeus alegam que o fogo grego que eu preparara e dividira em barris tratava-se de uma arma cruel e desumana, tanto na teoria como na pr\u00e1tica. Eles bateram no peito e afirmaram que minha cria\u00e7\u00e3o era desprovida de qualquer virtude que porventura fosse admirada pelos deuses. Diante dessas alfinetadas intelectuais, eu dei uma bela gargalhada e respondi no mesmo tom. \\n\\nLembrei a esses imbecis socr\u00e1ticos que havia apenas duas verdades em rela\u00e7\u00e3o \u00e0 chamada \u201c\u00e9tica da guerra\u201d. Primeiro, quem det\u00e9m poder e deixa de us\u00e1-lo em benef\u00edcio pr\u00f3prio n\u00e3o passa de um idiota perdul\u00e1rio. Segundo, quem se deixa dominar por um poder inalcan\u00e7\u00e1vel merece sofrer e se lamentar com l\u00e1bios frios e agonizantes."
-            },
-            "02": {
-              "title": "Uma Segunda Discuss\u00e3o sobre a Guerra \u201c\u00c9tica\u201d",
-              "subtitle": "As Linhas de Frente",
-              "body": "Quando o dia seguinte raiou, os neocorsos vieram de novo me dissuadir do meu objetivo. Os barris do \u201cSopro de Hidra\u201d, minha vers\u00e3o modificada do fogo grego, seriam em breve mandados para incendiar os compatriotas deles nas linhas de frente mais uma vez. \u201cTudo \u00e9 justo e virtuoso em nome da gl\u00f3ria de Roma e da 19\u00aa Legi\u00e3o\u201d, eu disse a eles. Os barris que continham minha obra estavam enfileirados a apenas alguns metros do calabou\u00e7o deles. \\n\\nO que se chamava Brutus apelou para a minha compaix\u00e3o e implorou que eu abandonasse a miss\u00e3o. Ele rogou para que eu consultasse a sabedoria do vidente \u00c1tico, de Nova C\u00f3rsega, antes que minha alma fosse arrancada de minhas entranhas e degredada para o Submundo. Outro prisioneiro me chamou de c\u00e3o sem dono e disse que a puni\u00e7\u00e3o dos Anci\u00f5es seria c\u00e9lere e justa. Os compatriotas dele se uniram ao coro e me recriminaram por cometer tamanhas atrocidades ao \u201cpovo escolhido\u201d. Fiz uma figa para ele e dei uma bela gargalhada diante do grupo inteiro. \\n\\nEu sou um homem guiado pela ci\u00eancia, pela raz\u00e3o, pela oportunidade, enquanto a cabe\u00e7a deles est\u00e1 cheia de disparates!"
-            },
-            "03": {
-              "title": "A \u00daltima Discuss\u00e3o sobre a Guerra \u201c\u00c9tica\u201d",
-              "subtitle": "As Linhas de Frente",
-              "body": "Maldita seja a l\u00edngua dos neocorsos! Ser\u00e1 que essa repreens\u00e3o n\u00e3o vai acabar? Por acaso essas bocas n\u00e3o cansam de exprimir a orat\u00f3ria mais delirante? Brutus, na qualidade de porta-voz e estadista dessa turba neocorsa, bombardeou meus pobres ouvidos por horas sem fim! Com aquela vozinha inerme ele me lan\u00e7ou insultos para me provocar, na esperan\u00e7a de que eu travasse um debate com ele. Eu ofereci jarros de vinho a qualquer legion\u00e1rio que calasse aquela matraca irritante com um disparo bem dado de funda. \\n\\nQuarenta pedras atingiram o alvo na carne. Eu sorri enquanto a luz sumia daqueles olhos presun\u00e7osos, apenas para a voz de Brutus voltar conforme ele retornava dos mortos. Foi uma diatribe sem fim de acusa\u00e7\u00f5es moralistas e coment\u00e1rios dos seus assim chamados crit\u00e9rios para uma guerra \u201c\u00e9tica\u201d. Por horas, eu reprimi a vontade de olhar para aquele rosto repugnante, contendo minha raiva \u00e0 dist\u00e2ncia. Foi a\u00ed que ouvi as coisas torpes que ele tinha a dizer a respeito da minha covardia, minha selvageria, o fardo do meu pecado contido nos barris ali perto.\\n\\nAo escutar esses insultos, n\u00e3o consegui mais conter o meu ressentimento! Fui at\u00e9 a beirada do calabou\u00e7o e olhei para cada um dos presos, lan\u00e7ando uma sombra digna do pr\u00f3prio Plut\u00e3o sobre eles. Dirigi meu olhar calcinante para ele. Enquanto isso, ele continuou balbuciando sobre sua virtude imortal... At\u00e9 que eu lancei um dos barris que continha minha mistura \u201cpecaminosa\u201d para dentro do calabou\u00e7o, acendendo-o com minha tocha. Os momentos que se seguiram, com gritos torturantes, carne em ebuli\u00e7\u00e3o e apelos aos borbot\u00f5es por miseric\u00f3rdia, foram uma ninharia que eu estava mais que disposto a pagar por uma boa noite de sono."
-            }
-          }
-        },
-        "02": {
-          "name": "O Pre\u00e7o da Liberdade",
-          "entries": {
-            "01": {
-              "title": "Uma Carta do Imperador Augusto",
-              "subtitle": "Acampamento de Cerco",
-              "body": "Arm\u00ednio,\\n\\n\\n\\n\\n\\nConsidero que sua oferta de duzentos e cinquenta \u00e1ureos pela compra de Vespasiano, o Terror de Troia, chega \u00e0s raias do insulto. O pre\u00e7o de dois le\u00f5es n\u00e3o faz jus a esse forte escravo domesticado. Eu j\u00e1 o vi matar dois le\u00f5es com um mero gl\u00e1dio. N\u00e3o h\u00e1 nada na arena que esse escravo tema no Campo de Prova\u00e7\u00e3o. Ele \u00e9 um carrasco! A cada morte, ele deixar\u00e1 o p\u00fablico em festa e seus bolsos cheios de moedas.\\n\\n\\n\\nN\u00e3o me entenda mal: embora destemido e invicto na arena, ele sabe muito bem o seu lugar. Foi ensinado a se curvar aos p\u00e9s do dono e de Legatus. O pr\u00f3prio Crasso foi quem o treinou. \u00c9 um escravo que nunca olhar\u00e1 atravessado para voc\u00ea, muito menos ansiar\u00e1 pela liberdade. \u00c9 uma criatura simples, mas implac\u00e1vel.\\n\\n\\n\\n\\n\\nPortanto, exijo n\u00e3o menos que mil \u00e1ureos por ele. Com esse pre\u00e7o, voc\u00ea poder\u00e1 envi\u00e1-lo para a morte num grande confronto final contra o inimigo invenc\u00edvel que desejar. A morte dele servir\u00e1 de alimento para a gl\u00f3ria de Roma e para o j\u00fabilo da arena. O destino desse homem jamais foi a liberdade.\\n\\n\\n\\n\\n\\nImperador Augusto"
-            },
-            "02": {
-              "title": "Inscri\u00e7\u00e3o da Rudis de Vespasiano",
-              "subtitle": "Acampamentos de Cerco",
-              "body": "- Vespasiano\\n\\n\\n\\nVoc\u00ea n\u00e3o \u00e9 mais um estudante nem um escravo. Encare essa nova alvorada sob a luz da liberdade, velho camarada! \\n\\nLogo seu gl\u00e1dio estar\u00e1 encharcado pelo sangue dos meus inimigos.\\n\\n\\n\\n\\n\\n- Crasso"
-            }
-          }
-        },
-        "03": {
-          "name": "O Destino de Tarqu\u00ednio",
-          "entries": {
-            "01": {
-              "title": "O Novo Come\u00e7o da Legi\u00e3o",
-              "subtitle": "Local de Sepultamento",
-              "body": "Novae Terrae: Dies Mercurii Numerus CCCLXIV\\n\\n\\n\\nO dia de hoje marca o s\u00e9timo ano desde nossa chegada a este estranho mundo novo. O lance de Marco Ant\u00f4nio e de sua bela rainha contra o triunvirato estava fadado ao fracasso. Nem Crasso, da 19\u00aa Legi\u00e3o, nem eu ser\u00edamos capazes de vencer. Nossas chances eram m\u00ednimas. S\u00f3 os deuses sabem se aqui o tempo corre da mesma maneira. Tenho quase certeza de que, a esta altura, os \u201camantes\u201d j\u00e1 tiveram seu fim, seja pela ira de Otaviano ou pelas pr\u00f3prias m\u00e3os. Ainda assim, n\u00e3o me arrependo da virtude pela qual lutamos ou do juramento que fizemos a Marco Ant\u00f4nio. Sem amor, paz e a promessa de prosperidade da Rep\u00fablica, de que serve a guerra? \u00c0s vezes, naqueles raros momentos de serenidade, eu me pergunto se Marco Ant\u00f4nio e a rainha teriam conseguido fazer a longa jornada conosco, at\u00e9 este Novo Mundo. Se tivessem, eles teriam como recompensa toda a eternidade para desfrutar do amor um pelo outro.\\n\\n\\nApesar da derrota que deixamos para tr\u00e1s e dos obst\u00e1culos que Crasso e eu agora enfrentamos, conseguimos nos aclimatar \u00e0s diversas amea\u00e7as que existem nas Areias de Enxofre. Tivemos sucesso ao ajudar na funda\u00e7\u00e3o de um novo assentamento romano, chamado Nova C\u00f3rsega. Aqui vivem agora os fi\u00e9is, conselheiros e fil\u00f3sofos da Rep\u00fablica de Marco Ant\u00f4nio que restaram. Com nosso novo dom da imortalidade, esses homens e mulheres s\u00e1bios e virtuosos desejam praticar atividades mais nobres que o derramamento de sangue. O Templo dos Anci\u00f5es e a Cidade de Ahket podem ser justamente o que eles desejam. Dei minha palavra de honra que garantiria a paz e a prosperidade do povo de Nova C\u00f3rsega enquanto f\u00f4ssemos imortais.\\n\\n\\n\\n\\n\\nCrasso, por outro lado, n\u00e3o mostrou a mesma ambi\u00e7\u00e3o. Enquanto esses cidad\u00e3os de Roma e Alexandria buscam musas e atividades nobres, Crasso ainda deseja se vingar pelo que aconteceu a ele e \u00e0 Legi\u00e3o. Ele busca algo que tire de sua boca o gosto da vergonha e da derrota. Seu objetivo \u00e9 uma nova conquista, grande o bastante para atrair o olhar dos deuses sobre n\u00f3s. Talvez, para o divertimento divino, eles tenham piedade de n\u00f3s e nos concedam um meio de voltar \u00e0 nossa gloriosa Roma mais uma vez.\\n\\n\\n\\n\\n\\nVerdade seja dita, rezo todas as noites para que Marte sacie a fome de luta de Crasso. Essa obsess\u00e3o pelo respeito e reconhecimento s\u00e3o qualidades indignas de um l\u00edder. Ele assume o cr\u00e9dito pelas fa\u00e7anhas passadas de outros homens. As minhas, em particular. Feitos que ele n\u00e3o cometeu, mas que alimentam o prest\u00edgio do nome dele. Por ora, tolero e relevo essa autocongratula\u00e7\u00e3o ego\u00edsta. Fa\u00e7o isso somente em nome da uni\u00e3o e porque muitos dos homens, em segredo, j\u00e1 sabem a verdade. Ainda assim, temo que passar uma vida inteira sem o medo da morte possa ter efeitos mal\u00e9ficos em meu \u201cvelho amigo\u201d, que v\u00e3o me obrigar a intervir, caso continuem."
-            },
-            "02": {
-              "title": "A Loucura Personificada",
-              "subtitle": "Local de Sepultamento",
-              "body": "Novae Terrae: Anno CCLXVIII\\n\\n \\n\\nJ\u00e1 faz duzentos e sessenta anos que Crasso ordenou que a 19\u00aa Legi\u00e3o, meus irm\u00e3os, conquistasse os Anci\u00f5es que habitam nosso novo mundo. Nesse per\u00edodo, descobrimos que n\u00e3o estamos sozinhos aqui. Muitas almas de outras \u00e9pocas e culturas tamb\u00e9m ocupam esta terra estranha e amaldi\u00e7oada. Mas nenhuma ainda mereceu a ira de Crasso. Em vez disso, ele quer derrotar os deuses deste mundo, os Anci\u00f5es, e tomar para si sabe-se l\u00e1 que poder eles tenham, tudo \u201cem nome da gl\u00f3ria da Legi\u00e3o e de Roma\u201d. O fil\u00f3sofo e estadista conhecido como \u00c1tico se mostrou contr\u00e1rio \u00e0s a\u00e7\u00f5es dele e, por isso, virou alvo da indigna\u00e7\u00e3o de Crasso. Apesar de sua destreza e capacidade de lideran\u00e7a, Crasso jamais deu sequer um pingo de aten\u00e7\u00e3o para assuntos fora do campo de batalha.\\n\\n\\n\\n\\nAgora, meus piores temores se concretizaram. Crasso dirigiu toda a f\u00faria da Legi\u00e3o contra o povo de Nova C\u00f3rsega e contra os seguidores de \u00c1tico. O rosto dele n\u00e3o \u00e9 mais o do amigo que eu um dia conheci. Ele foi possu\u00eddo por uma for\u00e7a sobrenatural. Eu sou uma amea\u00e7a para ele, um risco ao poder que ele conquistou, n\u00e3o mais o c\u00f4nsul que eu esperava ser. Portanto, reuni alguns dos homens mais virtuosos da 19\u00aa Legi\u00e3o, velhos companheiros que ainda n\u00e3o perderam o senso de humanidade, para defender Nova C\u00f3rsega. Eu salvarei a boa reputa\u00e7\u00e3o da Legi\u00e3o e destronarei meu amigo, transformado em tirano, do seu posto de guerra.\\n\\n\\n\\n\\n\\nNossos n\u00fameros s\u00e3o \u00ednfimos. Assim sendo, planejo usar a estrat\u00e9gia fabiana, utilizando emboscadas dissimuladas, sabotagem e atrito para desgastar as fileiras inimigas. Isso vai dobrar o fardo que essa guerra infind\u00e1vel j\u00e1 cobrou sobre o moral de nossos antigos companheiros. Deixaremos de lado a falange e o cesto. Usaremos as mentes de Nova C\u00f3rsega para atacar com intelig\u00eancia em meio \u00e0s sombras. A espada e a determina\u00e7\u00e3o de Crasso s\u00e3o formid\u00e1veis, mas meu juramento a Nova C\u00f3rsega \u00e9 mais forte. Vejamos como a \u201clenda\u201d se sai contra o peso de seus feitos distorcidos. Vejamos o que acontece quando ele encara os pr\u00f3prios homens que criaram o mito que ele afirma ser."
-            },
-            "03": {
-              "title": "Um Novo Amanhecer",
-              "subtitle": "Local de Sepultamento",
-              "body": "Novae Terrae: Anno CCLXX\\n\\n\\n\\n\\n\\nChegou a hora... \\n\\n\\n\\n\\n\\nAmanh\u00e3 um novo dia raiar\u00e1 sobre a Legi\u00e3o e Nova C\u00f3rsega.\\n\\n\\n\\n\\nMeus homens e eu estamos prestes a dar o golpe final contra \u201cCrasso, o Louco\u201d, e as almas corrompidas de nossos antigos companheiros. Usamos todo o nosso engenho para planejar o ataque, e tenho plena confian\u00e7a de que cada um deles est\u00e1 comprometido de corpo e alma \u00e0 nossa causa. Nossos ataques sabotaram as cadeias de artilharia e suprimento de Crasso. A cada dia, os ensinamentos de \u00c1tico trazem para o seio de Nova C\u00f3rsega aqueles que podem ser salvos. Tratam-se dos poucos irm\u00e3os virtuosos da Legi\u00e3o que s\u00e3o incapazes de imaginar uma eternidade de matan\u00e7a contra os pr\u00f3prios irm\u00e3os. \\n\\n\\n\\nJ\u00e1 estabelecemos contato com tr\u00eas divis\u00f5es-chave da Legi\u00e3o, cujos homens vieram para o nosso lado por medo de Crasso. Eles concordaram em se juntar a n\u00f3s amanh\u00e3 na \u00faltima campanha contra as tropas de Crasso. As tr\u00eas divis\u00f5es chegar\u00e3o no raiar do dia, prontas para um ataque sigiloso ao alvorecer. Se tudo der certo, e conseguirmos derrotar o que sobrou da 19\u00aa Legi\u00e3o, enfrentarei Crasso num combate mano a mano para eliminar de uma vez por todas esse monstro.\\n\\n\\n\\n\\n\\nA secess\u00e3o nunca foi o meu desejo, muito menos os dois s\u00e9culos de lutas internas que j\u00e1 aconteceram. A vit\u00f3ria de amanh\u00e3 n\u00e3o ser\u00e1 uma tarefa qualquer. Vamos marchar e voltar do Submundo. Mas, hoje \u00e0 noite, insistirei que meus homens deixem de lado os escudos e as espadas em favor do vinho e das boas companhias. Hoje \u00e0 noite, vamos beber e celebrar o fim da guerra como amigos, romanos, neocorsos, todos juntos. Talvez, se a vontade falar mais alto, eu deixe de lado meu cesto e puxe minha c\u00edtara para variar. \\n\\n\\n\\n\\nDe uma coisa estou certo: se Crasso n\u00e3o se render com nosso ataque... Minha cantoria dar\u00e1 conta do recado."
-            }
-          }
-        },
-        "04": {
-          "name": "No Amor e na Guerra",
-          "entries": {
-            "01": {
-              "title": "Sangue e Romance",
-              "subtitle": "QG da 19\u00aa Legi\u00e3o",
-              "body": "Legatus Drusila,\\n\\n\\n\\n\\n\\nMinha reden\u00e7\u00e3o est\u00e1 pr\u00f3xima! Enfim, tenho acesso ao santu\u00e1rio interno do templo! A 19\u00aa Legi\u00e3o n\u00e3o permitir\u00e1 que mil\u00eanios de medo neocorso e as ideias equivocadas e blasfemas de seus fil\u00f3sofos de mente apodrecida me impe\u00e7am de restaurar a gl\u00f3ria da minha lenda. \\n\\nLegatus, n\u00e3o permitirei que nada, nem mesmo os fugazes momentos ternos que compartilhamos desde nossa chegada aqui, interfiram em seu dever de comandante de meus Centuri\u00f5es. Mande seus ginetes mais velozes com not\u00edcias da linha de frente. Lembre-se, Drusila, agora n\u00e3o \u00e9 hora de emo\u00e7\u00e3o, romance ou amor... \\n\\nEstamos em guerra e enquanto isso n\u00e3o mudar, tampouco mudar\u00e1 minha rela\u00e7\u00e3o para contigo nessa quest\u00e3o. \\n\\nLegatus Legionis Crasso"
-            },
-            "02": {
-              "title": "Um Apelo e uma Promessa",
-              "subtitle": "QG da 19\u00aa Legi\u00e3o",
-              "body": "Crasso,\\n\\n\\n\\nAvistamos um tumulto no per\u00edmetro externo. Ataques sigilosos contra nossos acampamentos desmoralizaram e dispersaram as tropas. Seja quem for o respons\u00e1vel, ele n\u00e3o s\u00f3 feriu a carne como tamb\u00e9m a lealdade dos legion\u00e1rios. Num primeiro momento, pensei que fosse aquela confidente covarde neocorsa, N\u00edobe. Ela vem seguindo nossas movimenta\u00e7\u00f5es na regi\u00e3o e nos atrapalhado. Mas com base nos recentes ataques, parece que me enganei. O respons\u00e1vel, seja l\u00e1 quem for, conhece o nosso passado. Os homens j\u00e1 resmungam sobre o traidor do qual nos livramos h\u00e1 tanto tempo. \\n\\nSer\u00e1 poss\u00edvel que Tarqu\u00ednio ainda esteja vivo? Caso exista, a derrota que causamos s\u00f3 fortaleceu a determina\u00e7\u00e3o de ser nosso algoz. Fiz o poss\u00edvel para levantar o moral dos homens, mas desde sua partida as presas de nossos lobos ficaram cegas. Eles precisam do medo e da admira\u00e7\u00e3o que sua fama inspira para motiv\u00e1-los, da mesma forma que seu toque motivou o meu desejo.\\n\\nFarei tudo que estiver ao meu alcance para n\u00e3o o decepcionar. Mas \u00e9 a mem\u00f3ria funesta de Tarqu\u00ednio que nos assola, como um espectro na noite. Estou reunida com os oficiais no principal acampamento da legi\u00e3o e aguardo suas ordens. Saiba de uma coisa: se o traidor Tarqu\u00ednio ou quem quer que esteja se passando por ele der as caras por aqui, eu mesma cortarei a cabe\u00e7a dele e a mandarei para voc\u00ea como prova de meu amor eterno.\\n\\n\\n\\n\\n\\nLegatus Drusila"
-            },
-            "03": {
-              "title": "Nem Um Pingo de Prazer",
-              "subtitle": "QG da 19\u00aa Legi\u00e3o",
-              "body": "Legatus Drusila,\\n\\n\\nReuni dez falanges dos melhores guerreiros que a Legi\u00e3o tem a oferecer para avan\u00e7armos ainda mais sobre o Templo Amaldi\u00e7oado do inimigo. Malditos sejam \u00c1tico e os Anci\u00f5es, junto com todos os traidores neocorsos que questionaram minha cruzada! Dentro de uma quinzena, todos os segredos her\u00e9ticos deles ser\u00e3o meus, e o poder que eles det\u00eam refor\u00e7ar\u00e1 minha fama e a gl\u00f3ria de Roma por toda a eternidade. Desta vez, nem a paixonite imbecil de Marco Ant\u00f4nio nem a insol\u00eancia de Tarqu\u00ednio poder\u00e3o me deter. Voc\u00ea n\u00e3o permitir\u00e1!\\n\\nEnquanto eu esmago as defesas dos Anci\u00f5es e tomo os segredos do Templo, voc\u00ea cuidar\u00e1 que o resto das tropas da 19\u00aa Legi\u00e3o siga para o destino que lhes foi reservado. Prepare meus homens e aguarde minhas ordens para sitiar os pat\u00e9ticos aduladores que sobraram deste mundo. Que seja feita minha vontade. Voc\u00ea atacar\u00e1 com o poder desses falsos deuses e fincar\u00e1 a lan\u00e7a da minha 19\u00aa Legi\u00e3o no cora\u00e7\u00e3o de Aeternum!\\n\\nEsteja avisada, Drusila, n\u00e3o me decepcione. Nem um pingo do prazer que tivemos por essas d\u00e9cadas aplacar\u00e1 minha f\u00faria caso voc\u00ea fracasse: n\u00e3o me fale de lux\u00faria a n\u00e3o ser que esta seja a lux\u00faria da batalha!\\n\\nColoque sua armadura, prepare os oficiais e coloque-os \u00e0 prova como os vorazes c\u00e3es de guerra que s\u00e3o. \\n\\nNova C\u00f3rsega cair\u00e1 pelas minhas m\u00e3os junto com este mundo inteiro. Eu ordeno!\\n\\n\\n\\nLegatus Legionis Crasso"
-            }
-          }
-        },
-        "05": {
-          "name": "Da Mente dos Loucos",
-          "entries": {
-            "01": {
-              "title": "Di\u00e1rio de Legatus Legionis, P\u00e1gina 1",
-              "subtitle": "Templo Anci\u00e3o",
-              "body": "Novae Terrae: Dies Martis CCCLIX\\n\\n\\n\\nFomos condenados a viver em ex\u00edlio. Fui tolo por acreditar em Marco Ant\u00f4nio. Ele e sua noiva estrangeira manipularam nossas emo\u00e7\u00f5es com exorta\u00e7\u00f5es rom\u00e2nticas de virtude. O idealismo tolo dele e a esperan\u00e7a por uma Rep\u00fablica Nova foi a perdi\u00e7\u00e3o para minha 19\u00aa Legi\u00e3o inteira. For\u00e7ados a dar as costas e bater em retirada para a costa, ficamos sem escolha. Traidores do nosso Imp\u00e9rio, assistimos derrotados aos navios zarparem em busca de um porto que aceitasse Marco Ant\u00f4nio. Como c\u00e3es, nos encolhemos de medo e fugimos de uma morte boa e gloriosa, e os deuses se enfureceram.\\n\\n\\n\\n\\nMeu legado deveria estar assegurado ao lado de Aquiles e Jas\u00e3o. Em vez disso, nosso navio insignificante se deparou com a f\u00faria de Netuno no pr\u00f3prio dom\u00ednio dele. Foi como se Car\u00edbdis e Cila se debatessem \u00e0 nossa volta, causando um turbilh\u00e3o inimagin\u00e1vel. As mand\u00edbulas dos monstros rangiam e abriam buracos em nossa embarca\u00e7\u00e3o. Eu estava certo de que J\u00fapiter em pessoa estaria esperando se eu voltasse a abrir os olhos. Eu tinha certeza de que ele apareceria pessoalmente para impor ainda mais sua decep\u00e7\u00e3o com seu filho outrora favorito. Em vez disso, nos deparamos aqui no Novo Mundo, longe dos olhos de nossos deuses romanos. \\n\\n\\n\\n\\nNo \u00faltimo ano, acreditei que esse ex\u00edlio era uma puni\u00e7\u00e3o, uma penit\u00eancia que somente eu teria de expiar. Por meses, a Legi\u00e3o inteira vinha at\u00e9 mim em busca de respostas e ordens. Cada um deles fazia as mesmas perguntas infrut\u00edferas sobre sua fam\u00edlia e seu lar. As vozes e express\u00f5es deles me enlouqueciam! N\u00e3o sou or\u00e1culo nem escriba. N\u00e3o! Sou um guerreiro de Roma! N\u00e3o me pergunte sobre seus filhos, esposas e m\u00edseras terras. N\u00e3o me importo. O que se foi, se foi. O que importa agora est\u00e1 diante de n\u00f3s... \\n\\n\\n\\n\\nOrdenei que Tarqu\u00ednio, meu bra\u00e7o direito, cuidasse do treinamento di\u00e1rio e das perguntas irritantes dos homens. Preciso de tempo adequado para ordenar os pensamentos e formular um plano de a\u00e7\u00e3o. \\n\\n\\n\\n\\nLegatus Legionis Marco Lic\u00ednio Crasso"
-            },
-            "02": {
-              "title": "Di\u00e1rio de Legatus Legionis, P\u00e1gina 2",
-              "subtitle": "Templo Anci\u00e3o",
-              "body": "Novae Terrae: Anno CCLXV\\n\\n\\n\\nMarte, malditos sejam esses fil\u00f3sofos desmiolados! Todos n\u00f3s j\u00e1 fomos guerreiros, com exce\u00e7\u00e3o dos estudiosos neocorsos e dos servos estrangeiros e gentios de Marco Ant\u00f4nio e sua noiva. Se a t\u00e3o falada mente brilhante de \u00c1tico tiver raz\u00e3o, faz mais de duzentos e cinquenta anos que pisamos nestas terras. Marco Ant\u00f4nio e sua esposa herege certamente est\u00e3o mortos h\u00e1 muito tempo, e foram tarde. Agora \u00e9 hora de recapturar o que o dom ardiloso de orat\u00f3ria deles tirou de mim e da minha exalta\u00e7\u00e3o ao status de mito. \\n\\n\\n\\nVeja como \u00e9 fraca essa gente; esses neocorsos n\u00e3o s\u00e3o nossos compatriotas romanos. \u00c1tico e seu bando se perderam em sua educa\u00e7\u00e3o superior e entre os Anci\u00f5es deste mundo. Hereges! \u00c9 exatamente o que s\u00e3o, por ousar comparar a \u00ednfima e pat\u00e9tica divindade que esse mundo chama de deuses ao poderoso Pante\u00e3o de Roma! Qualquer que seja o poder que esses Anci\u00f5es possuem, enterrados por cem vidas mortais em uma tumba \u00e1rida, n\u00e3o \u00e9 nada de se admirar! \u00c9 para se conquistar e usar para a gl\u00f3ria de Roma!\\n\\n\\n\\nSe tudo fosse como \u00c1tico deseja, meus homens estariam largando as armas e desenterrando jarros d\u2019\u00e1gua antigos no calor infernal deste deserto. N\u00e3o, n\u00e3o \u00e9 isso que o destino nos planejou... N\u00e3o, a reden\u00e7\u00e3o, a gl\u00f3ria e a honra por meio da batalha s\u00e3o o nosso destino!\\n\\n\\nJ\u00fapiter e seus familiares t\u00eam planos maiores para Crasso e sua 19\u00aa Legi\u00e3o.\\n\\n\\n\\nLegatus Legionis Marco Lic\u00ednio Crasso"
-            },
-            "03": {
-              "title": "Di\u00e1rio de Legatus Legionis, P\u00e1gina 3",
-              "subtitle": "Templo Anci\u00e3o",
-              "body": "Novae Terrae: Anno Opscurus\\n\\n \\n\\nEm poucas horas, me banharei na luz e na gra\u00e7a do El\u00edsio! \\n\\n\\n\\n\\nTarqu\u00ednio n\u00e3o foi capaz de me deter com sua virtude desencaminhada, tampouco \u00c1tico ser\u00e1! Maldita seja Drusila e seus alertas repletos de falhas! A mente dela \u00e9 fraca. Est\u00e1 envenenada com as incessantes conversas sobre amor! Este mundo ainda n\u00e3o \u00e9 lugar para tais coisas! At\u00e9 que a 19\u00aa Legi\u00e3o seja mais uma vez imortalizada aos olhos de Roma, tais palavras nem devem ser pronunciadas! \\n\\n\\n\\n\\nSei que em algum momento, s\u00e9culos atr\u00e1s, senti algo por ela... Como j\u00e1 foi forte a beleza de Drusila. Ela era um esp\u00edrito afim, uma colega Centuri\u00e3, e eu me impressionava com a vis\u00e3o dela. A natureza fria e calculista dela e sua sede de batalha faziam dela uma concubina adequada na \u00e9poca, mas n\u00e3o mais. O veneno dos seguidores de \u00c1tico a enfraqueceu, assim como fez com todos os meus soldados. As emo\u00e7\u00f5es dela fizeram sua disciplina apodrecer. Sua \u00faltima mensagem \u00e9 prova disso. \\n\\n\\n\\n\\nN\u00e3o cheguei aqui para ser marido ou estadista... Vim a este mundo para obter gl\u00f3ria e reden\u00e7\u00e3o! \\n\\n\\n\\n\\nN\u00e3o h\u00e1 lugar para amor ou fraqueza na guerra. Os neocorsos passam seus dias em buscas fr\u00edvolas pela tal virtude, enquanto eu travo uma campanha lend\u00e1ria de conquista em nome de Roma e do pr\u00f3prio J\u00fapiter!\\n\\n\\n\\n\\nEnquanto escrevo estas palavras, piso o mesmo solo que os tais \u201cAnci\u00f5es\u201d deste novo mundo j\u00e1 pisaram. Marcho at\u00e9 o local de poder oculto deles com o passo tonitruante da 19\u00aa Legi\u00e3o Romana \u00e0s minhas costas! Que se saiba que qualquer \u201cdeus\u201d gentio que ousar me desafiar em minha tarefa neste dia de hoje sentir\u00e1 a f\u00faria de Marte sobre seu cr\u00e2nio! \\n\\n\\nQue todos os futuros romanos saibam disto... \\n\\nSou Marco Lic\u00ednio Crasso, o mais amado filho de Marte e J\u00fapiter, o maior Legatos Legionis na hist\u00f3ria do Imp\u00e9rio Romano e Imperador da Primeira Era de um novo Imp\u00e9rio Romano! Com o poder desses gentios nas minhas m\u00e3os, todos cair\u00e3o aos meus p\u00e9s! \\n\\nPela gl\u00f3ria de Roma!"
-            }
-          }
-        },
-        "06": {
-          "name": "Lamento de Nicabar",
-          "entries": {
-            "01": {
-              "title": "Uma Proposta Brilhante",
-              "subtitle": "Nova C\u00f3rsega",
-              "body": "S\u00e1bio e nobre \u00c1tico,\\n\\n\\n\\nEmbora eu seja eternamente grato pela oportunidade que voc\u00ea me concedeu aqui, sinto que meu tempo no Pico Serrilhado foi em v\u00e3o. Encontrei um meio de usar o que nossos criadores nos deixaram para nos salvar. Os Guardi\u00f5es que vagam por aqui s\u00e3o espantosos e t\u00eam um poder inconceb\u00edvel. Pe\u00e7o sua permiss\u00e3o e ajuda para continuar minhas pesquisas aqui. Creio ser poss\u00edvel controlar esses \u00eddolos que protegem o Pico e empreg\u00e1-los na defesa de Nova C\u00f3rsega contra Crasso ou quem mais queira nos atacar. \\n\\nComo voc\u00ea sabe, eu sempre fui o mais talentoso dentre seus aprendizes. Sei que voc\u00ea ainda n\u00e3o viu em primeira m\u00e3o, mas essa descoberta pode trazer a paz para Nova C\u00f3rsega e encerrar os s\u00e9culos de guerra que nosso povo vem sofrendo. Tudo que pe\u00e7o \u00e9 que considere o brilhantismo de minha proposta. \\n\\nN\u00e3o quero nada al\u00e9m de sua confian\u00e7a e apoio para seguir com minhas descobertas. Tenho plena convic\u00e7\u00e3o de que voc\u00ea concordaria com a l\u00f3gica da minha an\u00e1lise. \\n\\nAguardo sua confirma\u00e7\u00e3o e as not\u00edcias de novos recursos para que eu possa provar meu brilhantismo a voc\u00ea. \\n\\n\\n\\nSeu humilde criado.\\n\\n\\n\\nPhilogus Nicabar"
-            },
-            "02": {
-              "title": "Proposta Recusada",
-              "subtitle": "Acampamento de Nicabar",
-              "body": "Meu brilhante Philogus Nicabar,\\n\\n\\n\\n\\n\\nJ\u00e1 discutimos isso antes. Tenho o maior respeito por sua intelig\u00eancia e, por isso, designei o Pico Serrilhado para voc\u00ea. Voc\u00ea recebeu uma rara oportunidade de desvendar os v\u00e1rios segredos que os criadores Anci\u00f5es deixaram para nosso povo. Mas de maneira alguma \u00e9 seu trabalho duvidar da vontade dos criadores. \\n\\nMesmo que isso fosse poss\u00edvel, seria necess\u00e1rio um conhecimento equipar\u00e1vel ao dos pr\u00f3prios Anci\u00f5es, algo que, apesar de sua intelig\u00eancia, voc\u00ea n\u00e3o tem. E, mesmo que tivesse, assumir o controle dos Guardi\u00f5es para nossos pr\u00f3prios fins seria um insulto ao brilhantismo do plano divino. \\n\\nSei que voc\u00ea \u00e9 inteligente e corajoso o suficiente para ser meus olhos e ouvidos no local de escava\u00e7\u00e3o no Pico Serrilhado, conforme minhas ordens. Caso eu esteja errado, sei que o oficial Barnabus precisa de um pesquisador para a equipe de seguran\u00e7a nos arredores da Zona Morta. Seria um prazer recomendar voc\u00ea para ele.\\n\\n\\n\\nBoa sorte em sua pesquisa,\\n\\n\\nSophos \u00c1tico"
-            }
-          }
-        },
-        "07": {
-          "name": "A Partida",
-          "entries": {
-            "01": {
-              "title": "Pergaminho de Papiro Antigo",
-              "subtitle": "Templo Anci\u00e3o",
-              "body": "Que se escreva, que se saiba... \\n\\nFalo agora \u00e0queles que se previu buscando sabedoria al\u00e9m de seu alcance: \\n\\nEscrevo em nome dos mist\u00e9rios todo-poderosos que minha exist\u00eancia trata de proteger. \\n\\nOs seres que voc\u00eas chamam de Anci\u00f5es, eu chamo de Mestres. A sabedoria deles vaticinou sobre voc\u00eas.\\n\\nSua chegada a este Templo aconteceu mediante a vontade deles. \\n\\nQue esta missiva informe a voc\u00eas tudo que seus Anci\u00f5es desejam que voc\u00eas saibam. \\n\\nAntes do nascimento de seus grandes imp\u00e9rios, antes que voc\u00eas concebessem impostores divinos para dar nome a estrelas, meus Mestres nadavam no imaterial entre todas as coisas. \\n\\nEles vagavam livremente pela terra, c\u00e9u e mares de todos os mundos e todos os tempos. \\n\\nToda a exist\u00eancia pertence a eles. \\n\\nEles sorriam ao ver sua ignor\u00e2ncia e simplicidade. Eles permitiram que voc\u00eas vivessem entre o esplendor deles. \\n\\nEles deram a voc\u00eas este mundo e toda a eternidade para prosperarem em um ber\u00e7o de vida. \\n\\nEles concederam presentes que seus olhos ignorantes nem s\u00e3o capazes de enxergar. \\n\\nAt\u00e9 mesmo o objeto mais mundano criado por eles tem capacidade para fins virtuosos ou perversos. \\n\\nPor um mil\u00eanio, meus Mestres andaram entre voc\u00eas para govern\u00e1-los, at\u00e9 que sua natureza simples n\u00e3o pudesse mais servir a eles nem os entreter. \\n\\nEm vez disso, seus Anci\u00f5es se tornaram a pr\u00f3pria Ahket... \\n\\nEles observam e esquadrinham a determina\u00e7\u00e3o da humanidade, e a sabedoria insond\u00e1vel deles julga seu progresso. \\n\\nEles esperam pacientemente que voc\u00eas fujam de sua inf\u00e2ncia e andem sobre duas pernas ou pronunciem sua primeira verdade.\\n\\nRezem para que, nesse tempo, voc\u00eas n\u00e3o se tornem feras convencidas e ins\u00edpidas, ou a f\u00faria deles ser\u00e1 cruel e r\u00e1pida. \\n\\n\\n\\n\\n\\nMedjay Akhar Rasul"
-            }
-          }
-        },
-        "08": {
-          "name": "Cavando na Lama",
-          "entries": {
-            "01": {
-              "title": "Anota\u00e7\u00f5es de Pesquisa de Marcella, P\u00e1gina 1",
-              "subtitle": "Caminho Anci\u00e3o",
-              "body": "Levante Anci\u00e3o: Dia 989 da Escava\u00e7\u00e3o: Relat\u00f3rio de Sophos Marcella\\n\\n\\n\\nRemover as ru\u00ednas deixadas por incont\u00e1veis cat\u00e1strofes, deslocamentos tect\u00f4nicos, entre outras ocorr\u00eancias, est\u00e1 sendo uma tarefa vagarosa, pelo menos no come\u00e7o. As descobertas que fizemos nos \u00faltimos tr\u00eas anos, aproximadamente, nos ajudaram a entender melhor os Anci\u00f5es, mas n\u00e3o da maneira que \u00c1tico ou eu esper\u00e1vamos ap\u00f3s tanto tempo de escava\u00e7\u00e3o. \\n\\n \\n\\nOs n\u00edveis superiores da Cidade, e mesmo o entorno do Templo em si, s\u00e3o relativamente indefesos e desprotegidos. A defesa pode ter sido destru\u00edda por fen\u00f4menos naturais ou tentativas alheias de ganhar acesso \u00e0 cidade e ao templo. O que me leva a crer que os verdadeiros segredos de Ahket e dos Anci\u00f5es est\u00e1 muito mais fundo neste local, al\u00e9m dos selos que descobrimos. A despeito do risco, precisamos ter acesso ao que est\u00e1 al\u00e9m deste territ\u00f3rio. \u00a0"
-            },
-            "02": {
-              "title": "Anota\u00e7\u00f5es de Pesquisa de Marcella, P\u00e1gina 2",
-              "subtitle": "\u00c1rea de Escava\u00e7\u00e3o Anci\u00e3",
-              "body": "Ascens\u00e3o do Anci\u00e3o: Dia 1.198 da Escava\u00e7\u00e3o: Relat\u00f3rio de Sophos Marcella \\n\\n\\n\\nSe as tabuletas que encontramos est\u00e3o corretas, os selos dos Anci\u00f5es atuam como uma porta para um dos santu\u00e1rios internos deles. Os selos protegem as muitas maravilhas dos Anci\u00f5es, magia e ci\u00eancia que n\u00e3o podemos nem conceber, contra a presen\u00e7a de quem n\u00e3o for digno de v\u00ea-las. Essas maravilhas est\u00e3o esperando h\u00e1 mil\u00eanios para serem descobertas por n\u00f3s, o povo escolhido de Nova C\u00f3rsega. S\u00e3o maravilhas deixadas para nos iluminar e nos colocar no caminho verdadeiro da sabedoria e da prosperidade. Ter acesso a esse conhecimento e provar as teorias de \u00c1tico ser\u00e3o as descobertas mais importantes de toda a nossa cultura."
-            },
-            "03": {
-              "title": "Anota\u00e7\u00f5es de Pesquisa de Marcella, P\u00e1gina 3",
-              "subtitle": "\u00c1rea de Escava\u00e7\u00e3o Anci\u00e3",
-              "body": "Levante Anci\u00e3o: Dia 1.230 da Escava\u00e7\u00e3o: Relat\u00f3rio de Sophos Marcella \\n\\n\\n\\n\\n\\nEu jamais consideraria fazer isso caso n\u00e3o tivesse plena convic\u00e7\u00e3o das teorias de \u00c1tico a respeito do direito inato de Nova C\u00f3rsega e de nosso lugar entre os seres Anci\u00f5es. As tabuletas que desenterramos e as marcas nesses selos parecem pressagiar algo, mas n\u00e3o tenho medo dessas previs\u00f5es. \\n\\n\\n\\nOs avisos a respeito de \u201cdespertar os Guardi\u00f5es\u201d n\u00e3o foram feitos para n\u00f3s. S\u00e3o apenas uma ferramenta com a qual nossos Criadores protegeram o direito inato de Nova C\u00f3rsega de quem tentou roub\u00e1-la. Estamos totalmente absolvidos de tais amea\u00e7as de puni\u00e7\u00e3o. Precisamos avan\u00e7ar agora. A mensagem dos Anci\u00f5es nos aguarda. Precisamos marchar sem hesita\u00e7\u00f5es, apesar do risco que corremos."
-            }
-          }
-        },
-        "09": {
-          "name": "Conhecimento Anci\u00e3o",
-          "entries": {
-            "01": {
-              "title": "Inscri\u00e7\u00e3o de Guardi\u00e3o Anci\u00e3o",
-              "subtitle": "Port\u00f5es de Ahket",
-              "body": "Que esta conquista maravilhosa dos Anci\u00f5es sirva de ponto de encontro para os que habitam o subterr\u00e2neo de Ahket e para os que chegaram \u00e0 superf\u00edcie. \\nQue sirva de ponto de conflu\u00eancia da mente, do esp\u00edrito, do corpo e do tempo, para todos que vieram antes e para os que vierem depois. \\n\\nCurve a cabe\u00e7a ao entrar, peregrino! Pois agora est\u00e1s banhado pela luz de Netjer.\\n\\n\\nSumo Sacerdote Abilil-Ilishu"
-            },
-            "02": {
-              "title": "Uma Aula sobre Servid\u00e3o",
-              "subtitle": "Port\u00f5es do Leste",
-              "body": "N\u00e3o admire as gl\u00f3rias do mundo material. Seus olhos s\u00e3o fr\u00e1geis e pertencem ao reino da carne.\\n\\n\\n\\n\\nN\u00e3o aprecie os feitos de almas imortais. Foi o des\u00edgnio dos Anci\u00f5es que tornaram nossas almas eternas.\\n\\n\\n\\n\\nN\u00e3o reze aos Anci\u00f5es para obter sabedoria. Saiba: a sabedoria \u00e9 a natureza deles; servi-los, a nossa.\\n\\n\\n\\n\\n\\n\\nSumo Sacerdote Abilil-Ilishu\\n\\n"
-            }
-          }
-        },
-        "10": {
-          "name": "O Cavaleiro",
-          "entries": {
-            "01": {
-              "title": "Inscri\u00e7\u00e3o em Barril de Vinho",
-              "subtitle": "Acampamento de Clermont",
-              "body": "Car\u00edssimo cavaleiro Clermont,\\n\\n\\nQue seu cora\u00e7\u00e3o seja sempre firme, como \u00e9 sua mira e sua espada, mon fr\u00e8re. Foi um prazer contar com seus servi\u00e7os.\\n\\nIsaac de Portau deseja comunicar que o elixir que voc\u00ea certamente h\u00e1 de degustar foi escolha dele.\\n\\nHenri d\u2019Aramitz n\u00e3o deseja nada em particular, exceto que voc\u00ea fuja dessa vida de cavalaria o mais r\u00e1pido poss\u00edvel.\\n\\nE, por fim e certamente menos importante, eu lhe desejo uma vida longa, muita sa\u00fade e que voc\u00ea nunca esmore\u00e7a nem perca seu \u00e2nimo como os supracitados j\u00e1 perderam.\\n\\nVoc\u00ea \u00e9 o melhor de n\u00f3s todos, Andr\u00e9, digo e repito.\\n\\nUm por todos, e todos por um!\\n\\n\\n\\nSeus irm\u00e3os de armas,\\n\\nArmand de Sillegue, Seigner d\u2019Athos et d\u2019Autevielle e os Insepar\u00e1veis"
-            },
-            "02": {
-              "title": "As \u00daltimas Palavras do Senhor de Artagna",
-              "subtitle": "\u00c1rvore Fantasma",
-              "body": "Meus caros irm\u00e3os, \\n\\nLamento que esta possa ser minha \u00faltima correspond\u00eancia com voc\u00eas. Lamento n\u00e3o ter a oportunidade de terminar minha vida ao lado de voc\u00eas. \\n\\nEsta \u00c1rvore Fantasma esquecida por Deus est\u00e1 cercada por incont\u00e1veis almas Perdidas, cada uma delas buscando a absolvi\u00e7\u00e3o de sua dor e sofrimento eternos. Temo que esta seja uma batalha que n\u00e3o possamos vencer. \\n\\nN\u00e3o \u00e9 o cansa\u00e7o f\u00edsico que me consome, meus amigos. \u00c9, isso sim, o fardo que levo na alma. \\n\\nEu me pego sentindo a falta de minha amada e de nossos alegres passeios pela costa da Gasconha. Lembro-me com nostalgia da felicidade que senti ao lutar ao lado dos Insepar\u00e1veis e de Clermont quando invadimos a Bastilha em nome de \u201cnosso\u201d Lu\u00eds! \\n\\nEste \u00e9 um mundo rico e fabuloso, mas n\u00e3o tem o que eu mais preciso.\\n\\nPosso sentir a tristeza e a saudade consumindo a minha alma a cada instante, a cada alma infeliz que eu extermino. Sinto que tenho pouco tempo antes que meu cora\u00e7\u00e3o se renda. \\n\\nAt\u00e9 l\u00e1, lutarei at\u00e9 meu \u00faltimo suspiro.\\n\\n\\n\\n\\n\\nUm por todos, e todos por um!\\n\\nSeu irm\u00e3o de armas, \\n\\nCharles de Batz-Castelmore, Sieur de Artagna"
-            }
-          }
-        },
-        "11": {
-          "name": "Nossos Criadores",
-          "entries": {
-            "01": {
-              "title": "A Disserta\u00e7\u00e3o de \u00c1tico",
-              "subtitle": "O\u00e1sis",
-              "body": "Cidad\u00e3os de Nova C\u00f3rsega, \\n\\n\u00a0 \\n\\nAp\u00f3s muita pesquisa e an\u00e1lise, cheguei \u00e0 conclus\u00e3o de que fomos trazidos aqui por um motivo. O ber\u00e7o da cultura dos Anci\u00f5es que nos cerca n\u00e3o foi um mero capricho do acaso. Foi o destino que nos guiou para c\u00e1. Foi o destino que deixou essas maravilhas diante de n\u00f3s. \\n\\n\u00a0 \\n\\nCom muita vigil\u00e2ncia e dedu\u00e7\u00e3o, determinei que esses Anci\u00f5es, embora atendam por muitos nomes e tenham muitas formas, s\u00e3o na verdade nossos criadores, os pr\u00f3prios deuses de Roma. Minha teoria, que estou em vias de comprovar, declara que os Anci\u00f5es nos trouxeram aqui para sermos o novo povo escolhido. \\n\\n\u00a0 \\n\\nNova C\u00f3rsega est\u00e1 \u00e0 beira de uma nova Era das Luzes. Acredito que nossos Criadores querem se comunicar conosco, querem nos ensinar, querem nos aben\u00e7oar com o conhecimento que t\u00eam para que possamos trazer a paz para este Novo Mundo tomado pelo caos. N\u00e3o acreditem apenas nas minhas palavras. Leiam a minha pesquisa e descubram a verdade por si pr\u00f3prios. \\n\\n\u00a0 \\n\\nCom virtude, \\n\\n\u00a0 \\n\\nSophos \u00c1tico"
-            }
-          }
-        },
-        "12": {
-          "name": "A Mant\u00edcora",
-          "entries": {
-            "01": {
-              "title": "Enigma Misterioso Gravado em Carapa\u00e7a",
-              "subtitle": "Cidadela Deserta",
-              "body": "Na espreita noite e dia.\\n\\nSempre o ca\u00e7ador, para presa n\u00e3o servia.\\n\\nDormir ou virar a cara \u00e9 uma ousadia.\\n\\nO veneno vem, a decad\u00eancia trazia. \\n\\nPele enrugada, t\u00e3o cinza e fria.\\n\\nQuando atacar\u00e1? Ningu\u00e9m sabia."
-            },
-            "02": {
-              "title": "A Conclus\u00e3o do Enigma",
-              "subtitle": "Cidadela Deserta",
-              "body": "A terra \u00e9 vermelha, branca \u00e9 a fortifica\u00e7\u00e3o,\\n\\nUma pilha de cad\u00e1veres do teto at\u00e9 o ch\u00e3o\\n\\nSem plano n\u00e3o h\u00e1 como derrotar n\u00e3o.\\n\\nEspada e escudo \u00e9 melhor estarem \u00e0 m\u00e3o.\\n\\nMatando bravos her\u00f3is de hora em hora,\\n\\nSalve, salve, a Mant\u00edcora vem agora."
             }
           }
         }
@@ -5169,6 +5103,178 @@
               "title": "A Caixa",
               "subtitle": "Encontrado nas Profundezas",
               "body": "**Um desenho de uma caixa selada est\u00e1 todo rabiscado, num tra\u00e7o furioso, com frases repetidas cujo significado voc\u00ea desconhece.**\\n\\nMIMA PAD EFITWEK MAH AMBI! ERUWE\u00d1 PI\u00d1AB AXO! MIMA PAD EFITWEK MAH AMBI! ERUWE\u00d1 PI\u00d1AB AXO!"
+            }
+          }
+        },
+        "06": {
+          "name": "Cora\u00e7\u00e3o da Tempestade",
+          "entries": {
+            "01": {
+              "title": "Irm\u00e3os N\u00e3o Confi\u00e1veis",
+              "subtitle": "Encontrado no Cora\u00e7\u00e3o da Tempestade",
+              "body": "Philip e Cosimo me desapontaram. Eles desapontaram a M\u00e3e e o Pai, assim como desperdi\u00e7aram nossa fortuna e nossas conex\u00f5es. Agora cabe a mim salvar esta fam\u00edlia.\\n\\nN\u00e3o h\u00e1 mais ningu\u00e9m em quem eu possa confiar, a n\u00e3o ser eu mesma, e agora sei que isso \u00e9 verdade.\\n\\nCapit\u00e3 Isabella"
+            },
+            "02": {
+              "title": "A Oferenda da Ma\u00e7\u00e3",
+              "subtitle": "Encontrado no Cora\u00e7\u00e3o da Tempestade",
+              "body": "O fasc\u00ednio pelo poder e pelo conhecimento sempre foi muito atraente. Assim como os primeiros humanos ca\u00edram em tenta\u00e7\u00e3o, Isabella De Leon tamb\u00e9m cair\u00e1.\\n\\nVou oferecer a ela o que ela n\u00e3o pode recusar: uma chance de trazer o nome De Leon \u00e0 gl\u00f3ria novamente. Ela n\u00e3o se importar\u00e1 com o custo deste presente, n\u00e3o at\u00e9 que seja tarde demais."
+            },
+            "03": {
+              "title": "A Fonte do Herege",
+              "subtitle": "Encontrado no Cora\u00e7\u00e3o da Tempestade",
+              "body": "Eles me chamam de Herege, mas n\u00e3o sou de uma natureza singular.\\n\\nHouve incont\u00e1veis Hereges antes de mim, e haver\u00e1 incont\u00e1veis mais depois de mim.\\n\\nNedenyek busca seu pr\u00f3ximo recipiente digno, um de cora\u00e7\u00e3o despeda\u00e7ado e sonhos despeda\u00e7ados. Ele est\u00e1 por perto, sinto o cheiro dele."
+            },
+            "04": {
+              "title": "Padre Russo e Isabella",
+              "subtitle": "Encontrado no Cora\u00e7\u00e3o da Tempestade",
+              "body": "Minha querida,\\n\\nEstava disposto a descer at\u00e9 as profundezas do pr\u00f3prio inferno para salv\u00e1-la, mas sua alma j\u00e1 foi capturada h\u00e1 muito tempo. Eu teria lutado com o pr\u00f3prio diabo, envergonhado o velho L\u00facifer, mas o que se esconde em sua mente \u00e9 mais forte do que qualquer dem\u00f4nio que j\u00e1 encontrei em minha vida de batina. Eu teria desistido daquela vida para ser seu marido, mas agora vejo que voc\u00ea tem o mesmo pensamento e um \u00fanico prop\u00f3sito: a restaura\u00e7\u00e3o do nome de sua fam\u00edlia.\\n\\nMeu maior lamento \u00e9 n\u00e3o ter podido salv\u00e1-la. Meu cora\u00e7\u00e3o est\u00e1 despeda\u00e7ado como a montanha no c\u00e9u. Temo que logo as trevas me alcancem, e s\u00f3 espero que meus \u00faltimos pensamentos sejam sobre voc\u00ea, Isabella.\\n\\nCom amor, \\nRusso"
+            }
+          }
+        }
+      }
+    },
+    "VarangianKnights": {
+      "chapters": {
+        "01": {
+          "name": "Rosa Tenaz",
+          "entries": {
+            "01": {
+              "title": "Ordens de Attalus",
+              "subtitle": "Um pergaminho oficial, selado e carimbado com uma ins\u00edgnia desconhecida",
+              "body": "Sir Ulfar,\\n\\nEu te concedo ordens e boas novas de gl\u00f3ria sombria. Doravante te encarrego de tomar a Torre de Menagem do Estreito de Pedra a todo custo. Forme uma base para campanhas futuras.\\n\\nSir Rulav deve permanecer no acampamento na praia para coordenar a chegada de novas for\u00e7as. Ele \u00e9 a chave para esta iniciativa inteira, embora s\u00f3 ele esteja a par dos pormenores.\\n\\nChegarei em breve. Espero encontrar uma torre de menagem bem guarnecida. A falha \u00e9 o \u00fanico pecado, e logo serei seu mais devoto confessor. Somos os Varikulaki. Somos os punhos Dele.\\n\\nPela gl\u00f3ria de Iznovgorod!\\n\\nLorde Comandante Attalus"
+            }
+          }
+        },
+        "02": {
+          "name": "Amea\u00e7a de Longe",
+          "entries": {
+            "01": {
+              "title": "Relat\u00f3rio da Batedora",
+              "subtitle": "Um relat\u00f3rio de uma batedora de Primeira Luz, com respingos de sangue",
+              "body": "Sobrevivencialista Riches,\\n\\nEles me perseguiram. Quase n\u00e3o escapei.\\n\\nSuas vis\u00f5es de navios e cavaleiros sombrios se comprovaram. Guerreiros de armadura infestam estas terras com algum prop\u00f3sito funesto em nome de algum Lorde Comandante.\\n\\nEsses \u201cVarangianos\u201d s\u00e3o a encarna\u00e7\u00e3o da brutalidade. Fui capturada e torturada. Os m\u00e9todos deles... por Deus...\\n\\nO dem\u00f4nio brutamontes chamado Sir Rulav foi o pior de todos. A risada dele vai me assombrar como um espectro.\\n\\nA viol\u00eancia contra minha carne me rasgou at\u00e9 alma. Sinto minha ess\u00eancia se esvair aos peda\u00e7os. N\u00e3o vai demorar at\u00e9 que eu me junte aos Perdidos.\\n\\nTentei falar nomes conhecidos, e s\u00f3 ouvi gemidos...\\n\\nSe realmente meu destino for a dana\u00e7\u00e3o do purgat\u00f3rio, espero que algum fragmento da minha vida ao seu servi\u00e7o ecoe na minha mente e cora\u00e7\u00e3o frios.\\n\\nSemper Servus,\\n\\nBatedora Desd\u00eamona"
+            }
+          }
+        },
+        "03": {
+          "name": "Sir Rulav, o Jovial, Acampamento de Guerra de Porta Maris",
+          "entries": {
+            "01": {
+              "title": "Uma Conquista F\u00e1cil",
+              "subtitle": "Carta a Sir Bertram",
+              "body": "\u00d3 Luminoso, \\n\\nOs guerreiros nestas terras ficaram mansos desde a \u00faltima vez que viemos aqui. Esses covardes n\u00e3o s\u00e3o cavaleiros de verdade. Suas armas s\u00e3o quebradi\u00e7as, as armaduras s\u00e3o inferiores e sua habilidade com as armas \u00e9 ris\u00edvel. Teremos poucos problemas para tomar estas terras dos homens que as det\u00eam. \\n\\nMas a Doen\u00e7a Carmesim persiste e as sombras inquietas dos mortos existem em vastos n\u00fameros. Para enfrentarmos esses desafios de forma efetiva, precisamos descobrir e dominar os segredos de Myrddin. O Lorde Comandante me garante que estamos pr\u00f3ximos de descobrir o covil do velho feiticeiro. A sabedoria de Kari nos foi muito ben\u00e9fica nessa quest\u00e3o. \\n\\nLogo vamos nos reunir, meu amado. Anseio por te ter em meus bra\u00e7os e sentir sua respira\u00e7\u00e3o calorosa em meu rosto. Faremos nosso novo lar aqui. Estou de olho em algumas posses. Decidiremos juntos o que ser\u00e1 nosso. \\n\\nAt\u00e9 l\u00e1, sonharei com voc\u00ea e me lembrarei do gosto inebriante de seus l\u00e1bios. \\n\\nSir Rulav \u00a0"
+            },
+            "02": {
+              "title": "Ordens de Interrogat\u00f3rio",
+              "subtitle": "N\u00e3o Tenham Miseric\u00f3rdia",
+              "body": "O Lorde Comandante foi muito claro quanto ao tratamento dos prisioneiros. Qualquer pessoa capturada por nossas tropas deve ser interrogada usando os m\u00e9todos mais extremos dispon\u00edveis. N\u00e3o deve haver considera\u00e7\u00e3o quanto \u00e0 idade, sexo ou ocupa\u00e7\u00e3o do prisioneiro. Se o prisioneiro n\u00e3o tiver revelado nada ap\u00f3s o interrogat\u00f3rio, ele deve ser executado imediatamente e seu corpo, queimado. \\n\\nEssas medidas podem parecer cru\u00e9is, mas a urg\u00eancia de nossa tarefa n\u00e3o exige nada menos que isso. A paz reinar\u00e1 quando tivermos atendido os desejos de nosso Grande Senhor. \u00c9 Ele que concede miseric\u00f3rdia, que cura e une. \\n\\nSomos os Varikulaki e obedecemos \u00e0 vontade d\u2019Ele em todas as coisas. \\n\\nSir Rulav"
+            },
+            "03": {
+              "title": "Itens Diversos",
+              "subtitle": "Lista de Suprimento do Acampamento de Guerra",
+              "body": "cevada, 8 sacos \\n\\nfarinha, 6 sacos \\n\\nporco marinado, 5 barris \\n\\ncerveja, 12 barris \\n\\n\u00e1gua, 8 barris \\n\\ncorda, 400 p\u00e9s \\n\\ntenazes de ferro, 4 pares \\n\\nfoles, 2 \\n\\nti\u00e7\u00f5es de ferro, 6 \\n\\npat\u00edbulos, 4 \\n\\nperas da ang\u00fastia, 3 \\n\\ncoleira com espinhos, 6 \\n\\ncaix\u00f5es, 8"
+            }
+          }
+        },
+        "04": {
+          "name": "Sir Ulfar, a Muralha, Torre de Menagem do Estreito de Pedra",
+          "entries": {
+            "01": {
+              "title": "Uma Quest\u00e3o de Honra",
+              "subtitle": "Um Acontecimento Promissor",
+              "body": "\u00c0 minha virtuosa, adorada e bem-amada m\u00e3e,\\n\\n\\nSou grato por sua orienta\u00e7\u00e3o e levei a s\u00e9rio suas s\u00e1bias palavras. Mas temo que as circunst\u00e2ncias atuais n\u00e3o me permitam agir conforme seu conselho. No momento, nosso Lorde Comandante favorece Sir Rulav. Os dois t\u00eam um la\u00e7o forte pelo papel que tiveram em garantir a ascens\u00e3o de Iznovgorod. Esse v\u00ednculo faria uma peti\u00e7\u00e3o minha por uma promo\u00e7\u00e3o cair em ouvidos moucos.\\n\\n\\nMas a sorte sorriu para este filho seu. Fui encarregado do comando de uma fortaleza fundamental para garantir nossa posi\u00e7\u00e3o aqui. Creio que tal indica\u00e7\u00e3o demonstre que minha hora pode chegar em breve. Rulav \u00e9 um advers\u00e1rio formid\u00e1vel em campo; portanto, um desafio direto seria temer\u00e1rio. Em vez disso, farei como meu virtuoso, nobre e valoroso pai sempre aconselhou e esperar o momento adequado. Saberei malhar o ferro quando ele estiver quente.\\n\\n\\nPermane\u00e7o seu devoto e amoroso filho.\\nSir Ulfar"
+            },
+            "02": {
+              "title": "Uma Invoca\u00e7\u00e3o Sombria",
+              "subtitle": "Prote\u00e7\u00e3o contra o Mal",
+              "body": "Te suplico, M\u00e3e da Noite, que me guarde do mal e me conceda a vit\u00f3ria em campo. Pe\u00e7o que estilhace as l\u00e2minas dos meus inimigos, rache seus escudos, enfraque\u00e7a seus membros e cegue seus olhos. Para esse pedido, Senhora Sombria, ofere\u00e7o o sangue dos meus inimigos como sua liba\u00e7\u00e3o sagrada. Seja benevolente e prop\u00edcia, e me proteja em sua eterna sombra."
+            },
+            "03": {
+              "title": "O Trovador",
+              "subtitle": "Meu Jardim",
+              "body": "Como meus talentos s\u00e3o desperdi\u00e7ados neste trabalho indigno e bruto de a\u00e7ougueiro! \u00c9 minha a gra\u00e7a da sutil arte da espada, n\u00e3o dos cortes de m\u00e3o pesada. \u00c9 meu o \u00eaxtase da escrita, n\u00e3o esta tortura maquinal e grosseira. Ah, muito bem. Tudo pela gl\u00f3ria maior. \\n\\nRealmente sou um guerreiro, mas me considero parte da ancestral tradi\u00e7\u00e3o do cavaleiro trovador. Portanto, devo escrever para manter a mente afiada durante essa estagna\u00e7\u00e3o sangrenta. \\n\\nEm meia hora, devo rasgar a carne de um patife at\u00e9 que ele revele a verdade. Mas, por ora, vou experimentar compor uma estrofe rom\u00e2ntica. \\n\\nMEU JARDIM\\nAntes de ti, minh'alma era um jardim cheio de pragas.\\nAntes de ti, o amor era um cemit\u00e9rio de m\u00e1goas.\\nMas agora teu nome traz alegria ao sofrer.\\nTeu nome, quando dito, faz meu jardim florescer.\\nPor ti, donzela de bonan\u00e7a,\\nRego meu jardim com o vinho da matan\u00e7a.\\nRomance pela espada,\\nMeus inimigos ela cala.\\nSussurro teu nome em cada ouvido que vai \u00e0 vala.\\nE assim tu assombras dos mortos a audi\u00e7\u00e3o.\\nComo o mar sobre a concha, na arrebenta\u00e7\u00e3o. \\n\\nRealmente creio que esse seja o melhor poema que j\u00e1 fiz.\\n\\nSir Ozur\u00a0 "
+            }
+          }
+        },
+        "05": {
+          "name": "Sir Frelav, a Chama, Acampamento de Guerra das Torres",
+          "entries": {
+            "01": {
+              "title": "Um Cavaleiro Comum",
+              "subtitle": "Conquistador da Lama",
+              "body": "Requisitei uma p\u00e1 nova. De novo. Logo estarei cavando apenas com um graveto. \u00c9 essa minha situa\u00e7\u00e3o agora, desenterrar coisas devoradas por vermes ou cavar um buraco para colocar coisas que os vermes v\u00e3o comer. \\n\\nUma alma precisa de um bom confessor, seja um camarada de confian\u00e7a, seja um bom bartender. Sem ter nenhum dos dois, pratico minhas cartas para manter a cabe\u00e7a no lugar. No povoado de onde eu vim, zombavam de mim por escrever cartas decentes. Dei um bom jeito na cabe\u00e7a deles. \\n\\nTodos os cavaleiros ricos continuam jogando seu xadrez l\u00e1 em cima. Rulav e Ulfar se estranham, disputando uma gota do amor de Attalus. Ele, por sua vez, deseja nosso Senhor e Mestre. Mas todo o trabalho duro sobra para n\u00f3s, soldados de infantaria comuns. \\n\\nAgora s\u00f3 se fala em encontrar rel\u00edquias malditas e quinquilharias m\u00edsticas. Esses cavaleiros briguentos salivam com a possibilidade de encontrar tais coisas, como c\u00e3es famintos. Vamos atr\u00e1s de rumores sobre as idas e vindas de m\u00e1gicos e conjuradores. \\n\\nJ\u00e1 desenterrei coisas que poderiam semear loucura na sua cabe\u00e7a. Mas n\u00e3o tenho tempo para essa podrid\u00e3o. Continuo cavando. Sou o conquistador da lama. "
+            },
+            "02": {
+              "title": "Maravilhas de uma Nova Terra",
+              "subtitle": "Uma Oportunidade",
+              "body": "Viemos a esta terra para conquistar, mas \u00e9 s\u00e1bio observar quem conquistamos. Os costumes, vestu\u00e1rios e dizeres s\u00e3o de uma mistura estranha. Alguns s\u00e3o ex\u00f3ticos. Outros s\u00e3o familiares. Os rumores entre as patentes mais baixas chegam at\u00e9 a afirmar que aqui foi outrora nosso lar. O Lorde Comandante ordenou que tal assunto caia no sil\u00eancio. \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \\n\\nOnde outros veem inquieta\u00e7\u00e3o, eu vejo oportunidade. Com uma variedade t\u00e3o rica \u00e0 nossa volta, podemos escolher o que vamos absorver em nossa pr\u00f3pria cultura e assim nos fortalecer. Na verdade, cheguei a essa conclus\u00e3o com um soldado que derrotei em combate. Ele portava um arcabuz magn\u00edfico. Ouso dizer que era superior a nossas pr\u00f3prias armas de fogo. H\u00e1 muita coisa para aprendermos aqui. \u00a0\u00a0 \\n\\nSir Yasen "
+            },
+            "03": {
+              "title": "Um Desafio Formal",
+              "subtitle": "Julgamento por Combate",
+              "body": "Sir Vadislav, \\n\\nPela lei varangiana e pelos ritos do Lorde Varik, por meio desta te desafio formalmente para um combate ritual. \\n\\nH\u00e1 muito tempo suporto os milhares de pequenos ferimentos que me causou, mas agora voc\u00ea se arriscou a me insultar e terei minha retrata\u00e7\u00e3o. Se houver coragem em seu cora\u00e7\u00e3o compar\u00e1vel ao veneno em suas palavras, voc\u00ea ir\u00e1 ao local de nosso desembarque dentro de tr\u00eas dias para responder a este desafio. Do contr\u00e1rio, voc\u00ea renunciar\u00e1 ao seu valor e lugar em nossa ordem, pela lei de Lorde Varik. \\n\\nPelo sangue nosso, pela medula e pelo osso, te desafio. O a\u00e7o \u00e9 o \u00fanico sacramento. A vit\u00f3ria \u00e9 o \u00fanico deus. \\n\\nLouvado sempre seja Iznovgorod. Louvado sempre seja o Martelo. \\n\\nAguardando \u00e0 sua conveni\u00eancia, \\n\\nSir Anton "
+            }
+          }
+        }
+      }
+    },
+    "HouseofGiacomo": {
+      "chapters": {
+        "01": {
+          "name": "Futuros de Aeternum",
+          "entries": {
+            "01": {
+              "title": "O Caminho do Traidor",
+              "subtitle": "Papel de celulose bruta, descartado perto de um acampamento",
+              "body": "H\u00e1 muitos olhos no assentamento, muitos que podem conhec\u00ea-lo. Preciso de tempo para entender o que as notas desse idiota ing\u00eanuo querem dizer. Se ele estava certo, governaremos como reis nesta ilha!\\nEstou seguindo adiante para deixar tudo pronto. Espere algumas horas e depois siga para o segundo acampamento. Vou deixar mais instru\u00e7\u00f5es para voc\u00ea l\u00e1."
+            },
+            "02": {
+              "title": "Gan\u00e2ncia Ardente",
+              "subtitle": "Um peda\u00e7o de papel parcialmente queimado",
+              "body": "......................quele tolo pensou que poderia.......... poder dos\\nAnci\u00f5es, .... acho que estava tramando alguma coisa. S\u00f3 precisamos fica......\\ndele, ............... detalhes e obter o ........ constru\u00eddo com pedras. Uma vez\\nque todos saibam que estamos... que pode fornecer seguran\u00e7a, ..........\\nse vir\u00e3o a n\u00f3s: ouro, Azoth, mulheres, poder... tudo\\n... nosso! Encontre-me no acampamento perto do Desfiladeiro Chason, vamos nos dividir...\\n......... planejar nosso pr\u00f3ximo movimento."
+            },
+            "03": {
+              "title": "Defesa Contra os Definhados",
+              "subtitle": "Das notas de Albert Riches, Primeira Luz",
+              "body": "- 2 partes de \u00e1gua de uma fonte fluente\\n- 1 osso mo\u00eddo de Definhado\\n- 3 pitadas de areia da praia\\n- Freixos de 1 t\u00e1bua longa de conv\u00e9s (cedro)\\n- 1 ramo de hissopo\\n- 2 frascos de sangue de Definhado\\n- 2 pitadas de prata em p\u00f3"
+            },
+            "04": {
+              "title": "Vozes ao Vento",
+              "subtitle": "Uma carta escrita com caligrafia grosseira, de uma tenda no Acampamento de Minera\u00e7\u00e3o de Passagem Suspensa",
+              "body": "Cheguei aqui ontem, Airic disse que este lugar tinha o que era necess\u00e1rio para o plano. Com tudo que estamos coletando, acho que precisaremos aumentar o custo para ficar em um de nossos pequenos esconderijos... talvez pud\u00e9ssemos at\u00e9 cobrar Azoth! N\u00e3o seria incr\u00edvel?! Em alguns anos, precisaremos encontrar lugares para guardar tudo o que ganharmos!\\nVou para as cavernas amanh\u00e3, agora vou descansar um pouco. Que estranho... n\u00e3o h\u00e1 ningu\u00e9m por perto, mas eu ou\u00e7o vozes. Sussurros. Deve ser o vento vindo pelos penhascos.\\n\\n...\\n\\nAquelas malditas criaturas quase arrancaram meu p\u00e9! J\u00e1 fiz alguns curativos, mas vou ficar um pouco preso aqui. S\u00f3 vou descansar, ouvir as vozes ao vento."
+            },
+            "05": {
+              "title": "Perseguindo os Anci\u00f5es",
+              "subtitle": "Uma p\u00e1gina solta de um di\u00e1rio, encontrada perto de um acampamento em Sunadire",
+              "body": "S\u00f3 falta uma pe\u00e7a e estarei pronto. Ichor e \u00e1gua, s\u00f3 preciso de algumas daquelas pedras... e ent\u00e3o estarei pronto. N\u00e3o tive not\u00edcia dos outros, nenhuma mensagem em lugar nenhum. Acho que isso significa que n\u00e3o preciso compartilhar!\\nVou para Grus amanh\u00e3, devo encontrar o que preciso l\u00e1, ent\u00e3o continuo para o norte. Talvez ficar longe dessas ru\u00ednas fa\u00e7a esse zumbido parar..."
+            }
+          }
+        }
+      }
+    },
+    "KubikirisBurden": {
+      "chapters": {
+        "01": {
+          "name": "Sensou no Ko",
+          "entries": {
+            "01": {
+              "title": "Ocupa\u00e7\u00e3o de Kubikiri",
+              "subtitle": "Kubikiri no velho mundo.",
+              "body": "Aqui deixo o \u00faltimo testamento de Kubikiri, o Limite do Mundo, e Sensou no Ko, o Machado demon\u00edaco.\\nOro para que preste aten\u00e7\u00e3o \u00e0 minha triste hist\u00f3ria e fique longe da l\u00e2mina amaldi\u00e7oada e nunca a busque!"
+            },
+            "02": {
+              "title": "Ascens\u00e3o de Kubikiri",
+              "subtitle": "A ascens\u00e3o de Kubikiri ao executor real.",
+              "body": "Quando era jovem, deixei minha inf\u00e2ncia como couteiro para seguir o caminho de me tornar um carrasco. Fui eficiente e asseado, como s\u00e3o os bons carrascos, e logo meus talentos foram reconhecidos.\\nRecebi um presente! Um distintivo de of\u00edcio.\\n\\nAi de mim, Sensou no Ko, o machado do lend\u00e1rio carrasco foi concedido a mim.\\nE assim, minha maldi\u00e7\u00e3o fez efeito."
+            },
+            "03": {
+              "title": "Queda de Kubikiri",
+              "subtitle": "O kami entra na mente de Kubikiri.",
+              "body": "O machado era mais do que um distintivo, ou mesmo uma ferramenta. O machado esconde dentro dele um dem\u00f4nio!\\nO kami se agitou assim que eu segurei a coisa, me encheu com uma for\u00e7a que nunca senti antes!\\nFui surpreendido por um orgulho incandescente e um terr\u00edvel sede de sangue.\\nLogo meus deveres n\u00e3o eram mais suficientes, e o kami Sensou no Ko, aquela l\u00e2mina demon\u00edaca, me levou a matar todos eles!\\nFugi para o mar, me escondendo em um navio mercante, mas nunca pude escapar do destino.\\nEle me trouxe aqui, para meu castigo."
+            },
+            "04": {
+              "title": "O Apelo de Kubikiri",
+              "subtitle": "Onde Kubikiri implora para ser liberto.",
+              "body": "Eu nem sinto mais os olhos dos meus ancestrais sobre mim, todos se viraram.\\nOs choros, os gritos, as v\u00edtimas de Sensou no Ko clamam em minha cabe\u00e7a.\\nO pior, por\u00e9m, \u00e9 sua fome.\\n\\nMesmo matar n\u00e3o o acalma mais, essas almas ocas dificilmente contam como mortes para a l\u00e2mina do dem\u00f4nio.\\nLogo, eu acredito que vai se voltar contra mim para se sustentar.\\n\\nA esta altura, eu n\u00e3o recusaria."
             }
           }
         }
