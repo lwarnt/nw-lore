@@ -1,3 +1,5 @@
+> **_NOTE:_**  I will no longer maintain this repository.
+
 The goal of this resource is to benefit the New World community by 
 
 * making it easier to create [Community Projects][ags-tos] 
